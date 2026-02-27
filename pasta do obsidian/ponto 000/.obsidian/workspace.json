@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aa701a36ad0404fa",
+        "id": "ff94976c2923f35a",
         "type": "tabs",
         "children": [
           {
-            "id": "c504851eb3ccdeed",
+            "id": "e4b2d2cc3fcc2a41",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "📸 Fotografia/Era da Fotografia Química.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Era da Fotografia Química"
             }
           }
         ]
@@ -176,7 +180,7 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "c504851eb3ccdeed",
+  "active": "e4b2d2cc3fcc2a41",
   "lastOpenFiles": [
     "VINICIUS RAFAEL - Meu universo.md"
   ]
