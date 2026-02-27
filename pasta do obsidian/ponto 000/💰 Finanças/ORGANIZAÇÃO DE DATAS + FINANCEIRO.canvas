@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"d78eb56c11f91306","type":"text","text":"11.09 - cirurgia do ciso","x":-1206,"y":-472,"width":340,"height":50},
+		{"id":"09117b19ef369e32","type":"text","text":"PIX","x":-693,"y":-55,"width":105,"height":60},
+		{"id":"145311118533b511","type":"text","text":"CEDULA","x":-81,"y":-55,"width":180,"height":60},
+		{"id":"6c1abac99efe4ea4","type":"text","text":"18,85","x":-57,"y":5,"width":132,"height":60},
+		{"id":"00ab6c996d291672","type":"text","text":"A RECEBER","x":111,"y":-55,"width":200,"height":60},
+		{"id":"1bf017b8acea5d20","type":"text","text":"900,00","x":139,"y":5,"width":144,"height":60},
+		{"id":"a97efcc6381aef85","type":"text","text":"3.499,15","x":-851,"y":25,"width":148,"height":60},
+		{"id":"a6bb07d86f0b7d38","x":-840,"y":-55,"width":126,"height":60,"type":"text","text":"sicoob"},
+		{"id":"3ac217f264920948","type":"text","text":"LIMITE CARTÃO = 1.600,00\n","x":-1240,"y":-55,"width":374,"height":60},
+		{"id":"ccb76a22168c3149","x":-984,"y":100,"width":415,"height":60,"type":"text","text":"fatura mês de agosto = 671,47"},
+		{"id":"44f73981eb49ff35","type":"text","text":"21.09 evento fotop\n","x":-1180,"y":-400,"width":288,"height":52},
+		{"id":"e9f1c88023917760","type":"text","text":"setembro","x":-1134,"y":-560,"width":197,"height":60},
+		{"id":"fbb33c72f396df03","type":"text","text":"datas ","x":-1161,"y":-660,"width":250,"height":60},
+		{"id":"2fb8b4d5dcdf8434","type":"text","text":"grana","x":-341,"y":-220,"width":140,"height":60},
+		{"id":"2ed85b0ca42f2a57","x":-487,"y":-55,"width":232,"height":60,"type":"text","text":"Mercado pago"},
+		{"id":"4b1dd20741f6c208","x":-452,"y":100,"width":591,"height":400,"color":"3","type":"text","text":" ==1 - Trabalhos: 280,00==\n ~~2 - Anhanguera: 139,90 x 2 = 279,80~~\n ~~3 - Coisa de Fotografa : 211,13 x 2 = 422,26~~\n 4 - spotify \n **5 - kiwify - instatemplate: 43,89 x 3 = 131,67**\n **6 - kiwify - alpha bot pro: 32,09 x 3 = 96,27**\n ~~**mei: 81,90 x 3 = 245,70**~~"}
+	],
+	"edges":[
+		{"id":"f67f93d59dfc2de9","fromNode":"e9f1c88023917760","fromSide":"bottom","toNode":"d78eb56c11f91306","toSide":"top"},
+		{"id":"3540a8e541a59a30","fromNode":"d78eb56c11f91306","fromSide":"bottom","toNode":"44f73981eb49ff35","toSide":"top"},
+		{"id":"abbf8c67b16e73bf","fromNode":"2fb8b4d5dcdf8434","fromSide":"left","toNode":"09117b19ef369e32","toSide":"top"},
+		{"id":"304a804169fd00f6","fromNode":"145311118533b511","fromSide":"bottom","toNode":"6c1abac99efe4ea4","toSide":"top"},
+		{"id":"2ae26df9ee36491e","fromNode":"00ab6c996d291672","fromSide":"bottom","toNode":"1bf017b8acea5d20","toSide":"top"},
+		{"id":"fce21857e2fc5882","fromNode":"2fb8b4d5dcdf8434","fromSide":"right","toNode":"00ab6c996d291672","toSide":"top"},
+		{"id":"76684d99c071f4dc","fromNode":"2fb8b4d5dcdf8434","fromSide":"right","toNode":"145311118533b511","toSide":"top"},
+		{"id":"dd3c667f7bb97290","fromNode":"09117b19ef369e32","fromSide":"left","toNode":"a6bb07d86f0b7d38","toSide":"right"},
+		{"id":"3e5cc1f8dcf44c95","fromNode":"09117b19ef369e32","fromSide":"right","toNode":"2ed85b0ca42f2a57","toSide":"left"},
+		{"id":"bf24c27ef189d544","fromNode":"2ed85b0ca42f2a57","fromSide":"bottom","toNode":"4b1dd20741f6c208","toSide":"top"},
+		{"id":"5ba4ebbe75b24704","fromNode":"fbb33c72f396df03","fromSide":"bottom","toNode":"e9f1c88023917760","toSide":"top"},
+		{"id":"d34e2fba57bc712a","fromNode":"a6bb07d86f0b7d38","fromSide":"left","toNode":"3ac217f264920948","toSide":"right"},
+		{"id":"a07b4c5b977d5030","fromNode":"a97efcc6381aef85","fromSide":"bottom","toNode":"ccb76a22168c3149","toSide":"top"},
+		{"id":"18e03e4bef93e51e","fromNode":"a6bb07d86f0b7d38","fromSide":"bottom","toNode":"a97efcc6381aef85","toSide":"bottom"}
+	]
+}

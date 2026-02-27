@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"20c7fa9be74245ba","x":-722,"y":-666,"width":250,"height":60,"type":"text","text":""},
+		{"id":"56755305974ecf0c","type":"text","text":"Mercado Pago ","x":-1540,"y":-960,"width":250,"height":60},
+		{"id":"1b48067e07657697","type":"text","text":"Notas Emitidas","x":460,"y":-960,"width":250,"height":60},
+		{"id":"fa05ece5f8157353","type":"text","text":"Parcelas do Cartão de Crédito","x":-380,"y":-958,"width":402,"height":58},
+		{"id":"e11dcd25f92c16f9","type":"text","text":"Sicoob","x":-920,"y":-960,"width":140,"height":60}
+	],
+	"edges":[
+		{"id":"f70e378b537c3dd7","fromNode":"e11dcd25f92c16f9","fromSide":"right","toNode":"fa05ece5f8157353","toSide":"left"},
+		{"id":"c49daed7fa4dfab9","fromNode":"e11dcd25f92c16f9","fromSide":"left","toNode":"56755305974ecf0c","toSide":"right"},
+		{"id":"a162c30e23457dc7","fromNode":"fa05ece5f8157353","fromSide":"right","toNode":"1b48067e07657697","toSide":"left"}
+	]
+}

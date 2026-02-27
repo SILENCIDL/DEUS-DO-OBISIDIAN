@@ -1,0 +1,7 @@
+Categoria: [[INSTAGRAM - Minha vitrine visual]]
+
+
+[[LINGUAGEM DO MERCADO]]
+
+[[CRIATIVOS (ANUNCIOS)]]
+[[PLANEJAMENTO DE ANUNCIOS (CRIATIVOS)]]

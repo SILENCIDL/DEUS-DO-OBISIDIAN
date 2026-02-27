@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {"id": "titulo", "type": "text", "x": 400, "y": -500, "width": 500, "height": 80, "color": "1", "text": "# 📕 MATEMÁTICA — Perguntas e Análise\n**Registre suas respostas e analise seu desempenho**"},
+    {"id": "link-materia", "type": "file", "x": 400, "y": -400, "width": 500, "height": 50, "file": "ENEM - Matemática.md"},
+    {"id": "porcent-titulo", "type": "text", "x": -200, "y": -280, "width": 350, "height": 50, "color": "6", "text": "### 1. Porcentagem e Juros"},
+    {"id": "porcent-link", "type": "file", "x": -200, "y": -220, "width": 350, "height": 40, "file": "ENEM - MAT - Porcentagem e Juros.md"},
+    {"id": "porcent-q1", "type": "text", "x": -200, "y": -160, "width": 350, "height": 120, "text": "**Q1**: 30% de 500 é:\n\n⬜ A) 100\n⬜ B) 150\n⬜ C) 200\n⬜ D) 250\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "porcent-q2", "type": "text", "x": -200, "y": -20, "width": 350, "height": 120, "text": "**Q2**: Aumento de 20% seguido de desconto de 20% resulta em:\n\n⬜ A) Mesmo valor\n⬜ B) Redução de 4%\n⬜ C) Aumento de 4%\n⬜ D) Redução de 2%\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "porcent-q3", "type": "text", "x": -200, "y": 120, "width": 350, "height": 120, "text": "**Q3**: R$1000 a juros compostos de 10% ao mês por 2 meses:\n\n⬜ A) R$1.200\n⬜ B) R$1.210\n⬜ C) R$1.100\n⬜ D) R$1.220\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "razao-titulo", "type": "text", "x": 200, "y": -280, "width": 350, "height": 50, "color": "2", "text": "### 2. Razão e Proporção"},
+    {"id": "razao-link", "type": "file", "x": 200, "y": -220, "width": 350, "height": 40, "file": "ENEM - MAT - Razão e Proporção.md"},
+    {"id": "razao-q1", "type": "text", "x": 200, "y": -160, "width": 350, "height": 120, "text": "**Q1**: Se 3 operários fazem em 12 dias, 6 operários fazem em:\n\n⬜ A) 24 dias\n⬜ B) 6 dias\n⬜ C) 4 dias\n⬜ D) 8 dias\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "razao-q2", "type": "text", "x": 200, "y": -20, "width": 350, "height": 120, "text": "**Q2**: Escala 1:50.000, 3 cm no mapa equivale a:\n\n⬜ A) 150 m\n⬜ B) 1.500 m\n⬜ C) 15.000 m\n⬜ D) 150.000 m\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "razao-q3", "type": "text", "x": 200, "y": 120, "width": 350, "height": 120, "text": "**Q3**: Dividir 90 na proporção 1:2:\n\n⬜ A) 45 e 45\n⬜ B) 30 e 60\n⬜ C) 40 e 50\n⬜ D) 20 e 70\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "geo-titulo", "type": "text", "x": 600, "y": -280, "width": 350, "height": 50, "color": "5", "text": "### 3. Geometria Plana"},
+    {"id": "geo-link", "type": "file", "x": 600, "y": -220, "width": 350, "height": 40, "file": "ENEM - MAT - Geometria Plana.md"},
+    {"id": "geo-q1", "type": "text", "x": 600, "y": -160, "width": 350, "height": 120, "text": "**Q1**: Área de triângulo com b=10 e h=6:\n\n⬜ A) 60\n⬜ B) 30\n⬜ C) 16\n⬜ D) 36\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "geo-q2", "type": "text", "x": 600, "y": -20, "width": 350, "height": 120, "text": "**Q2**: Hipotenusa de triângulo com catetos 3 e 4:\n\n⬜ A) 7\n⬜ B) 6\n⬜ C) 5\n⬜ D) 12\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "geo-q3", "type": "text", "x": 600, "y": 120, "width": 350, "height": 120, "text": "**Q3**: Soma dos ângulos internos de hexágono:\n\n⬜ A) 360°\n⬜ B) 540°\n⬜ C) 720°\n⬜ D) 900°\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "graf-titulo", "type": "text", "x": 1000, "y": -280, "width": 350, "height": 50, "color": "4", "text": "### 4. Análise de Gráficos"},
+    {"id": "graf-link", "type": "file", "x": 1000, "y": -220, "width": 350, "height": 40, "file": "ENEM - MAT - Análise de Gráficos.md"},
+    {"id": "graf-q1", "type": "text", "x": 1000, "y": -160, "width": 350, "height": 120, "text": "**Q1**: Gráfico de setores mostra:\n\n⬜ A) Evolução no tempo\n⬜ B) Proporção de um todo\n⬜ C) Distribuição de frequência\n⬜ D) Comparação de categorias\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "graf-q2", "type": "text", "x": 1000, "y": -20, "width": 350, "height": 120, "text": "**Q2**: Mediana de {2, 5, 7, 9, 11}:\n\n⬜ A) 5\n⬜ B) 7\n⬜ C) 9\n⬜ D) 6,8\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "graf-q3", "type": "text", "x": 1000, "y": 120, "width": 350, "height": 120, "text": "**Q3**: Eixo truncado em gráfico pode:\n\n⬜ A) Mostrar dados reais\n⬜ B) Exagerar diferenças\n⬜ C) Diminuir diferenças\n⬜ D) Não tem efeito\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "prob-titulo", "type": "text", "x": 400, "y": 300, "width": 350, "height": 50, "color": "3", "text": "### 5. Probabilidade e Estatística"},
+    {"id": "prob-link", "type": "file", "x": 400, "y": 360, "width": 350, "height": 40, "file": "ENEM - MAT - Probabilidade e Estatística.md"},
+    {"id": "prob-q1", "type": "text", "x": 200, "y": 420, "width": 350, "height": 120, "text": "**Q1**: P(tirar 6 em dado) é:\n\n⬜ A) 1/2\n⬜ B) 1/3\n⬜ C) 1/6\n⬜ D) 1/12\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "prob-q2", "type": "text", "x": 600, "y": 420, "width": 350, "height": 120, "text": "**Q2**: Escolher 2 de 5 pessoas (sem ordem) usa:\n\n⬜ A) Permutação\n⬜ B) Arranjo\n⬜ C) Combinação\n⬜ D) Fatorial\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "analise-titulo", "type": "text", "x": 400, "y": 600, "width": 500, "height": 50, "color": "1", "text": "## 📊 Análise de Desempenho"},
+    {"id": "analise-tabela", "type": "text", "x": 400, "y": 670, "width": 500, "height": 200, "text": "| Tópico | Acertos | Total | % |\n|--------|---------|-------|---|\n| Porcentagem e Juros | | /3 | |\n| Razão e Proporção | | /3 | |\n| Geometria Plana | | /3 | |\n| Análise de Gráficos | | /3 | |\n| Probabilidade | | /2 | |\n| **TOTAL** | | **/14** | |\n\n**Revisão necessária**: ________________"},
+    {"id": "gabarito", "type": "text", "x": 400, "y": 900, "width": 500, "height": 150, "color": "1", "text": "### 🔑 Gabarito\n**Porcentagem**: B, B, B\n**Razão**: B, B, B\n**Geometria**: B, C, C\n**Gráficos**: B, B, B\n**Probabilidade**: C, C"}
+  ],
+  "edges": [
+    {"id": "e1", "fromNode": "titulo", "toNode": "link-materia", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e2", "fromNode": "porcent-titulo", "toNode": "porcent-link", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e3", "fromNode": "razao-titulo", "toNode": "razao-link", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e4", "fromNode": "geo-titulo", "toNode": "geo-link", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e5", "fromNode": "graf-titulo", "toNode": "graf-link", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e6", "fromNode": "prob-titulo", "toNode": "prob-link", "fromSide": "bottom", "toSide": "top"}
+  ]
+}

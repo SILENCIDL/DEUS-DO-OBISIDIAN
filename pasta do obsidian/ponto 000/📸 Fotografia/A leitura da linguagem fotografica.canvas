@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"5f75fcd794a2df47","x":-351,"y":-323,"width":551,"height":60,"type":"text","text":"A fotográfia é, uma forma de imagem"},
+		{"id":"60ea8f45601e57b1","x":-278,"y":-180,"width":406,"height":68,"type":"text","text":"Por que criamos imagens ?"},
+		{"id":"9088ad407085f34d","x":-271,"y":-60,"width":392,"height":80,"type":"text","text":"Criamos pelo medo da morte "}
+	],
+	"edges":[
+		{"id":"d7c7abb9cc75512d","fromNode":"60ea8f45601e57b1","fromSide":"bottom","toNode":"9088ad407085f34d","toSide":"top"}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"754ce6a7fb9993fb","x":-531,"y":-100,"width":463,"height":60,"type":"text","text":"Fotografia: O olho da modernidade."},
+		{"id":"0fe98f73dc3fe8bc","x":-560,"y":-480,"width":519,"height":60,"type":"text","text":"Modernidade - começou no século 19."},
+		{"id":"bb656c78707a8be8","x":-520,"y":-380,"width":440,"height":260,"type":"text","text":"- A partir do século XIX.\n- Revolução Industrial\n- Capitalismo\n- Estados-Nação\n- Racionalismo"},
+		{"id":"bb1f14f12af2ebef","x":-840,"y":-340,"width":280,"height":180,"type":"text","text":"foi o marcador foi, por conta que ela terminou depois da revolução francessa"},
+		{"id":"cae61a902e3dff11","x":0,"y":-305,"width":320,"height":110,"type":"text","text":"Crença na ciência, na ordem e no progresso."},
+		{"id":"11829c402ce6418c","x":340,"y":-284,"width":320,"height":69,"type":"text","text":"Um mundo mais sético"},
+		{"id":"f3cc7239a4558af6","x":-549,"y":-20,"width":500,"height":110,"type":"text","text":"Passamos a selecionar o mundo e as  experiências por meio de fotografias "},
+		{"id":"1ad1b5463edf0558","x":2,"y":-73,"width":636,"height":216,"type":"text","text":"Ao transformar a imagem na nossa principal forma de mediação de realidade, criamos um universo imagético que tem valor em si mesmo - e para participar e interagir nesse cosmos, somos forçados e também sermos imagem."},
+		{"id":"8dc428a11ed6d57e","x":-520,"y":200,"width":444,"height":60,"type":"text","text":"Ver Imagens até onde não existem"},
+		{"id":"34763b04e9886878","x":-553,"y":113,"width":509,"height":60,"type":"text","text":"Principal pilar da civilização da imagem"}
+	],
+	"edges":[
+		{"id":"aa60b86a56fbb372","fromNode":"bb656c78707a8be8","fromSide":"right","toNode":"cae61a902e3dff11","toSide":"left"},
+		{"id":"813ce5e3982ca513","fromNode":"0fe98f73dc3fe8bc","fromSide":"bottom","toNode":"bb656c78707a8be8","toSide":"top"},
+		{"id":"4fbf361ca3b19092","fromNode":"bb1f14f12af2ebef","fromSide":"right","toNode":"bb656c78707a8be8","toSide":"left"},
+		{"id":"d39b778c933363d5","fromNode":"bb656c78707a8be8","fromSide":"bottom","toNode":"754ce6a7fb9993fb","toSide":"top"},
+		{"id":"4a3f200604c678b3","fromNode":"754ce6a7fb9993fb","fromSide":"bottom","toNode":"f3cc7239a4558af6","toSide":"top"},
+		{"id":"e2189687f428ce91","fromNode":"f3cc7239a4558af6","fromSide":"bottom","toNode":"34763b04e9886878","toSide":"top"},
+		{"id":"24aadc6a2a66df6e","fromNode":"34763b04e9886878","fromSide":"bottom","toNode":"8dc428a11ed6d57e","toSide":"top"},
+		{"id":"95c0bbbd793e7d60","fromNode":"f3cc7239a4558af6","fromSide":"right","toNode":"1ad1b5463edf0558","toSide":"left"},
+		{"id":"9792c4d829a00474","fromNode":"cae61a902e3dff11","fromSide":"right","toNode":"11829c402ce6418c","toSide":"left"}
+	]
+}

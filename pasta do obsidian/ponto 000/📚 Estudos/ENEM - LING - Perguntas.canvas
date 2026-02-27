@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"titulo","type":"text","x":400,"y":-500,"width":500,"height":80,"color":"4","text":"# 📘 LINGUAGENS — Perguntas e Análise\n**Registre suas respostas e analise seu desempenho**"},
+		{"id":"link-materia","type":"file","x":400,"y":-400,"width":500,"height":50,"file":"ENEM - Linguagens e Códigos.md"},
+		{"id":"funcoes-titulo","type":"text","x":-200,"y":-280,"width":350,"height":50,"color":"6","text":"### 1. Funções da Linguagem"},
+		{"id":"funcoes-link","type":"file","x":-200,"y":-220,"width":350,"height":40,"file":"ENEM - LING - Funções da Linguagem.md"},
+		{"id":"funcoes-q1","type":"text","x":-200,"y":-160,"width":350,"height":120,"text":"**Q1**: Qual função predomina em anúncios publicitários?\n\n⬜ A) Referencial\n⬜ B) Emotiva\n⬜ C) Conativa\n⬜ D) Metalinguística\n\n**Resposta**: ___ | ✅❌"},
+		{"id":"funcoes-q2","type":"text","x":-200,"y":-20,"width":350,"height":120,"text":"**Q2**: \"Alô? Você está me ouvindo?\" — Qual função?\n\n⬜ A) Fática\n⬜ B) Poética\n⬜ C) Conativa\n⬜ D) Emotiva\n\n**Resposta**: ___ | ✅❌"},
+		{"id":"funcoes-q3","type":"text","x":-200,"y":120,"width":350,"height":120,"text":"**Q3**: Função que explica a própria linguagem:\n\n⬜ A) Referencial\n⬜ B) Metalinguística\n⬜ C) Poética\n⬜ D) Fática\n\n**Resposta**: ___ | ✅❌"},
+		{"id":"figuras-titulo","type":"text","x":200,"y":-280,"width":350,"height":50,"color":"1","text":"### 2. Figuras de Linguagem"},
+		{"id":"figuras-link","type":"file","x":200,"y":-220,"width":350,"height":40,"file":"ENEM - LING - Figuras de Linguagem.md"},
+		{"id":"figuras-q1","type":"text","x":200,"y":-160,"width":350,"height":120,"text":"**Q1**: \"Seus olhos são duas estrelas\" é:\n\n⬜ A) Comparação\n⬜ B) Metáfora\n⬜ C) Metonímia\n⬜ D) Hipérbole\n\n**Resposta**: ___ | ✅❌"},
+		{"id":"figuras-q2","type":"text","x":200,"y":-20,"width":350,"height":120,"text":"**Q2**: \"Leu Machado de Assis ontem\" — A figura é:\n\n⬜ A) Metáfora\n⬜ B) Metonímia\n⬜ C) Antítese\n⬜ D) Ironia\n\n**Resposta**: ___ | ✅❌"},
+		{"id":"figuras-q3","type":"text","x":200,"y":120,"width":350,"height":120,"text":"**Q3**: \"O vento sussurrava segredos\" — A figura é:\n\n⬜ A) Hipérbole\n⬜ B) Personificação\n⬜ C) Eufemismo\n⬜ D) Ironia\n\n**Resposta**: ___ | ✅❌"},
+		{"id":"variacao-titulo","type":"text","x":600,"y":-280,"width":350,"height":50,"color":"5","text":"### 3. Variação Linguística"},
+		{"id":"variacao-link","type":"file","x":600,"y":-220,"width":350,"height":40,"file":"ENEM - LING - Variação Linguística.md"},
+		{"id":"variacao-q1","type":"text","x":600,"y":-160,"width":350,"height":120,"text":"**Q1**: Mandioca/Aipim/Macaxeira é variação:\n\n⬜ A) Social\n⬜ B) Histórica\n⬜ C) Geográfica\n⬜ D) Situacional\n\n**Resposta**: ___ | ✅❌"},
+		{"id":"variacao-q2","type":"text","x":600,"y":-20,"width":350,"height":120,"text":"**Q2**: Jargão médico é exemplo de variação:\n\n⬜ A) Geográfica\n⬜ B) Social\n⬜ C) Histórica\n⬜ D) Situacional\n\n**Resposta**: ___ | ✅❌"},
+		{"id":"variacao-q3","type":"text","x":600,"y":120,"width":350,"height":120,"text":"**Q3**: \"Vossa mercê → Você\" é variação:\n\n⬜ A) Geográfica\n⬜ B) Social\n⬜ C) Histórica\n⬜ D) Situacional\n\n**Resposta**: ___ | ✅❌"},
+		{"id":"inter-titulo","type":"text","x":1000,"y":-280,"width":350,"height":50,"color":"2","text":"### 4. Intertextualidade"},
+		{"id":"inter-link","type":"file","x":1000,"y":-220,"width":350,"height":40,"file":"ENEM - LING - Intertextualidade.md"},
+		{"id":"inter-q1","type":"text","x":1000,"y":-160,"width":350,"height":120,"text":"**Q1**: Reescrever mantendo o sentido é:\n\n⬜ A) Paródia\n⬜ B) Paráfrase\n⬜ C) Citação\n⬜ D) Alusão\n\n**Resposta**: ___ | ✅❌"},
+		{"id":"inter-q2","type":"text","x":1000,"y":-20,"width":350,"height":120,"text":"**Q2**: Versão cômica/crítica de um texto é:\n\n⬜ A) Paráfrase\n⬜ B) Citação\n⬜ C) Paródia\n⬜ D) Epígrafe\n\n**Resposta**: ___ | ✅❌"},
+		{"id":"inter-q3","type":"text","x":1000,"y":120,"width":350,"height":120,"text":"**Q3**: Citação no início de uma obra é:\n\n⬜ A) Alusão\n⬜ B) Paródia\n⬜ C) Epígrafe\n⬜ D) Pastiche\n\n**Resposta**: ___ | ✅❌"},
+		{"id":"generos-titulo","type":"text","x":400,"y":300,"width":350,"height":50,"color":"3","text":"### 5. Gêneros Textuais"},
+		{"id":"generos-link","type":"file","x":400,"y":360,"width":350,"height":40,"file":"ENEM - LING - Gêneros Textuais.md"},
+		{"id":"generos-q1","type":"text","x":200,"y":420,"width":350,"height":120,"text":"**Q1**: Texto que expressa opinião do jornal:\n\n⬜ A) Artigo de opinião\n⬜ B) Notícia\n⬜ C) Editorial\n⬜ D) Reportagem\n\n**Resposta**: ___ | ✅❌"},
+		{"id":"generos-q2","type":"text","x":600,"y":420,"width":350,"height":120,"text":"**Q2**: Diferença entre notícia e reportagem:\n\n⬜ A) Notícia é mais longa\n⬜ B) Reportagem aprofunda\n⬜ C) Notícia tem opinião\n⬜ D) São iguais\n\n**Resposta**: ___ | ✅❌"},
+		{"id":"analise-titulo","type":"text","x":400,"y":600,"width":500,"height":50,"color":"6","text":"## 📊 Análise de Desempenho"},
+		{"id":"analise-tabela","type":"text","x":400,"y":670,"width":500,"height":200,"text":"| Tópico | Acertos | Total | % |\n|--------|---------|-------|---|\n| Funções da Linguagem | | /3 | |\n| Figuras de Linguagem | | /3 | |\n| Variação Linguística | | /3 | |\n| Intertextualidade | | /3 | |\n| Gêneros Textuais | | /2 | |\n| **TOTAL** | | **/14** | |\n\n**Revisão necessária**: ________________"},
+		{"id":"gabarito","type":"text","x":400,"y":900,"width":500,"height":150,"color":"1","text":"### 🔑 Gabarito\n**Funções**: C, A, B\n**Figuras**: B, B, B\n**Variação**: C, B, C\n**Inter**: B, C, C\n**Gêneros**: C, B"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"titulo","toNode":"link-materia","fromSide":"bottom","toSide":"top"},
+		{"id":"e2","fromNode":"funcoes-titulo","toNode":"funcoes-link","fromSide":"bottom","toSide":"top"},
+		{"id":"e3","fromNode":"figuras-titulo","toNode":"figuras-link","fromSide":"bottom","toSide":"top"},
+		{"id":"e4","fromNode":"variacao-titulo","toNode":"variacao-link","fromSide":"bottom","toSide":"top"},
+		{"id":"e5","fromNode":"inter-titulo","toNode":"inter-link","fromSide":"bottom","toSide":"top"},
+		{"id":"e6","fromNode":"generos-titulo","toNode":"generos-link","fromSide":"bottom","toSide":"top"}
+	]
+}

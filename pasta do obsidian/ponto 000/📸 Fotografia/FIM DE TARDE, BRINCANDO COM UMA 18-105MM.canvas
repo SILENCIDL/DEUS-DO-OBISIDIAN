@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"79956e25173f224a","type":"file","file":"Sem-Título-1_01.jpg","x":-310,"y":-287,"width":400,"height":225},
+		{"id":"e68b0b570b84870c","type":"file","file":"Sem-Título-1_02.jpg","x":90,"y":-287,"width":400,"height":225},
+		{"id":"0f4a05b0bf2628be","type":"file","file":"Sem-Título-1_03.jpg","x":490,"y":-287,"width":400,"height":225}
+	],
+	"edges":[]
+}

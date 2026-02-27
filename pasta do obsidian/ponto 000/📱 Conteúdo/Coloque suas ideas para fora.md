@@ -1,0 +1,3 @@
+Categoria: [[VINICIUS RAFAEL - Meu universo]]
+
+COloque apenas, coloque suas ideias para fora, seu jeito, sua forma de fala seu entendimento de seus assuntos, que você domina e gosta de falar apenas seja você, seja autoral. Expanda suas ideias a serviços que você pode fazer, não tem com dar errado, você acha que com 8 bilhôes de pessoas no MUNDO, ninguém vai curtir suas ideias, porra para com essa ideia de cabeça fechada tem, que meter a cara e tentar, o erro ja temos, que é não fazer.

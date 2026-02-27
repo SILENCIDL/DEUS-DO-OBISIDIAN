@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"357eaff8a3d51a55","type":"text","text":"Capa das publicações elaboradas com interações com as demais dando continuação dentro das publicações e fora dela, nas capas delas no feed.","x":-1020,"y":-1140,"width":580,"height":200},
+		{"id":"fccc229844d10d84","x":620,"y":-1100,"width":200,"height":60,"type":"text","text":"NARRATIVA"},
+		{"id":"e2d143688f9b6039","type":"text","text":"Venda de Prints arts","x":444,"y":-1800,"width":301,"height":97},
+		{"id":"aec5f856501958a7","type":"text","text":"","x":469,"y":-1640,"width":250,"height":60},
+		{"id":"ae3ca194b269d1e0","type":"text","text":"Estratégia para o instagram","x":-927,"y":-1480,"width":394,"height":60},
+		{"id":"9e1bef577b0869bd","type":"text","text":"Desing ","x":-143,"y":-1480,"width":158,"height":60},
+		{"id":"fdd50ef26b4c4487","type":"text","text":"simples forte e direta \napenas em preto e branco. sem letras apenas montagens com pouca descrição. Mas não é, por conta de ter uma simples descrição que será sem, sentido .\n\nPrecisa de sentido e direção.","x":-351,"y":-1190,"width":573,"height":300},
+		{"id":"8109a3997e163e09","type":"text","text":"a forma de cores fala muito também, acredito que cores verdes, marrom, passa algo antigo ou rico. com tons suaves, como cor de pele ou marrom vejo que passam, formas de riqueza e limpeza, são visões minhas, se você acredita isso vamos juntos nessa.\n\nMinha base de cores tem que ser relacionadas a realidade e com maestria. Não pode ser baseada em algo forte. Mas sim forte no enquadramento e composições.","x":-351,"y":-576,"width":570,"height":560},
+		{"id":"ba897d75f83587c7","type":"text","text":"Cores e ações","x":-189,"y":-676,"width":246,"height":60},
+		{"id":"dd59fb427631c2a6","type":"text","text":"Organização","x":-840,"y":-676,"width":220,"height":60},
+		{"id":"b01ba64a73ac8658","x":388,"y":-489,"width":663,"height":387,"type":"text","text":"Nunca testei fazer um vídeo falando de forma minha, e com direção algo. somente foto. vídeo sem voz, ou vídeo com musica, como se fosse uma pagina somente de documentação da minha visão. Mas eu preciso vender isso, e para isso acontecer eu Tenho que usar uma narrativa. \n\nNão uma narrativa, mas narrar de diferentes temas, cada conteúdo criado por mim. "},
+		{"id":"d40a6ac4cdaf4527","type":"text","text":"Arrumar os destaques de forma consisa e limpa. começar a gravar mais videos falando, para criar uma ligação mais forte com meu publico, poucas pessoas fazem, qquem faz tem o perfil grande, quem é pequeno só assiste  ","x":-941,"y":-478,"width":422,"height":366}
+	],
+	"edges":[
+		{"id":"77e5294c826e990b","fromNode":"ae3ca194b269d1e0","fromSide":"bottom","toNode":"357eaff8a3d51a55","toSide":"top"},
+		{"id":"7ef471fb39695c7b","fromNode":"d40a6ac4cdaf4527","fromSide":"right","toNode":"8109a3997e163e09","toSide":"left"},
+		{"id":"bfa41169b32a34cc","fromNode":"dd59fb427631c2a6","fromSide":"bottom","toNode":"d40a6ac4cdaf4527","toSide":"top"},
+		{"id":"a643fdaf6fb5f86c","fromNode":"8109a3997e163e09","fromSide":"top","toNode":"ba897d75f83587c7","toSide":"bottom"},
+		{"id":"86e318f543cc5b50","fromNode":"dd59fb427631c2a6","fromSide":"right","toNode":"ba897d75f83587c7","toSide":"left"},
+		{"id":"8a595301c2a2fd0d","fromNode":"ae3ca194b269d1e0","fromSide":"right","toNode":"9e1bef577b0869bd","toSide":"left"},
+		{"id":"48fc63f23252167f","fromNode":"357eaff8a3d51a55","fromSide":"bottom","toNode":"dd59fb427631c2a6","toSide":"top"},
+		{"id":"2ecdd48e1d426d64","fromNode":"9e1bef577b0869bd","fromSide":"bottom","toNode":"fdd50ef26b4c4487","toSide":"top"},
+		{"id":"522a4635afab1d5f","fromNode":"e2d143688f9b6039","fromSide":"bottom","toNode":"aec5f856501958a7","toSide":"top"},
+		{"id":"e0f9b21d4aef6470","fromNode":"fdd50ef26b4c4487","fromSide":"bottom","toNode":"ba897d75f83587c7","toSide":"top"},
+		{"id":"01e568fc92091bb5","fromNode":"ba897d75f83587c7","fromSide":"right","toNode":"fccc229844d10d84","toSide":"left"},
+		{"id":"a4a8dcd6dd879536","fromNode":"9e1bef577b0869bd","fromSide":"right","toNode":"fccc229844d10d84","toSide":"left"},
+		{"id":"370dc1aad5accfc2","fromNode":"fccc229844d10d84","fromSide":"bottom","toNode":"b01ba64a73ac8658","toSide":"top"},
+		{"id":"ef2f526aea948b5f","fromNode":"8109a3997e163e09","fromSide":"right","toNode":"b01ba64a73ac8658","toSide":"left"}
+	]
+}

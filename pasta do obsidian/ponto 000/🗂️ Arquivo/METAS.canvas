@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"d6dfc2bcb7712938","x":-105,"y":-380,"width":140,"height":60,"type":"text","text":"Metas \n"},
+		{"id":"57f62aded5dffd5a","x":-284,"y":-300,"width":498,"height":50,"type":"text","text":"Voltar a vender com a minha loja,  Vgrs ."},
+		{"id":"5fc434c1c5809332","x":-229,"y":-240,"width":389,"height":60,"type":"text","text":"melhorar meu computador"},
+		{"id":"c0104bd9e5cd5d44","x":-248,"y":-160,"width":427,"height":50,"type":"text","text":"Fazer, mais ensaios fotograficos."},
+		{"id":"b3bab2abf35bcc12","x":-234,"y":-40,"width":398,"height":60,"type":"text","text":"Melhorar meus equipamentos "},
+		{"id":"40b793cd81ccea52","x":-307,"y":40,"width":544,"height":60,"type":"text","text":"Estar mais presente nos treinos de Jiu-jitsu"},
+		{"id":"84db6947d07dcdbf","x":-321,"y":120,"width":573,"height":60,"type":"text","text":"Juntar 20.000,00 até 27 de dezembro de 2025"},
+		{"id":"a897a8ec41cef652","x":-321,"y":210,"width":581,"height":60,"type":"text","text":"Ajudar em casa lavar louça arrumar minha coias , pagar conta de agua e de luz"},
+		{"id":"07a1989640959008","x":-215,"y":300,"width":250,"height":60,"type":"text","text":""},
+		{"id":"e5f97cf8076ff8a1","x":-431,"y":-110,"width":801,"height":50,"type":"text","text":"Estudar mais sobre os aplicativos da adobe e dominar eles melhor "}
+	],
+	"edges":[]
+}

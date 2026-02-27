@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2d11df6c5e958ca2","type":"file","file":"1.jpg","x":-780,"y":-285,"width":400,"height":600},
+		{"id":"30d9e9626b0c9b88","type":"file","file":"publicação-6.jpg","x":320,"y":-285,"width":400,"height":600},
+		{"id":"a93edf182dda483e","type":"file","file":"publicação-5.jpg","x":-240,"y":-285,"width":400,"height":600}
+	],
+	"edges":[
+		{"id":"242e49a78ff1bfa7","fromNode":"2d11df6c5e958ca2","fromSide":"right","toNode":"a93edf182dda483e","toSide":"left"},
+		{"id":"acfed1c7402a313c","fromNode":"a93edf182dda483e","fromSide":"right","toNode":"30d9e9626b0c9b88","toSide":"left"}
+	]
+}

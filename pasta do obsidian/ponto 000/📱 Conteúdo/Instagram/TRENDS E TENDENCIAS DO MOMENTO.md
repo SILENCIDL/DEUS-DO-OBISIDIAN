@@ -1,0 +1,3 @@
+Categoria: [[INSTAGRAM - Minha vitrine visual]]
+
+PEGUE AS TRENDS DO MOMENTO E ADAPTE AO SEU NICHO

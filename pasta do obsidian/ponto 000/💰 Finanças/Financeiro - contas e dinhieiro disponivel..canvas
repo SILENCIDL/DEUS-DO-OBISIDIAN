@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"dd10606bfd74c8bc","type":"text","text":"\ttotal de grana no dia 02.06","x":-508,"y":-260,"width":433,"height":74},
+		{"id":"80711d15b91c4625","type":"text","text":"610.20","x":-451,"y":-160,"width":143,"height":60},
+		{"id":"6b9c463b36902a3e","type":"text","text":"-599,00","x":-291,"y":-160,"width":160,"height":60},
+		{"id":"7257823b3656c7c8","type":"text","text":"###### 10,20","x":-361,"y":-40,"width":140,"height":60},
+		{"id":"6979db7a6078c516","type":"text","text":"CONTAS PARA PAGAR","x":-445,"y":80,"width":308,"height":60},
+		{"id":"942b6998aed288c5","type":"text","text":"ANHANGUERA = 139,90","x":-57,"y":80,"width":385,"height":60,"color":"5"},
+		{"id":"065248a8aad9ef3d","type":"text","text":"MENSALIDA DO MEI = 81,00","x":-57,"y":150,"width":385,"height":60,"color":"5"},
+		{"id":"62005dd758423d9f","x":-57,"y":220,"width":385,"height":60,"color":"5","type":"text","text":"spotify = 21,90"},
+		{"id":"faf4bd705808ebba","x":16,"y":-10,"width":240,"height":60,"color":"5","type":"text","text":"Mercado Pago"},
+		{"id":"1f7c785cb4efb491","x":71,"y":-253,"width":250,"height":60,"type":"text","text":""},
+		{"id":"a7d777ba0f419856","x":420,"y":150,"width":300,"height":60,"type":"text","text":"242.80 x 6 = 1.456,80"}
+	],
+	"edges":[
+		{"id":"ca32151d8d02d1f5","fromNode":"80711d15b91c4625","fromSide":"right","toNode":"6b9c463b36902a3e","toSide":"left"},
+		{"id":"b5c076d71304f0a3","fromNode":"80711d15b91c4625","fromSide":"bottom","toNode":"7257823b3656c7c8","toSide":"top"},
+		{"id":"1fd1ee059c5624da","fromNode":"6b9c463b36902a3e","fromSide":"bottom","toNode":"7257823b3656c7c8","toSide":"top"},
+		{"id":"1029228c0bbec14d","fromNode":"7257823b3656c7c8","fromSide":"bottom","toNode":"6979db7a6078c516","toSide":"top"},
+		{"id":"299ac82df8c2bd2d","fromNode":"6979db7a6078c516","fromSide":"right","toNode":"942b6998aed288c5","toSide":"left"},
+		{"id":"1d1d597d6ab7964c","fromNode":"942b6998aed288c5","fromSide":"bottom","toNode":"065248a8aad9ef3d","toSide":"top"},
+		{"id":"1648b17e097b2437","fromNode":"065248a8aad9ef3d","fromSide":"bottom","toNode":"62005dd758423d9f","toSide":"top"},
+		{"id":"8fb322b9db4f7761","fromNode":"942b6998aed288c5","fromSide":"right","toNode":"a7d777ba0f419856","toSide":"left"},
+		{"id":"6a86baa83f6bc926","fromNode":"065248a8aad9ef3d","fromSide":"right","toNode":"a7d777ba0f419856","toSide":"left"},
+		{"id":"9fe29ef69ed4738a","fromNode":"62005dd758423d9f","fromSide":"right","toNode":"a7d777ba0f419856","toSide":"left"},
+		{"id":"76902793e9611841","fromNode":"942b6998aed288c5","fromSide":"top","toNode":"faf4bd705808ebba","toSide":"bottom"},
+		{"id":"dd57e51726d3428a","fromNode":"dd10606bfd74c8bc","fromSide":"right","toNode":"1f7c785cb4efb491","toSide":"left"}
+	]
+}

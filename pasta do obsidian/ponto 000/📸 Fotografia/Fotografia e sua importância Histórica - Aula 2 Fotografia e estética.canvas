@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"f48178b329e5462b","x":-272,"y":-310,"width":155,"height":50,"color":"1","type":"text","text":"Estética "},
+		{"id":"2b493e9f9115aadb","x":187,"y":-315,"width":593,"height":60,"color":"3","type":"text","text":"Tudo aquilo que fala pelos nosso sentidos."},
+		{"id":"3a79c90b230c7e7d","x":308,"y":-250,"width":352,"height":50,"color":"3","type":"text","text":"forma como reagimos"},
+		{"id":"3be0df261a8980f2","x":-344,"y":-580,"width":301,"height":240,"color":"1","type":"text","text":"Ramo da Filosofia que investiga nossas reações à forma pela qual as coisas se apresentam à nós."},
+		{"id":"1c5d1ea5a749b5ca","x":-507,"y":-225,"width":626,"height":50,"color":"1","type":"text","text":"Aisthesis> percepção > apreensão pelos sentidos  "},
+		{"id":"9f98ac28ef3a9db3","x":-560,"y":-100,"width":720,"height":280,"type":"text","text":"Susan Sontag\n- Escritora, ensaísta, filósofa.\n- Sobre fotografia: um clássico da área:\n- Estética fotográfica enraizada em nossa vida e cultura;\n- Fotografia e violência."}
+	],
+	"edges":[
+		{"id":"e00d9c4eef9f2e65","fromNode":"f48178b329e5462b","fromSide":"bottom","toNode":"1c5d1ea5a749b5ca","toSide":"top"},
+		{"id":"6699deec46f653c6","fromNode":"f48178b329e5462b","fromSide":"right","toNode":"2b493e9f9115aadb","toSide":"left"},
+		{"id":"eb1cfc863f1dd61e","fromNode":"2b493e9f9115aadb","fromSide":"bottom","toNode":"3a79c90b230c7e7d","toSide":"top"},
+		{"id":"eb748e79cc8f25f4","fromNode":"f48178b329e5462b","fromSide":"top","toNode":"3be0df261a8980f2","toSide":"bottom"}
+	]
+}

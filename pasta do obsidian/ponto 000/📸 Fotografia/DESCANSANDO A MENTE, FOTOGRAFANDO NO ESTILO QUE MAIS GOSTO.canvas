@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"68f87b79195cd64c","x":1540,"y":-1020,"width":947,"height":1374,"type":"group","label":"VERTICAL"},
+		{"id":"0c0ebd2ec83006a9","x":141,"y":-1020,"width":1339,"height":935,"type":"group","label":"HORIZONTAL"},
+		{"id":"476a87cbf0371b8f","x":161,"y":-1000,"width":400,"height":267,"type":"file","file":"publicação-4.jpg"},
+		{"id":"5ccc85a0abae60a3","x":606,"y":-1000,"width":400,"height":267,"type":"file","file":"publicação-21.jpg"},
+		{"id":"ec9375bd536a33c6","x":1060,"y":-1000,"width":400,"height":267,"type":"file","file":"publicação-22.jpg"},
+		{"id":"e7f91282d76e6ec3","x":606,"y":-680,"width":400,"height":267,"type":"file","file":"publicação-9.jpg"},
+		{"id":"4e13e6088d705c4e","x":161,"y":-680,"width":400,"height":267,"type":"file","file":"publicação-8.jpg"},
+		{"id":"7f9db8b5d2336fc6","x":1060,"y":-680,"width":400,"height":267,"type":"file","file":"publicação-11.jpg"},
+		{"id":"ddabc9880dc32a10","x":161,"y":-373,"width":400,"height":267,"type":"file","file":"publicação-10.jpg"},
+		{"id":"bdf15b44f89628ec","x":606,"y":-372,"width":400,"height":267,"type":"file","file":"publicação-12.jpg"},
+		{"id":"cebec23cc7270a94","x":2200,"y":-999,"width":267,"height":400,"type":"file","file":"publicação-18.jpg"},
+		{"id":"8ed87cb7a8dffc3b","x":1881,"y":-1000,"width":267,"height":400,"type":"file","file":"publicação-7.jpg"},
+		{"id":"7a601a24ddc455f8","x":1560,"y":-1000,"width":267,"height":400,"type":"file","file":"publicação-23.jpg"},
+		{"id":"85dafa8dd64805d8","x":1560,"y":-66,"width":267,"height":400,"type":"file","file":"publicação-14.jpg"},
+		{"id":"f7eaf390b8007e89","x":2200,"y":-546,"width":267,"height":400,"type":"file","file":"publicação-13.jpg"},
+		{"id":"ccd258445d87b37f","x":1881,"y":-546,"width":267,"height":400,"type":"file","file":"publicação-19.jpg"},
+		{"id":"4a1f014d5b18ddb5","x":1560,"y":-546,"width":267,"height":400,"type":"file","file":"publicação-17.jpg"},
+		{"id":"43d328beb93faf8a","x":1881,"y":-66,"width":267,"height":400,"type":"file","file":"publicação-15.jpg"},
+		{"id":"7185c477acc97b0c","x":2200,"y":-66,"width":267,"height":400,"type":"file","file":"publicação-16.jpg"}
+	],
+	"edges":[
+		{"id":"8a1c40447143a94b","fromNode":"8ed87cb7a8dffc3b","fromSide":"right","toNode":"cebec23cc7270a94","toSide":"left"},
+		{"id":"0df11f343f778c3a","fromNode":"ccd258445d87b37f","fromSide":"right","toNode":"f7eaf390b8007e89","toSide":"left"},
+		{"id":"91055ec93c557fbf","fromNode":"7a601a24ddc455f8","fromSide":"right","toNode":"8ed87cb7a8dffc3b","toSide":"left"}
+	]
+}

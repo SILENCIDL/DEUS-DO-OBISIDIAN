@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"9c2c58a978e686f2","type":"text","text":"","x":-3,"y":35,"width":250,"height":60},
+		{"id":"e45e7f16ead063bc","type":"text","text":"curva","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"972106ece3ca343e","type":"text","text":"1094,00+356,95+883,15= 2334.1","x":-20,"y":280,"width":624,"height":60},
+		{"id":"a5c1f82d9ae3614e","type":"text","text":"","x":-760,"y":-240,"width":250,"height":60},
+		{"id":"1715497a59056483","type":"text","text":"2334.10","x":216,"y":480,"width":152,"height":60},
+		{"id":"e74499def57c7c46","type":"text","text":"","x":481,"y":478,"width":250,"height":60},
+		{"id":"e86a589b54cf024c","type":"text","text":"bom ideia que tive para levantar uma grana foi a seguinte.\n\nEu estou pensando em pegar a camera e pegar  alguns doces que eu já fazia, colocar mensagenes neles e com isso vender doces e colocar algumas fotos de brinde e deixar 1 preço fixo.","x":-880,"y":440,"width":564,"height":340},
+		{"id":"7170871994919a8e","type":"text","text":"exemplo se eu pegar colocar na margem de 5 reais cada doce com mensagem e ","x":-717,"y":856,"width":537,"height":244},
+		{"id":"89fa10f3ae745b29","x":818,"y":1520,"width":250,"height":60,"type":"text","text":""},
+		{"id":"5924ed5e85f90113","x":818,"y":1670,"width":250,"height":60,"type":"text","text":""},
+		{"id":"bf8e91b5206369ee","x":818,"y":1840,"width":250,"height":60,"type":"text","text":""},
+		{"id":"d5a665f2cfd2aa24","x":-42,"y":1360,"width":250,"height":60,"type":"text","text":""},
+		{"id":"d6c112ccacefd690","x":-842,"y":1520,"width":250,"height":60,"type":"text","text":""},
+		{"id":"31c021e8fe76077d","x":-842,"y":1840,"width":250,"height":60,"type":"text","text":""},
+		{"id":"4db6510c5595d75f","x":-842,"y":1670,"width":250,"height":60,"type":"text","text":""},
+		{"id":"fdbdf723759f68aa","x":-42,"y":1650,"width":250,"height":80,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"ed38d18697f5001e","fromNode":"972106ece3ca343e","fromSide":"bottom","toNode":"1715497a59056483","toSide":"top"},
+		{"id":"cc9f3f90ee1beb7a","fromNode":"1715497a59056483","fromSide":"right","toNode":"e74499def57c7c46","toSide":"left"},
+		{"id":"3a4917f9a71cd615","fromNode":"972106ece3ca343e","fromSide":"left","toNode":"e86a589b54cf024c","toSide":"top"},
+		{"id":"5d38b3d522c5b5bc","fromNode":"e86a589b54cf024c","fromSide":"bottom","toNode":"7170871994919a8e","toSide":"top"},
+		{"id":"33a2484ec41da7ec","fromNode":"d6c112ccacefd690","fromSide":"bottom","toNode":"4db6510c5595d75f","toSide":"top"},
+		{"id":"a453d3df20bbb7de","fromNode":"fdbdf723759f68aa","fromSide":"right","toNode":"5924ed5e85f90113","toSide":"left"},
+		{"id":"b8c68fa1202b828f","fromNode":"89fa10f3ae745b29","fromSide":"bottom","toNode":"5924ed5e85f90113","toSide":"top"},
+		{"id":"28ede600a38866de","fromNode":"d5a665f2cfd2aa24","fromSide":"bottom","toNode":"fdbdf723759f68aa","toSide":"top"},
+		{"id":"28a89031df492884","fromNode":"4db6510c5595d75f","fromSide":"bottom","toNode":"31c021e8fe76077d","toSide":"top"},
+		{"id":"cdf395e33690938f","fromNode":"5924ed5e85f90113","fromSide":"bottom","toNode":"bf8e91b5206369ee","toSide":"top"},
+		{"id":"46ececbeab413373","fromNode":"bf8e91b5206369ee","fromSide":"left","toNode":"fdbdf723759f68aa","toSide":"right"},
+		{"id":"7c1ab6822e08c2e1","fromNode":"d5a665f2cfd2aa24","fromSide":"left","toNode":"d6c112ccacefd690","toSide":"top"},
+		{"id":"05f86f177c31d5d7","fromNode":"d5a665f2cfd2aa24","fromSide":"right","toNode":"89fa10f3ae745b29","toSide":"top"},
+		{"id":"a64305222d9cbee7","fromNode":"fdbdf723759f68aa","fromSide":"right","toNode":"89fa10f3ae745b29","toSide":"left"},
+		{"id":"e373e4320c1d1417","fromNode":"fdbdf723759f68aa","fromSide":"left","toNode":"d6c112ccacefd690","toSide":"right"},
+		{"id":"9b281ecf10860d93","fromNode":"fdbdf723759f68aa","fromSide":"left","toNode":"31c021e8fe76077d","toSide":"right"},
+		{"id":"3b80dade69904b44","fromNode":"fdbdf723759f68aa","fromSide":"left","toNode":"4db6510c5595d75f","toSide":"right"}
+	]
+}
