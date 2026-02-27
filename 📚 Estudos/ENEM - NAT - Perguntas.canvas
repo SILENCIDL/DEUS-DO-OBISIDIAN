@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {"id": "titulo", "type": "text", "x": 400, "y": -500, "width": 500, "height": 80, "color": "5", "text": "# 📗 NATUREZA — Perguntas e Análise\n**Registre suas respostas e analise seu desempenho**"},
+    {"id": "link-materia", "type": "file", "x": 400, "y": -400, "width": 500, "height": 50, "file": "ENEM - Ciências da Natureza.md"},
+    {"id": "eco-titulo", "type": "text", "x": -200, "y": -280, "width": 350, "height": 50, "color": "5", "text": "### 1. Ecologia e Meio Ambiente"},
+    {"id": "eco-link", "type": "file", "x": -200, "y": -220, "width": 350, "height": 40, "file": "ENEM - NAT - Ecologia e Meio Ambiente.md"},
+    {"id": "eco-q1", "type": "text", "x": -200, "y": -160, "width": 350, "height": 120, "text": "**Q1**: Produtores em cadeia alimentar são:\n\n⬜ A) Herbívoros\n⬜ B) Carnívoros\n⬜ C) Fotossintetizantes\n⬜ D) Decompositores\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "eco-q2", "type": "text", "x": -200, "y": -20, "width": 350, "height": 120, "text": "**Q2**: Aumento de CO₂ causa:\n\n⬜ A) Chuva ácida\n⬜ B) Efeito estufa\n⬜ C) Buraco de ozônio\n⬜ D) Inversão térmica\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "eco-q3", "type": "text", "x": -200, "y": 120, "width": 350, "height": 120, "text": "**Q3**: Mutualismo é relação:\n\n⬜ A) +/- (beneficia um)\n⬜ B) +/+ (beneficia ambos)\n⬜ C) -/- (prejudica ambos)\n⬜ D) +/0 (um neutro)\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "gen-titulo", "type": "text", "x": 200, "y": -280, "width": 350, "height": 50, "color": "4", "text": "### 2. Genética Básica"},
+    {"id": "gen-link", "type": "file", "x": 200, "y": -220, "width": 350, "height": 40, "file": "ENEM - NAT - Genética Básica.md"},
+    {"id": "gen-q1", "type": "text", "x": 200, "y": -160, "width": 350, "height": 120, "text": "**Q1**: Genótipo Aa é chamado de:\n\n⬜ A) Homozigoto dominante\n⬜ B) Homozigoto recessivo\n⬜ C) Heterozigoto\n⬜ D) Híbrido puro\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "gen-q2", "type": "text", "x": 200, "y": -20, "width": 350, "height": 120, "text": "**Q2**: Tipo O pode doar para:\n\n⬜ A) Apenas tipo O\n⬜ B) Apenas A e B\n⬜ C) Todos os tipos\n⬜ D) Nenhum tipo\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "gen-q3", "type": "text", "x": 200, "y": 120, "width": 350, "height": 120, "text": "**Q3**: Daltonismo afeta mais homens porque:\n\n⬜ A) É dominante\n⬜ B) Está no Y\n⬜ C) Está no X (homem só tem 1)\n⬜ D) É autossômico\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "ele-titulo", "type": "text", "x": 600, "y": -280, "width": 350, "height": 50, "color": "6", "text": "### 3. Eletricidade"},
+    {"id": "ele-link", "type": "file", "x": 600, "y": -220, "width": 350, "height": 40, "file": "ENEM - NAT - Eletricidade.md"},
+    {"id": "ele-q1", "type": "text", "x": 600, "y": -160, "width": 350, "height": 120, "text": "**Q1**: Lei de Ohm: U = ?\n\n⬜ A) P × t\n⬜ B) R × i\n⬜ C) m × v\n⬜ D) E × t\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "ele-q2", "type": "text", "x": 600, "y": -20, "width": 350, "height": 120, "text": "**Q2**: Potência elétrica: P = ?\n\n⬜ A) m × g\n⬜ B) U × i\n⬜ C) F × d\n⬜ D) Q × t\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "ele-q3", "type": "text", "x": 600, "y": 120, "width": 350, "height": 120, "text": "**Q3**: Chuveiro elétrico usa:\n\n⬜ A) Efeito fotoelétrico\n⬜ B) Efeito Joule\n⬜ C) Indução magnética\n⬜ D) Efeito Doppler\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "termo-titulo", "type": "text", "x": 1000, "y": -280, "width": 350, "height": 50, "color": "1", "text": "### 4. Termoquímica"},
+    {"id": "termo-link", "type": "file", "x": 1000, "y": -220, "width": 350, "height": 40, "file": "ENEM - NAT - Termoquímica.md"},
+    {"id": "termo-q1", "type": "text", "x": 1000, "y": -160, "width": 350, "height": 120, "text": "**Q1**: ΔH negativo indica reação:\n\n⬜ A) Endotérmica\n⬜ B) Exotérmica\n⬜ C) Reversível\n⬜ D) Espontânea\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "termo-q2", "type": "text", "x": 1000, "y": -20, "width": 350, "height": 120, "text": "**Q2**: Combustão é sempre:\n\n⬜ A) Endotérmica\n⬜ B) Exotérmica\n⬜ C) Isotérmica\n⬜ D) Adiabática\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "termo-q3", "type": "text", "x": 1000, "y": 120, "width": 350, "height": 120, "text": "**Q3**: Lei de Hess diz que ΔH depende:\n\n⬜ A) Do caminho\n⬜ B) Da velocidade\n⬜ C) Apenas de estado inicial/final\n⬜ D) Da pressão\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "org-titulo", "type": "text", "x": 400, "y": 300, "width": 350, "height": 50, "color": "2", "text": "### 5. Química Orgânica"},
+    {"id": "org-link", "type": "file", "x": 400, "y": 360, "width": 350, "height": 40, "file": "ENEM - NAT - Química Orgânica.md"},
+    {"id": "org-q1", "type": "text", "x": 200, "y": 420, "width": 350, "height": 120, "text": "**Q1**: Etanol tem grupo funcional:\n\n⬜ A) Aldeído\n⬜ B) Cetona\n⬜ C) Hidroxila (álcool)\n⬜ D) Carboxila\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "org-q2", "type": "text", "x": 600, "y": 420, "width": 350, "height": 120, "text": "**Q2**: Polímero PET é usado em:\n\n⬜ A) Sacolas\n⬜ B) Garrafas\n⬜ C) Tubos\n⬜ D) Isopor\n\n**Resposta**: ___ | ✅❌"},
+    {"id": "analise-titulo", "type": "text", "x": 400, "y": 600, "width": 500, "height": 50, "color": "5", "text": "## 📊 Análise de Desempenho"},
+    {"id": "analise-tabela", "type": "text", "x": 400, "y": 670, "width": 500, "height": 200, "text": "| Tópico | Acertos | Total | % |\n|--------|---------|-------|---|\n| Ecologia | | /3 | |\n| Genética | | /3 | |\n| Eletricidade | | /3 | |\n| Termoquímica | | /3 | |\n| Química Orgânica | | /2 | |\n| **TOTAL** | | **/14** | |\n\n**Revisão necessária**: ________________"},
+    {"id": "gabarito", "type": "text", "x": 400, "y": 900, "width": 500, "height": 150, "color": "1", "text": "### 🔑 Gabarito\n**Ecologia**: C, B, B\n**Genética**: C, C, C\n**Eletricidade**: B, B, B\n**Termoquímica**: B, B, C\n**Orgânica**: C, B"}
+  ],
+  "edges": [
+    {"id": "e1", "fromNode": "titulo", "toNode": "link-materia", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e2", "fromNode": "eco-titulo", "toNode": "eco-link", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e3", "fromNode": "gen-titulo", "toNode": "gen-link", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e4", "fromNode": "ele-titulo", "toNode": "ele-link", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e5", "fromNode": "termo-titulo", "toNode": "termo-link", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e6", "fromNode": "org-titulo", "toNode": "org-link", "fromSide": "bottom", "toSide": "top"}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"0ac8c148fec32c3a","x":-787,"y":-180,"width":634,"height":60,"type":"text","text":"Aisthesis > percepção > apreensão pelos sentidos "},
+		{"id":"77babcc28638f62b","x":-595,"y":-80,"width":250,"height":60,"type":"text","text":"SUSAN SONTAG"},
+		{"id":"56aadbb7b2852e44","x":-820,"y":20,"width":700,"height":200,"type":"text","text":"- Escritora, ensaísta, filósofa;\n- Sobre fotografia: um clássico da área;\n- Estética fotográfica enraizada em nossa vida e cultura;\n- Fotografia e Violência."},
+		{"id":"bf5b6173fdeacb76","x":-80,"y":90,"width":330,"height":60,"type":"text","text":"Livro: Sobre Fotografia "},
+		{"id":"b0f71f5a770b0e9f","x":-550,"y":-480,"width":160,"height":60,"type":"text","text":"Estética"},
+		{"id":"7e12643e0e6da30b","x":-673,"y":-380,"width":406,"height":180,"type":"text","text":"Ramo da filosofia que investiga nossas reações à forma pela qual as coias se apresentam à nós."},
+		{"id":"49233cd01bd857e9","x":-278,"y":-80,"width":250,"height":60,"type":"text","text":"Foto jornalismo"}
+	],
+	"edges":[
+		{"id":"7cfc3015f0a52f95","fromNode":"77babcc28638f62b","fromSide":"bottom","toNode":"56aadbb7b2852e44","toSide":"top"},
+		{"id":"71733a3336fc99fa","fromNode":"0ac8c148fec32c3a","fromSide":"bottom","toNode":"77babcc28638f62b","toSide":"top"},
+		{"id":"e482d9310b7427b2","fromNode":"56aadbb7b2852e44","fromSide":"right","toNode":"bf5b6173fdeacb76","toSide":"left"},
+		{"id":"ae82e41144464f26","fromNode":"b0f71f5a770b0e9f","fromSide":"bottom","toNode":"7e12643e0e6da30b","toSide":"top"},
+		{"id":"b05c5218c498e882","fromNode":"7e12643e0e6da30b","fromSide":"bottom","toNode":"0ac8c148fec32c3a","toSide":"top"},
+		{"id":"97753a71dc68a74e","fromNode":"77babcc28638f62b","fromSide":"right","toNode":"49233cd01bd857e9","toSide":"left"}
+	]
+}

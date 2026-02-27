@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"8f80ee94b12ab340","x":-1068,"y":-1300,"width":770,"height":401,"color":"1","type":"text","text":"Linguagem fotográfica.\n\nlinguagem > cognição > modo de ver e pensar o mundo\n\nA câmera fotográfica é um equiapamento á disposição do fotógrafo. é o fotógrafo o responsábel por criar a imagem a partir do seu olhar, das suas convicções e da sua forma de expressão. A fotográfia, portanto, não é o \"espelho do real\", mas um discurso, uma construção criadad sob um determinado ponto de  vista. \n\n\n"},
+		{"id":"db04ffc4862f20d9","x":-260,"y":-1210,"width":536,"height":72,"color":"1","type":"text","text":"Efervescência científica, politica e artística "},
+		{"id":"78a1668e833cdb06","x":-85,"y":-1300,"width":187,"height":70,"color":"1","type":"text","text":"Século 19 "},
+		{"id":"3cc90853a4832732","x":-260,"y":-1138,"width":536,"height":58,"color":"1","type":"text","text":"Impérios e a exploração colonial"},
+		{"id":"cbf8306ce62c9708","x":-260,"y":-1070,"width":536,"height":50,"color":"1","type":"text","text":"Movimentos de Urbanização"},
+		{"id":"dda74d2257c16fdd","x":-260,"y":-1020,"width":536,"height":50,"color":"1","type":"text","text":"Aceleração da Revolução industrial"},
+		{"id":"26bec573bf28274a","x":-885,"y":-860,"width":404,"height":348,"type":"text","text":"Invenção da Fotografia em 1839.\n\nFim da supremacia artística das classes dominantes ?\n\nA maquina começa a fazer a arte ou asssim se pensava...\n\n"},
+		{"id":"8faceab6bc7332e8","x":-460,"y":-711,"width":524,"height":50,"type":"text","text":"surgimento da cidade da foto = Londres"},
+		{"id":"c87eb27a3be1e3f8","x":-328,"y":-640,"width":261,"height":192,"type":"text","text":"Oportunidade da classe baixa fazer arte a partir da fotografia "}
+	],
+	"edges":[
+		{"id":"faea29c86a73fa24","fromNode":"8f80ee94b12ab340","fromSide":"top","toNode":"78a1668e833cdb06","toSide":"top"},
+		{"id":"5b04e057127aba8b","fromNode":"8f80ee94b12ab340","fromSide":"bottom","toNode":"26bec573bf28274a","toSide":"top"},
+		{"id":"24fab74e10b7c321","fromNode":"26bec573bf28274a","fromSide":"right","toNode":"8faceab6bc7332e8","toSide":"left"},
+		{"id":"16bbd8d633b60ad1","fromNode":"8faceab6bc7332e8","fromSide":"bottom","toNode":"c87eb27a3be1e3f8","toSide":"top"}
+	]
+}

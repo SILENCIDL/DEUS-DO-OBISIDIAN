@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"4aa48ed90ff75ca6","type":"text","text":"criar cartão de fotografia ","x":-760,"y":-560,"width":250,"height":116},
+		{"id":"0fde102bca21825c","type":"text","text":"auto retrato\n","x":-760,"y":-245,"width":250,"height":60},
+		{"id":"4df5121842e7738a","type":"text","text":"impreesão de 100 cartões dependendo do preço\n","x":-362,"y":-544,"width":250,"height":85},
+		{"id":"5d0a55146ca89509","type":"text","text":"VER SE É MELHOR, DIVIDIR O ARQUIVO DO CARTÃO EM 3 IMAGENS E FIXAR COMO 3 PUBLICAÇÕES, OU DESTAQUE.","x":-419,"y":-330,"width":365,"height":230},
+		{"id":"e99aee050262eb12","type":"text","text":"","x":20,"y":-780,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"62e79683ef32ab63","fromNode":"4aa48ed90ff75ca6","fromSide":"bottom","toNode":"0fde102bca21825c","toSide":"top"},
+		{"id":"6a67ffc6dd6e619b","fromNode":"4aa48ed90ff75ca6","fromSide":"right","toNode":"4df5121842e7738a","toSide":"left"},
+		{"id":"03e94947acce8202","fromNode":"4df5121842e7738a","fromSide":"bottom","toNode":"5d0a55146ca89509","toSide":"top"},
+		{"id":"665382f06dbb5337","fromNode":"0fde102bca21825c","fromSide":"right","toNode":"5d0a55146ca89509","toSide":"left"}
+	]
+}

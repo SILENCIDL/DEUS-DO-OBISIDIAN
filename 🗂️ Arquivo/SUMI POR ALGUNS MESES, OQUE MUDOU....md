@@ -1,0 +1,3 @@
+Categoria: [[VINICIUS RAFAEL - Meu universo]]
+
+Bom, mudaram muitas coisas, muitas ações aconteceram, virei clt, trabalhei 2 meses e meio em 1 deposito aqui na minha cidade, de começo fui pois precisava de dinheiro, e não tinha quase nada de dinheiro usei a chance de aprender coisas novas, foi uma boa experiencia, por mais que eu não tenha gostado tanto, me ajudou a entender oque realmente é o sistema trabalhista brasileiro, e me ajudou a abrir minha mente para outros lugares, e quando apareceu outras chances pedi conta, mesmo sabendo que poderia ficar ali por mais um bom tempo e recebendo um pouco mais que um salario mínimo fiz cursos, fui atras do meu sonho estou trabalhando com algo que eu gosto, estou tentando estruturar minha vida. Qu
