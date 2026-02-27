@@ -1,7 +1,7 @@
 ---
 tags: [eu, central, cor/vermelho-255-50-50]
 tipo: nódulo-central
-updated: 2026-01-25
+updated: 2026-02-27
 ---
 
 # 🎯 Vinicius Rafael — Meu universo
@@ -12,27 +12,30 @@ Este é o **nódulo central** que conecta todas as áreas da minha vida.
 
 ---
 
-## 🔗 Meus 11 pilares
+## 🗂️ Estrutura do Vault
 
 ### 💼 Trabalho e profissão
-1. [[AUDIOVISUAL - Minha área completa]]
-2. [[FOTOGRAFIA - Arte, técnica e negócio]]
-3. [[LOJA VRGS - E-commerce de roupas]]
+- [[AUDIOVISUAL - Minha área completa]] — Fotografia e vídeo
+- [[FOTOGRAFIA - Arte, técnica e negócio]] — Hub da fotografia
+- [[LOJA VRGS - E-commerce de roupas]] — Minha loja
 
 ### 📱 Presença digital
-4. [[INSTAGRAM - Minha vitrine visual]]
-5. [[YOUTUBE - Meu canal de vídeos]]
+- [[INSTAGRAM - Minha vitrine visual]] — Instagram
+- [[YOUTUBE - Meu canal de vídeos]] — YouTube
 
-### 📚 Desenvolvimento
-6. [[ESTUDOS E CURSOS - Meu aprendizado]]
-7. [[LEITURA - Livros e conhecimento]]
+### 📚 Desenvolvimento pessoal
+- [[ESTUDOS E CURSOS - Meu aprendizado]] — Estudos gerais
+- [[LEITURA - Livros e conhecimento]] — Leituras
+- [[🌐 Idiomas/00_HUB/IDIOMAS-HUB-Central]] — Espanhol, Russo e +
 
 ### 💰 Gestão
-8. [[FINANCEIRO - Dinheiro e metas]]
-9. [[PLANEJAMENTO - Organização e direções]]
+- [[FINANCEIRO - Dinheiro e metas]] — Dinheiro e metas
+- [[PLANEJAMENTO - Organização e direções]] — Estratégia de vida
 
-### 🌐 Conhecimento expandido
-10. [[HISTÓRIA DA FOTOGRAFIA - 200 anos]]
+### 🎯 Pessoal
+- [[🎯 Pessoal/PESSOAL-HUB]] — Identidade e reflexões
+- [[📓 Diário/DIARIO-HUB]] — Registros do dia a dia
+- [[🏋️ Saúde & Rotina/SAUDE-HUB]] — Corpo e disciplina
 
 ---
 
