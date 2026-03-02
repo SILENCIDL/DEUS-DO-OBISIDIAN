@@ -1,43 +1,80 @@
 ---
 tags: [eu, central, cor/vermelho-255-50-50]
 tipo: nódulo-central
-updated: 2026-01-25
+updated: 2026-02-27
 ---
 
 # 🎯 Vinicius Rafael — Meu universo
 
 > *"Organizar é o primeiro passo para conquistar."*
 
-Este é o **nódulo central** que conecta todas as áreas da minha vida.
+**19 anos | Fotógrafo + Criador | Sapucaí-SP**
 
 ---
 
-## 🔗 Meus 11 pilares
+## 🗺️ Mapa do Vault
 
-### 💼 Trabalho e profissão
-1. [[AUDIOVISUAL - Minha área completa]]
-2. [[FOTOGRAFIA - Arte, técnica e negócio]]
-3. [[LOJA VRGS - E-commerce de roupas]]
+### 📸 Trabalho e Criação
+| Área | Hub | Status |
+|------|-----|--------|
+| Fotografia (Arte, Técnica, Negócio) | [[FOTOGRAFIA - Arte, técnica e negócio]] | ✅ Principal |
+| Audiovisual completo | [[AUDIOVISUAL - Minha área completa]] | ✅ Ativo |
+| Produção (áudio, vídeo, criatividade) | [[📱 Conteúdo/PRODUCAO - Ferramentas e Criatividade]] | 🟡 Construindo |
 
-### 📱 Presença digital
-4. [[INSTAGRAM - Minha vitrine visual]]
-5. [[YOUTUBE - Meu canal de vídeos]]
+### 📱 Presença Digital
+| Plataforma | Hub | Meta 2026 |
+|-----------|-----|-----------|
+| Instagram | [[📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual]] | 10k seguidores |
+| YouTube | [[📱 Conteúdo/YouTube/YOUTUBE - Meu canal de vídeos]] | 1.000 inscritos |
+
+### 🛒 Negócios
+| Negócio | Hub | Status |
+|---------|-----|--------|
+| Loja VRGS | [[👕 VRGS/LOJA VRGS - E-commerce de roupas]] | 🟡 Crescendo |
+| Catálogo produtos | [[👕 VRGS/VRGS - Catálogo de Produtos]] | ⬜ Estruturando |
+| Crochê | [[👕 VRGS/CROCHE - Arte e Produtos]] | 🟡 Ativo |
+| Estratégia de negócios | [[💼 Negócios/01 - Personal Branding]] | ✅ Estudando |
+| Tráfego e anúncios | [[💼 Negócios/TRAFEGO - Orgânico e Pago]] | ⬜ Aprendendo |
+| Copy e persuasão | [[💼 Negócios/COPY e Persuasão]] | ⬜ Aprendendo |
+
+### 💰 Financeiro
+| Área | Hub |
+|------|-----|
+| Controle financeiro | [[💰 Finanças/FINANCEIRO - Dinheiro e metas]] |
+| Investimentos | [[💰 Finanças/INVESTIMENTOS - Estudos e Estratégias]] |
 
 ### 📚 Desenvolvimento
-6. [[ESTUDOS E CURSOS - Meu aprendizado]]
-7. [[LEITURA - Livros e conhecimento]]
+| Área | Hub |
+|------|-----|
+| Estudos e cursos | [[📚 Estudos/ESTUDOS E CURSOS - Meu aprendizado]] |
+| Leitura | [[📚 Estudos/LEITURA - Livros e conhecimento]] |
+| Idiomas (ESP + RUS) | [[🌐 Idiomas/00_HUB/IDIOMAS-HUB-Central]] |
+| Anhanguera | [[📚 Estudos/ANHANGUERA/ANHANGUERA]] |
 
-### 💰 Gestão
-8. [[FINANCEIRO - Dinheiro e metas]]
-9. [[PLANEJAMENTO - Organização e direções]]
-
-### 🌐 Conhecimento expandido
-10. [[HISTÓRIA DA FOTOGRAFIA - 200 anos]]
+### 🎯 Vida Pessoal
+| Área | Hub |
+|------|-----|
+| Identidade e reflexões | [[🎯 Pessoal/PESSOAL-HUB]] |
+| Rotina diária | [[🏋️ Saúde & Rotina/ROTINA]] |
+| Hábitos | [[🏋️ Saúde & Rotina/HABITOS]] |
+| Diário | [[📓 Diário/DIARIO-HUB]] |
+| Planejamento estratégico | [[PLANEJAMENTO - Organização e direções]] |
 
 ---
 
-## 📊 Status atual
-- **Foco principal**: Audiovisual e Fotografia
-- **Renda**: Fotografia freelancer + Loja VRGS
-- **Objetivo 2026**: Consolidar presença digital
+## 📊 Status — Fevereiro 2026
 
+| Área | Situação | Prioridade |
+|------|---------|-----------|
+| Fotografia freelancer | ✅ Ativa e gerando renda | 🔴 Alta |
+| Instagram | 🟡 Construindo presença | 🔴 Alta |
+| YouTube | ⬜ Não iniciado | 🟡 Média |
+| Loja VRGS | 🟡 Em estruturação | 🟡 Média |
+| Idiomas | 🟡 Estudando | 🟢 Baixa |
+| Investimentos | ⬜ Reserva ainda não formada | 🟡 Média |
+
+---
+
+## 🔗 Quem sou
+- [[🎯 Pessoal/QUEM SOU EU]] — Minha identidade
+- [[💼 Negócios/Meu Perfil]] — Perfil profissional
