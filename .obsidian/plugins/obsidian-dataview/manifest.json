@@ -1,0 +1,9 @@
+{
+  "id": "dataview",
+  "name": "Dataview",
+  "version": "0.5.68",
+  "minAppVersion": "0.15.0",
+  "description": "Complex data views for the data-obsessed.",
+  "author": "Michael Brenan",
+  "isDesktopOnly": false
+}

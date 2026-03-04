@@ -1,0 +1,19 @@
+{
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "assets",
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "legacyEditor": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": true,
+  "strictLineBreaks": false,
+  "smartIndentList": true,
+  "spellcheck": false,
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "tabSize": 2
+}
