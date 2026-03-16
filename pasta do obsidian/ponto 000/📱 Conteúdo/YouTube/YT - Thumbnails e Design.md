@@ -120,3 +120,13 @@ updated: 2026-01-27
 - [[YT - SEO e Algoritmo]]
 - [[YT - Roteiros e Storytelling]]
 - [[AUDIOVISUAL - Minha área completa]]
+
+---
+
+## 🔗 Backlinks
+
+- [[YOUTUBE - Meu canal de vídeos]]
+- [[YT - Análise de Concorrência]]
+- [[YT - Edição e Pós-Produção]]
+- [[YT - Roteiros e Storytelling]]
+- [[YT - SEO e Algoritmo]]

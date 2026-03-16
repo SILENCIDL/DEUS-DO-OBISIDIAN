@@ -73,3 +73,18 @@ Todo domingo:
 - [[FINANCEIRO - Dinheiro e metas]]
 - [[ESTUDOS E CURSOS - Meu aprendizado]]
 
+---
+
+## 🔗 Backlinks
+
+- [[ENEM - Preparação para o exame]]
+- [[ESTUDOS E CURSOS - Meu aprendizado]]
+- [[FINANCEIRO - Dinheiro e metas]]
+- [[HABITOS]]
+- [[INVESTIMENTOS - Estudos e Estratégias]]
+- [[LEITURA - Livros e conhecimento]]
+- [[QUEM SOU EU]]
+- [[ROTINA]]
+- [[SAUDE-HUB]]
+- [[VINICIUS RAFAEL - Meu universo]]
+- [[_Index_of_ponto 000]]

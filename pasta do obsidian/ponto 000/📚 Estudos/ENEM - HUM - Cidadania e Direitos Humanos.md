@@ -203,3 +203,10 @@ O ENEM cobra:
 - [[ENEM - Redação]]
 - [[ENEM - Área de Ação.canvas]]
 
+---
+
+## 🔗 Backlinks
+
+- [[ENEM - Ciências Humanas]]
+- [[ENEM - Preparação para o exame]]
+- [[📊 Relatório do Vault]]

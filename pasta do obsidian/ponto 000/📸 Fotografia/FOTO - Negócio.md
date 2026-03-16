@@ -467,3 +467,11 @@ Data: ____/____/______
 - [[FINANCEIRO - Dinheiro e metas]]
 - [[Planejamento Financeiro]]
 - [[LOJA VRGS - E-commerce de roupas]]
+
+---
+
+## 🔗 Backlinks
+
+- [[FOTO - Arte]]
+- [[FOTO - Técnica]]
+- [[FOTOGRAFIA - Arte, técnica e negócio]]

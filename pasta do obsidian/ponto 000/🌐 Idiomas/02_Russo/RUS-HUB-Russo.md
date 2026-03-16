@@ -1,10 +1,15 @@
 ---
-tags: [russo, russia, cirilico, intercambio]
-tipo: hub-idioma
+date_modified: '2026-03-16'
 idioma: russo
 nivel-atual: A1
 nivel-meta: B1
 prazo: 24-meses
+tags:
+- russo
+- russia
+- cirilico
+- intercambio
+tipo: hub-idioma
 ---
 
 # 🇷🇺 РУССКИЙ — Hub de Estudos

@@ -190,3 +190,13 @@ O contexto do século XIX foi fundamental:
 ---
 
 **← Voltar para [[HISTÓRIA DA FOTOGRAFIA - 200 anos|📜 História da Fotografia]]**
+
+---
+
+## 🔗 Backlinks
+
+- [[Câmera Escura]]
+- [[Era da Fotografia Química]]
+- [[HISTÓRIA DA FOTOGRAFIA - 200 anos]]
+- [[Heliografia de Niépce]]
+- [[📊 Relatório do Vault]]

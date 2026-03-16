@@ -76,3 +76,22 @@ Minha estratégia de **diversificação de conhecimento**.
 - [[LEITURA - Livros e conhecimento]]
 - [[PLANEJAMENTO - Organização e direções]]
 
+---
+
+## 🔗 Backlinks
+
+- [[Analise]]
+- [[Biblioteca de Recursos]]
+- [[CPU]]
+- [[ENEM - Ciências Humanas]]
+- [[ENEM - Ciências da Natureza]]
+- [[ENEM - Linguagens e Códigos]]
+- [[ENEM - Matemática]]
+- [[ENEM - Preparação para o exame]]
+- [[ENEM - Redação]]
+- [[ESTUDOS DIRECIONAIS]]
+- [[Estudos]]
+- [[FOTOGRAFIA - Arte, técnica e negócio]]
+- [[LEITURA - Livros e conhecimento]]
+- [[PLANEJAMENTO - Organização e direções]]
+- [[Roteiro de Estudos]]

@@ -132,3 +132,25 @@ Receita Total
 - [[PLANEJAMENTO - Organização e direções]]
 - [[LOJA VRGS - E-commerce de roupas]]
 - [[📸 Fotografia/FOTOGRAFIA - Arte, técnica e negócio]]
+
+---
+
+## 🔗 Backlinks
+
+- [[CRYPTO]]
+- [[DINHEIRO (CONTROLE DE GASTOS)]]
+- [[FORMAS DE AUMENTAR O DINHEIRO]]
+- [[FOTO - Negócio]]
+- [[INVESTIMENTOS - Estudos e Estratégias]]
+- [[LOJA VRGS - E-commerce de roupas]]
+- [[LOW TICKT]]
+- [[NEG-ROI]]
+- [[PLANEJAMENTO - Organização e direções]]
+- [[Planejamento Financeiro]]
+- [[RENDA FIXA]]
+- [[RESERVAS]]
+- [[SPREAD]]
+- [[TRADE]]
+- [[YT - Monetização e Parcerias]]
+- [[gastos mensais fixos]]
+- [[📊 Relatório do Vault]]

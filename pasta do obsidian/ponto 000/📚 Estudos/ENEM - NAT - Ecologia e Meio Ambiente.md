@@ -129,3 +129,10 @@ Fixação (N₂ → NH₃) → Nitrificação → Assimilação → Desnitrifica
 - [[ENEM - NAT - Perguntas.canvas]]
 - [[ENEM - Área de Ação.canvas]]
 
+---
+
+## 🔗 Backlinks
+
+- [[ENEM - Ciências da Natureza]]
+- [[ENEM - Preparação para o exame]]
+- [[📊 Relatório do Vault]]

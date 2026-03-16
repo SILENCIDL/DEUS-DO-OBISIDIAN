@@ -1,7 +1,13 @@
 ---
-tags: [idiomas, recursos, gratuito, apps, sites]
-tipo: recursos
 categoria: Idiomas
+date_modified: '2026-03-16'
+tags:
+- idiomas
+- recursos
+- gratuito
+- apps
+- sites
+tipo: recursos
 ---
 
 # 🆓 Recursos Gratuitos para Idiomas

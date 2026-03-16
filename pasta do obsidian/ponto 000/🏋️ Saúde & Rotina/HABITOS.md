@@ -92,3 +92,11 @@ GATILHO → ROTINA → RECOMPENSA
 - [[ROTINA]]
 - [[JIU-JITSU, 1 TREINO COMIGO]]
 - [[PLANEJAMENTO - Organização e direções]]
+
+---
+
+## 🔗 Backlinks
+
+- [[IDEIAS DE VIDEO]]
+- [[ROTINA]]
+- [[SAUDE-HUB]]

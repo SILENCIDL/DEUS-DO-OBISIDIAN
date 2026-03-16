@@ -191,3 +191,12 @@ Iris                 =         Diafragma
 ---
 
 **← Voltar para [[HISTÓRIA DA FOTOGRAFIA - 200 anos|📜 História da Fotografia]]**
+
+---
+
+## 🔗 Backlinks
+
+- [[Era Pré-Fotográfica]]
+- [[HISTÓRIA DA FOTOGRAFIA - 200 anos]]
+- [[Heliografia de Niépce]]
+- [[📊 Relatório do Vault]]

@@ -231,3 +231,12 @@ ________________________________
 - [[Roteiro de Estudos]]
 
 #plano-de-ação #metas #checklist #organização #execução
+
+---
+
+## 🔗 Backlinks
+
+- [[14 - Escala e Crescimento]]
+- [[Exercícios Práticos]]
+- [[Ideas Extraordinárias - Monetização e Escala]]
+- [[📊 Relatório do Vault]]

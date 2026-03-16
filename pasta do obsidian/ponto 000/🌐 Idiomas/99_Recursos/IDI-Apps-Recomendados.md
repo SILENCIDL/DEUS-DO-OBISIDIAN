@@ -1,7 +1,12 @@
 ---
-tags: [idiomas, apps, ferramentas, recomendacao]
-tipo: recursos
 categoria: Idiomas
+date_modified: '2026-03-16'
+tags:
+- idiomas
+- apps
+- ferramentas
+- recomendacao
+tipo: recursos
 ---
 
 # 📱 Apps Recomendados para Idiomas

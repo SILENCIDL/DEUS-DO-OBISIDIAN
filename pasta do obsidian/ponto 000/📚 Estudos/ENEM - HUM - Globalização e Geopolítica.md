@@ -176,3 +176,10 @@ O ENEM cobra:
 - [[ENEM - HUM - Perguntas.canvas]]
 - [[ENEM - Área de Ação.canvas]]
 
+---
+
+## 🔗 Backlinks
+
+- [[ENEM - Ciências Humanas]]
+- [[ENEM - Preparação para o exame]]
+- [[📊 Relatório do Vault]]

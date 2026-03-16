@@ -231,3 +231,14 @@ OFERTA CLOSE FRIENDS
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #instagram #monetização #publipost #close-friends #afiliados
+
+---
+
+## 🔗 Backlinks
+
+- [[02 - Construção da Imagem]]
+- [[05 - Monetização YouTube]]
+- [[06 - Monetização TikTok]]
+- [[07 - Outras Plataformas]]
+- [[Ideas Extraordinárias - Monetização e Escala]]
+- [[📊 Relatório do Vault]]

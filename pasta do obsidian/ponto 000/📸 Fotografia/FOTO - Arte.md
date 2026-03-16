@@ -334,3 +334,12 @@ PUBLICAÇÃO: (Instagram? Exposição? Livro? Site?)
 - [[FOTO - Negócio]]
 - [[HISTÓRIA DA FOTOGRAFIA - 200 anos]]
 - [[AUDIOVISUAL - Minha área completa]]
+
+---
+
+## 🔗 Backlinks
+
+- [[FOTO - Negócio]]
+- [[FOTO - Técnica]]
+- [[FOTOGRAFIA - Arte, técnica e negócio]]
+- [[📊 Relatório do Vault]]

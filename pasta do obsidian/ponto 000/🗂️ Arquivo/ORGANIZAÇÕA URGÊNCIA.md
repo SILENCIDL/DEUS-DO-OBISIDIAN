@@ -1,3 +1,10 @@
+---
+tags: ['arquivo']
+tipo: nota
+date_created: 2026-03-16
+date_modified: 2026-03-16
+---
+
 - [ ] ORGANIZAÇÃO DO HD
 - [ ] LEITURA DOS LIVROS 50 PAGINAS DE CADA 1 POR DIA 
 - [ ] ORGANIZAÇÃO DO INSTAGRAM (DESTAQUES, PUBLICAÇÕES, FOTO DE PERFIL.)

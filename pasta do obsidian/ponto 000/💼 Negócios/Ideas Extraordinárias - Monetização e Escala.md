@@ -166,3 +166,33 @@ FUNDO (Conversão)
 ---
 
 #monetização #instagram #youtube #empreendedorismo #escala #ideias
+
+---
+
+## 🔗 Backlinks
+
+- [[01 - Personal Branding]]
+- [[03 - Estrutura Empresarial]]
+- [[04 - Monetização Instagram]]
+- [[05 - Monetização YouTube]]
+- [[06 - Monetização TikTok]]
+- [[07 - Outras Plataformas]]
+- [[08 - Produtos Digitais]]
+- [[09 - Funil de Vendas]]
+- [[10 - Precificação]]
+- [[11 - Gestão Financeira]]
+- [[12 - Automação e Sistemas]]
+- [[13 - Equipe e Delegação]]
+- [[14 - Escala e Crescimento]]
+- [[15 - Plano de Ação]]
+- [[Banco de Ideias]]
+- [[Biblioteca de Recursos]]
+- [[Calendário de Conteúdo]]
+- [[Exercícios Práticos]]
+- [[Glossário Completo]]
+- [[Meu Perfil]]
+- [[Planejamento Financeiro]]
+- [[Roteiro de Estudos]]
+- [[YOUTUBE - Meu canal de vídeos]]
+- [[YT - Monetização e Parcerias]]
+- [[📊 Relatório do Vault]]

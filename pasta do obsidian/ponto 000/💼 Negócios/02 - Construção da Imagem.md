@@ -148,3 +148,12 @@ graph TD
 - [[04 - Monetização Instagram]]
 
 #imagem #identidade-visual #autoridade #branding
+
+---
+
+## 🔗 Backlinks
+
+- [[01 - Personal Branding]]
+- [[03 - Estrutura Empresarial]]
+- [[Ideas Extraordinárias - Monetização e Escala]]
+- [[📊 Relatório do Vault]]

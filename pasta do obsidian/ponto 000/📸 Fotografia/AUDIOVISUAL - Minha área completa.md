@@ -59,3 +59,15 @@ Audiovisual é o guarda-chuva de tudo que envolve **imagem e som**.
 - [[INSTAGRAM - Minha vitrine visual]]
 - [[YOUTUBE - Meu canal de vídeos]]
 
+---
+
+## 🔗 Backlinks
+
+- [[FOTO - Arte]]
+- [[FOTO - Técnica]]
+- [[FOTOGRAFIA - Arte, técnica e negócio]]
+- [[INSTAGRAM - Minha vitrine visual]]
+- [[VINICIUS RAFAEL - Meu universo]]
+- [[YOUTUBE - Meu canal de vídeos]]
+- [[YT - Edição e Pós-Produção]]
+- [[YT - Thumbnails e Design]]

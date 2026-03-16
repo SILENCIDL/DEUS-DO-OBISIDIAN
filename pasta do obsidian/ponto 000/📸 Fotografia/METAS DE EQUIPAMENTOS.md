@@ -7,3 +7,12 @@ FOTOGRAFIA
 VIDEO
 CPU
 
+---
+
+## 🔗 Backlinks
+
+- [[CONT-AUDIO]]
+- [[CONT-VIDEO]]
+- [[CPU]]
+- [[Fotografia]]
+- [[📊 Relatório do Vault]]

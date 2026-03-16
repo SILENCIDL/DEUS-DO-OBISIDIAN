@@ -180,3 +180,13 @@ valor de R$ XXX].
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #empresa #mei #cnpj #nota-fiscal #contratos
+
+---
+
+## 🔗 Backlinks
+
+- [[01 - Personal Branding]]
+- [[02 - Construção da Imagem]]
+- [[11 - Gestão Financeira]]
+- [[Ideas Extraordinárias - Monetização e Escala]]
+- [[📊 Relatório do Vault]]

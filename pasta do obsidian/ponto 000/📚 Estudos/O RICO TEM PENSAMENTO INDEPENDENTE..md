@@ -1,4 +1,4 @@
 Categoria: [[LEITURA - Livros e conhecimento]]
 
-[[ESTUDOS DE FINANÇAS.]]
+[[ESTUDOS DE FINANÇAS]]
 

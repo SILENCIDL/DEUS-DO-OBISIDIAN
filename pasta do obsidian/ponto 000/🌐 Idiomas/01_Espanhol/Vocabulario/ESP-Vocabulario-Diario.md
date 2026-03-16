@@ -132,3 +132,11 @@ categoria: Espanhol
 **← Voltar para [[ESP-HUB-Espanhol|🇪🇸 HUB Espanhol]]**
 
 #espanhol #vocabulario #palavras #flashcards
+
+---
+
+## 🔗 Backlinks
+
+- [[ESP-HUB-Espanhol]]
+- [[IDIOMAS-HUB-Central]]
+- [[📊 Relatório do Vault]]

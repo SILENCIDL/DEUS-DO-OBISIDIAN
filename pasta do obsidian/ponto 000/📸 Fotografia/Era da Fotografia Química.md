@@ -344,3 +344,13 @@ Fotógrafos precisavam levar uma **tenda escura** para revelar as placas imediat
 ---
 
 **← Voltar para [[HISTÓRIA DA FOTOGRAFIA - 200 anos|📜 História da Fotografia]]**
+
+---
+
+## 🔗 Backlinks
+
+- [[Era Pré-Fotográfica]]
+- [[Era da Fotografia Moderna]]
+- [[HISTÓRIA DA FOTOGRAFIA - 200 anos]]
+- [[Heliografia de Niépce]]
+- [[📊 Relatório do Vault]]

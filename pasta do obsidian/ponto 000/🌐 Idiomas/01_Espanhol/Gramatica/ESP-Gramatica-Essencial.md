@@ -206,3 +206,11 @@ categoria: Espanhol
 **← Voltar para [[ESP-HUB-Espanhol|🇪🇸 HUB Espanhol]]**
 
 #espanhol #gramatica #verbos #conjugacao #ser-vs-estar
+
+---
+
+## 🔗 Backlinks
+
+- [[ESP-HUB-Espanhol]]
+- [[IDIOMAS-HUB-Central]]
+- [[📊 Relatório do Vault]]

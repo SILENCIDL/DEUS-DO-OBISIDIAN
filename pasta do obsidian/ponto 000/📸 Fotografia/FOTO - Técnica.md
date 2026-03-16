@@ -309,3 +309,11 @@ Mude a altura: chão, cintura, olho, acima. Cada ângulo conta história diferen
 - [[FOTO - Negócio]]
 - [[AUDIOVISUAL - Minha área completa]]
 - [[YT - Edição e Pós-Produção]]
+
+---
+
+## 🔗 Backlinks
+
+- [[FOTO - Arte]]
+- [[FOTO - Negócio]]
+- [[FOTOGRAFIA - Arte, técnica e negócio]]

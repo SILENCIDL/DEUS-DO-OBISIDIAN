@@ -358,3 +358,12 @@ ERA CONTEMPORÂNEA (1920-1990) → ERA DIGITAL (1990+)
 ---
 
 **← Voltar para [[HISTÓRIA DA FOTOGRAFIA - 200 anos|📜 História da Fotografia]]**
+
+---
+
+## 🔗 Backlinks
+
+- [[Era da Fotografia Digital]]
+- [[Era da Fotografia Moderna]]
+- [[HISTÓRIA DA FOTOGRAFIA - 200 anos]]
+- [[📊 Relatório do Vault]]

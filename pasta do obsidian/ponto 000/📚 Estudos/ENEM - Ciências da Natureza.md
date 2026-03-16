@@ -228,3 +228,18 @@ pH = -log[H⁺] | pH + pOH = 14
 - [[ENEM - Área de Ação.canvas]]
 - [[ESTUDOS E CURSOS - Meu aprendizado]]
 
+---
+
+## 🔗 Backlinks
+
+- [[ENEM - Ciências Humanas]]
+- [[ENEM - Linguagens e Códigos]]
+- [[ENEM - Matemática]]
+- [[ENEM - NAT - Ecologia e Meio Ambiente]]
+- [[ENEM - NAT - Eletricidade]]
+- [[ENEM - NAT - Genética Básica]]
+- [[ENEM - NAT - Química Orgânica]]
+- [[ENEM - NAT - Termoquímica]]
+- [[ENEM - Preparação para o exame]]
+- [[ENEM - Redação]]
+- [[📊 Relatório do Vault]]

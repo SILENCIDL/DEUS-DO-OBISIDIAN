@@ -242,3 +242,18 @@ Categoria: [[ENEM - Preparação para o exame]]
 - [[ENEM - Área de Ação.canvas]]
 - [[ESTUDOS E CURSOS - Meu aprendizado]]
 
+---
+
+## 🔗 Backlinks
+
+- [[ENEM - Ciências da Natureza]]
+- [[ENEM - HUM - Brasil Colonial a República]]
+- [[ENEM - HUM - Cidadania e Direitos Humanos]]
+- [[ENEM - HUM - Era Vargas e Ditadura]]
+- [[ENEM - HUM - Globalização e Geopolítica]]
+- [[ENEM - HUM - Urbanização e Migração]]
+- [[ENEM - Linguagens e Códigos]]
+- [[ENEM - Matemática]]
+- [[ENEM - Preparação para o exame]]
+- [[ENEM - Redação]]
+- [[📊 Relatório do Vault]]

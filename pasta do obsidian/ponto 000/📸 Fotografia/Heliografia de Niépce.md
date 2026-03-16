@@ -243,3 +243,12 @@ Niépce se associou a **Louis Daguerre**, um cientista e artista que trabalhava 
 ---
 
 **← Voltar para [[HISTÓRIA DA FOTOGRAFIA - 200 anos|📜 História da Fotografia]]**
+
+---
+
+## 🔗 Backlinks
+
+- [[Câmera Escura]]
+- [[Era Pré-Fotográfica]]
+- [[HISTÓRIA DA FOTOGRAFIA - 200 anos]]
+- [[📊 Relatório do Vault]]

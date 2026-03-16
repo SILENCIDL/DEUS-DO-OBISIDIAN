@@ -543,3 +543,13 @@ MÊS 5-6:
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #estudos #aprendizado #trilha #desenvolvimento #capacitação
+
+---
+
+## 🔗 Backlinks
+
+- [[15 - Plano de Ação]]
+- [[Biblioteca de Recursos]]
+- [[Exercícios Práticos]]
+- [[Glossário Completo]]
+- [[Planejamento Financeiro]]

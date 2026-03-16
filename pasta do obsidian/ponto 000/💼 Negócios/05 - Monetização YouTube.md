@@ -190,3 +190,14 @@ pie title Tipos de Vídeo
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #youtube #adsense #monetização #patrocínio #seo
+
+---
+
+## 🔗 Backlinks
+
+- [[04 - Monetização Instagram]]
+- [[06 - Monetização TikTok]]
+- [[07 - Outras Plataformas]]
+- [[Ideas Extraordinárias - Monetização e Escala]]
+- [[YOUTUBE - Meu canal de vídeos]]
+- [[📊 Relatório do Vault]]

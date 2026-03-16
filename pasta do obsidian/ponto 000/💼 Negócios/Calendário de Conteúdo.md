@@ -465,3 +465,12 @@ Isso é pra você 👇
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #calendário #planejamento #conteúdo #organização #produtividade
+
+---
+
+## 🔗 Backlinks
+
+- [[Banco de Ideias]]
+- [[Ideas Extraordinárias - Monetização e Escala]]
+- [[YOUTUBE - Meu canal de vídeos]]
+- [[YT - Séries e Formatos Recorrentes]]

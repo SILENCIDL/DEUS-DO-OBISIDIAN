@@ -114,3 +114,10 @@ Composto sempre gera mais juros!
 - [[ENEM - MAT - Perguntas.canvas]]
 - [[ENEM - Área de Ação.canvas]]
 
+---
+
+## 🔗 Backlinks
+
+- [[ENEM - Matemática]]
+- [[ENEM - Preparação para o exame]]
+- [[📊 Relatório do Vault]]

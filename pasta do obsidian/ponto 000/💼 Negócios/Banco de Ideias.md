@@ -363,3 +363,14 @@ Este é seu **repositório pessoal de ideias**. Sempre que tiver uma ideia - boa
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #ideias #criatividade #conteúdo #brainstorm #planejamento
+
+---
+
+## 🔗 Backlinks
+
+- [[Calendário de Conteúdo]]
+- [[Ideas Extraordinárias - Monetização e Escala]]
+- [[YOUTUBE - Meu canal de vídeos]]
+- [[YT - Análise de Concorrência]]
+- [[YT - Séries e Formatos Recorrentes]]
+- [[📊 Relatório do Vault]]

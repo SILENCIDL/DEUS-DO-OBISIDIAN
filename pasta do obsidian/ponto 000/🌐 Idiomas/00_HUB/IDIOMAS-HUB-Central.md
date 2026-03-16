@@ -113,3 +113,14 @@ FRANCÊS:
 **🎯 Comece agora:** [[ESP-HUB-Espanhol|Ir para Espanhol]]
 
 #idiomas #espanhol #russo #intercambio #aprendizado
+
+---
+
+## 🔗 Backlinks
+
+- [[ESP-HUB-Espanhol]]
+- [[IDI-Apps-Recomendados]]
+- [[IDI-Professores-Online]]
+- [[IDI-Recursos-Gratuitos]]
+- [[RUS-HUB-Russo]]
+- [[📊 Relatório do Vault]]

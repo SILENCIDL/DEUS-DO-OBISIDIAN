@@ -444,3 +444,15 @@ CONCLUSÃO
 > 💡 **Lembrete**: O ENEM não é apenas uma prova, é uma oportunidade de transformar seu futuro. Dedique-se, organize-se e confie no seu potencial!
 
 **Bons estudos! 📚✨**
+
+---
+
+## 🔗 Backlinks
+
+- [[ENEM - Ciências Humanas]]
+- [[ENEM - Ciências da Natureza]]
+- [[ENEM - Linguagens e Códigos]]
+- [[ENEM - Matemática]]
+- [[ENEM - Redação]]
+- [[ESTUDOS E CURSOS - Meu aprendizado]]
+- [[📊 Relatório do Vault]]

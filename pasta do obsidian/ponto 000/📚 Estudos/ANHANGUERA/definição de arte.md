@@ -1,3 +1,10 @@
+---
+tags: ['estudos']
+tipo: nota
+date_created: 2026-03-16
+date_modified: 2026-03-16
+---
+
 # **OS PROBLEMAS DA ESTÉTICA (1997) LUIGI PAREYSON** 
 
 ### A arte é uma forma de conhecimento e de produção de sentidos realizada  a partir de um fazer técnico e formal que expressa algo próprio do seu criador.

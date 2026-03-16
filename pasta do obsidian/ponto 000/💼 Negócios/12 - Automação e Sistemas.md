@@ -231,3 +231,12 @@ Ticket → Notificação → Atribuição → Resposta
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #automação #sistemas #ferramentas #produtividade #sop
+
+---
+
+## 🔗 Backlinks
+
+- [[09 - Funil de Vendas]]
+- [[13 - Equipe e Delegação]]
+- [[Ideas Extraordinárias - Monetização e Escala]]
+- [[📊 Relatório do Vault]]

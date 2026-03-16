@@ -1,3 +1,10 @@
+---
+tags: ['negocios']
+tipo: nota
+date_created: 2026-03-16
+date_modified: 2026-03-16
+---
+
 
 Estratégia: Remodelamento de alguns Tópicos.
 - Biografia (Deixar mais profissional)

@@ -211,3 +211,14 @@ Reserva ideal: R$57.000
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #finanças #fluxo-de-caixa #impostos #mei #gestão
+
+---
+
+## 🔗 Backlinks
+
+- [[03 - Estrutura Empresarial]]
+- [[10 - Precificação]]
+- [[13 - Equipe e Delegação]]
+- [[14 - Escala e Crescimento]]
+- [[Ideas Extraordinárias - Monetização e Escala]]
+- [[📊 Relatório do Vault]]
