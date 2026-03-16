@@ -94,3 +94,11 @@ updated: 2026-02-27
 ## 🔗 Conexões
 - [[HABITOS]]
 - [[PLANEJAMENTO - Organização e direções]]
+
+---
+
+## 🔗 Backlinks
+
+- [[HABITOS]]
+- [[LISTA DE A FAZERES]]
+- [[SAUDE-HUB]]

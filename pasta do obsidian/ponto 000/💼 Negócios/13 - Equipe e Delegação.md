@@ -277,3 +277,12 @@ Como se candidatar:
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #equipe #delegação #contratação #gestão #liderança
+
+---
+
+## 🔗 Backlinks
+
+- [[12 - Automação e Sistemas]]
+- [[14 - Escala e Crescimento]]
+- [[Ideas Extraordinárias - Monetização e Escala]]
+- [[📊 Relatório do Vault]]

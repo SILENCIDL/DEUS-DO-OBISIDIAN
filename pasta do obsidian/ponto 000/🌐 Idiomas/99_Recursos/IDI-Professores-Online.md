@@ -1,7 +1,14 @@
 ---
-tags: [idiomas, professores, aulas, online, italki, preply]
-tipo: recursos
 categoria: Idiomas
+date_modified: '2026-03-16'
+tags:
+- idiomas
+- professores
+- aulas
+- online
+- italki
+- preply
+tipo: recursos
 ---
 
 # 👨‍🏫 Professores Online

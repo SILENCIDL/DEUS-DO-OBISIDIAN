@@ -1,7 +1,11 @@
 ---
-tags: [template, idiomas, vocabulario]
-tipo: template
 categoria: Idiomas
+date_modified: '2026-03-16'
+tags:
+- template
+- idiomas
+- vocabulario
+tipo: template
 ---
 
 # 📝 Template — Palavra do Dia

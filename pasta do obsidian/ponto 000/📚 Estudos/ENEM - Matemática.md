@@ -270,3 +270,18 @@ Probabilidade: P = favoráveis/possíveis
 - [[ENEM - Área de Ação.canvas]]
 - [[ESTUDOS E CURSOS - Meu aprendizado]]
 
+---
+
+## 🔗 Backlinks
+
+- [[ENEM - Ciências Humanas]]
+- [[ENEM - Ciências da Natureza]]
+- [[ENEM - Linguagens e Códigos]]
+- [[ENEM - MAT - Análise de Gráficos]]
+- [[ENEM - MAT - Geometria Plana]]
+- [[ENEM - MAT - Porcentagem e Juros]]
+- [[ENEM - MAT - Probabilidade e Estatística]]
+- [[ENEM - MAT - Razão e Proporção]]
+- [[ENEM - Preparação para o exame]]
+- [[ENEM - Redação]]
+- [[📊 Relatório do Vault]]

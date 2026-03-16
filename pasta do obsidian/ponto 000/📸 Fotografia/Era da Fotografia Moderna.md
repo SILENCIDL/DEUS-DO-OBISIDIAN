@@ -376,3 +376,12 @@ ERA MODERNA (1880-1920) → ERA CONTEMPORÂNEA (1920-1990)
 ---
 
 **← Voltar para [[HISTÓRIA DA FOTOGRAFIA - 200 anos|📜 História da Fotografia]]**
+
+---
+
+## 🔗 Backlinks
+
+- [[Era da Fotografia Contemporânea]]
+- [[Era da Fotografia Química]]
+- [[HISTÓRIA DA FOTOGRAFIA - 200 anos]]
+- [[📊 Relatório do Vault]]

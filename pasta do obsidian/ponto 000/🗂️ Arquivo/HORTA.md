@@ -1,3 +1,10 @@
+---
+tags: ['arquivo']
+tipo: nota
+date_created: 2026-03-16
+date_modified: 2026-03-16
+---
+
 Categoria: [[VINICIUS RAFAEL - Meu universo]]
 
 PLANTAR E CUIDAR DE VERDURAS, SERVERIA DE UMA OTIMA FORMA DE RENDA EXTRA E ALEM DE TUIDO, AJUDA TER O PROPRIO ALIMENTO DENTRO DE CASA.

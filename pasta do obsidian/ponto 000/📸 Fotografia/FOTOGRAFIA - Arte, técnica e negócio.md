@@ -211,3 +211,16 @@ Impressão de fotografias em **papéis especiais** de alta qualidade.
 - [[LOJA VRGS - E-commerce de roupas]]
 - [[INSTAGRAM - Minha vitrine digital]]
 
+---
+
+## 🔗 Backlinks
+
+- [[AUDIOVISUAL - Minha área completa]]
+- [[ESTUDOS E CURSOS - Meu aprendizado]]
+- [[FOTO - Arte]]
+- [[FOTO - Negócio]]
+- [[FOTO - Técnica]]
+- [[INSTAGRAM - Minha vitrine visual]]
+- [[INVESTIMENTOS - Estudos e Estratégias]]
+- [[VINICIUS RAFAEL - Meu universo]]
+- [[📊 Relatório do Vault]]

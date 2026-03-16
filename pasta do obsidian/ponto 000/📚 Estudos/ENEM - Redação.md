@@ -279,3 +279,14 @@ Categoria: [[ENEM - Preparação para o exame]]
 - [[ENEM - Área de Ação.canvas]]
 - [[ESTUDOS E CURSOS - Meu aprendizado]]
 
+---
+
+## 🔗 Backlinks
+
+- [[ENEM - Ciências Humanas]]
+- [[ENEM - Ciências da Natureza]]
+- [[ENEM - HUM - Cidadania e Direitos Humanos]]
+- [[ENEM - Linguagens e Códigos]]
+- [[ENEM - Matemática]]
+- [[ENEM - Preparação para o exame]]
+- [[📊 Relatório do Vault]]

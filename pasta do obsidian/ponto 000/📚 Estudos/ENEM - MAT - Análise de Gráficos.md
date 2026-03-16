@@ -121,3 +121,10 @@ Cuidado com alternativas que:
 - [[ENEM - MAT - Perguntas.canvas]]
 - [[ENEM - Área de Ação.canvas]]
 
+---
+
+## 🔗 Backlinks
+
+- [[ENEM - Matemática]]
+- [[ENEM - Preparação para o exame]]
+- [[📊 Relatório do Vault]]

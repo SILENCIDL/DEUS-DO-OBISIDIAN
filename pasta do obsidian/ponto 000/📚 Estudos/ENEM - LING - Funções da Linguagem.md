@@ -120,3 +120,10 @@ No ENEM, a questão geralmente:
 - [[ENEM - LING - Perguntas.canvas]]
 - [[ENEM - Área de Ação.canvas]]
 
+---
+
+## 🔗 Backlinks
+
+- [[ENEM - Linguagens e Códigos]]
+- [[ENEM - Preparação para o exame]]
+- [[📊 Relatório do Vault]]

@@ -692,3 +692,20 @@ Conexão em tempo real com a audiência.
 - [[YT - Análise de Concorrência]] — Estudar canais e encontrar lacunas
 - [[YT - Séries e Formatos Recorrentes]] — Formatos que criam hábito
 - [[YT - Crescimento e Comunidade]] — Estratégias para escalar e engajar
+
+---
+
+## 🔗 Backlinks
+
+- [[AUDIOVISUAL - Minha área completa]]
+- [[INSTAGRAM - Minha vitrine visual]]
+- [[INVESTIMENTOS - Estudos e Estratégias]]
+- [[YT - Análise de Concorrência]]
+- [[YT - Crescimento e Comunidade]]
+- [[YT - Edição e Pós-Produção]]
+- [[YT - Monetização e Parcerias]]
+- [[YT - Roteiros e Storytelling]]
+- [[YT - SEO e Algoritmo]]
+- [[YT - Séries e Formatos Recorrentes]]
+- [[YT - Thumbnails e Design]]
+- [[📊 Relatório do Vault]]

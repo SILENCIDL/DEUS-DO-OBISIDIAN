@@ -147,3 +147,13 @@ MÚSICA/SFX:
 - [[YT - SEO e Algoritmo]]
 - [[YT - Thumbnails e Design]]
 - [[YT - Edição e Pós-Produção]]
+
+---
+
+## 🔗 Backlinks
+
+- [[YOUTUBE - Meu canal de vídeos]]
+- [[YT - Edição e Pós-Produção]]
+- [[YT - SEO e Algoritmo]]
+- [[YT - Séries e Formatos Recorrentes]]
+- [[YT - Thumbnails e Design]]

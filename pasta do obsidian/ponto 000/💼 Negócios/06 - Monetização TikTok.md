@@ -161,3 +161,13 @@ Produto/Serviço (Venda)
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #tiktok #viral #ugc #lives #monetização
+
+---
+
+## 🔗 Backlinks
+
+- [[04 - Monetização Instagram]]
+- [[05 - Monetização YouTube]]
+- [[07 - Outras Plataformas]]
+- [[Ideas Extraordinárias - Monetização e Escala]]
+- [[📊 Relatório do Vault]]

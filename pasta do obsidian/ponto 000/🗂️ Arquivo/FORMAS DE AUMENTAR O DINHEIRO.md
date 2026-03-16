@@ -6,3 +6,11 @@ Categoria: [[FINANCEIRO - Dinheiro e metas]]
 [[ANUNCIOS]]
 [[YOUTUBE (CRIAÇÃO DE CONTEÚDO)]]
 
+---
+
+## 🔗 Backlinks
+
+- [[ESTUDOS DE FINANÇAS]]
+- [[FOTOGRAFIA (ESTUDOS + INSPIRAÇÕES E DICAS. )]]
+- [[VRGS-LOJA DE ROUPAS]]
+- [[📊 Relatório do Vault]]

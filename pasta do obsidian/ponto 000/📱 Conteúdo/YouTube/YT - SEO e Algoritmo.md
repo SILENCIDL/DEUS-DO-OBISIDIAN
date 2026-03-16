@@ -149,3 +149,14 @@ ME SIGA:
 - [[YOUTUBE - Meu canal de vídeos]]
 - [[YT - Thumbnails e Design]]
 - [[YT - Roteiros e Storytelling]]
+
+---
+
+## 🔗 Backlinks
+
+- [[YOUTUBE - Meu canal de vídeos]]
+- [[YT - Análise de Concorrência]]
+- [[YT - Crescimento e Comunidade]]
+- [[YT - Monetização e Parcerias]]
+- [[YT - Roteiros e Storytelling]]
+- [[YT - Thumbnails e Design]]

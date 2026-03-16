@@ -267,3 +267,14 @@ Email 2
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #funil #vendas #conversão #email-marketing #automação
+
+---
+
+## 🔗 Backlinks
+
+- [[04 - Monetização Instagram]]
+- [[08 - Produtos Digitais]]
+- [[10 - Precificação]]
+- [[12 - Automação e Sistemas]]
+- [[Ideas Extraordinárias - Monetização e Escala]]
+- [[📊 Relatório do Vault]]

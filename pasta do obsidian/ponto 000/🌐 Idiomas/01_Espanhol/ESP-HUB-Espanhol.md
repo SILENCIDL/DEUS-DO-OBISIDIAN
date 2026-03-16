@@ -142,3 +142,14 @@ LIMIT 5
 **← Voltar para [[IDIOMAS-HUB-Central|🌍 HUB Idiomas]]**
 
 #espanhol #aprender-idioma #intercambio #españa #cuba
+
+---
+
+## 🔗 Backlinks
+
+- [[ESP-Cultura-Hispanica]]
+- [[ESP-Frases-Uteis]]
+- [[ESP-Gramatica-Essencial]]
+- [[ESP-Vocabulario-Diario]]
+- [[IDIOMAS-HUB-Central]]
+- [[📊 Relatório do Vault]]

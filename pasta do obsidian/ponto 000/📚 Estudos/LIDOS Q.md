@@ -15,3 +15,12 @@ Categoria: [[LEITURA - Livros e conhecimento]]
 6. LIVRO [[O PODER DA AUTO RESPONSABILIDADE]]
 7. LIVRO [[DISCIPLINA É LIBERDADE (JOCKO WILLINK)]]
 8. LIVRO [[NUNCA É HORA DE PARAR (DAVID GOGGINS)]]
+
+---
+
+## 🔗 Backlinks
+
+- [[LIDOS Q]]
+- [[NADA PODE ME FERIR]]
+- [[NÃO LIDOS]]
+- [[📊 Relatório do Vault]]

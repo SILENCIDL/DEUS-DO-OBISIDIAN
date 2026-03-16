@@ -78,3 +78,44 @@ updated: 2026-02-27
 ## 🔗 Quem sou
 - [[🎯 Pessoal/QUEM SOU EU]] — Minha identidade
 - [[💼 Negócios/Meu Perfil]] — Perfil profissional
+
+---
+
+## 🔗 Backlinks
+
+- [[2025-05-20]]
+- [[2025-07-31]]
+- [[31.08.2025]]
+- [[A GRANDE CONTROVERSA]]
+- [[AUDIOVISUAL - Minha área completa]]
+- [[CONT-Coloque suas ideias]]
+- [[DIARIO-HUB]]
+- [[DIRETO DE CUBA]]
+- [[ELISIANE AULAS AO VIVO]]
+- [[ENEM - Preparação para o exame]]
+- [[ESTUDOS E CURSOS - Meu aprendizado]]
+- [[FIM DA ESCOLA INICIO DOS MEUS PLANOS]]
+- [[FINANCEIRO - Dinheiro e metas]]
+- [[FOTOGRAFIA - Arte, técnica e negócio]]
+- [[HISTÓRIA DA FOTOGRAFIA - 200 anos]]
+- [[HORTA]]
+- [[INFLUENCIADORES VIRTUAIS - Framework de Criação]]
+- [[INSTAGRAM - Minha vitrine visual]]
+- [[JIU-JITSU, 1 TREINO COMIGO]]
+- [[LEITURA - Livros e conhecimento]]
+- [[LISTA DE A FAZERES]]
+- [[LOJA VRGS - E-commerce de roupas]]
+- [[Meu Perfil]]
+- [[PEOJETO MY  LOVE]]
+- [[PESSOAL-HUB]]
+- [[PLANEJAMENTO - Organização e direções]]
+- [[PLANEJAMENTO DA HORTA]]
+- [[POLEMICAS]]
+- [[QUEM SOU EU]]
+- [[SAUDE-HUB]]
+- [[SUMI POR ALGUNS MESES, OQUE MUDOU]]
+- [[TRABALHE, TREINE, FOQUE, PRODUZA, REPITA O PROCESSO]]
+- [[YOUTUBE - Meu canal de vídeos]]
+- [[_Index_of_ponto 000]]
+- [[senhas perfis]]
+- [[📊 Relatório do Vault]]

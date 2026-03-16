@@ -240,3 +240,14 @@ SEMANA 2: PÓS-LANÇAMENTO
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #escala #crescimento #tráfego-pago #lançamento #expansão
+
+---
+
+## 🔗 Backlinks
+
+- [[11 - Gestão Financeira]]
+- [[12 - Automação e Sistemas]]
+- [[13 - Equipe e Delegação]]
+- [[15 - Plano de Ação]]
+- [[Ideas Extraordinárias - Monetização e Escala]]
+- [[📊 Relatório do Vault]]

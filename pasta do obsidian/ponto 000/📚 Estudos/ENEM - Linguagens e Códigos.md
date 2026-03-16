@@ -194,3 +194,18 @@ Categoria: [[ENEM - Preparação para o exame]]
 - [[ENEM - Área de Ação.canvas]]
 - [[ESTUDOS E CURSOS - Meu aprendizado]]
 
+---
+
+## 🔗 Backlinks
+
+- [[ENEM - Ciências Humanas]]
+- [[ENEM - Ciências da Natureza]]
+- [[ENEM - LING - Figuras de Linguagem]]
+- [[ENEM - LING - Funções da Linguagem]]
+- [[ENEM - LING - Gêneros Textuais]]
+- [[ENEM - LING - Intertextualidade]]
+- [[ENEM - LING - Variação Linguística]]
+- [[ENEM - Matemática]]
+- [[ENEM - Preparação para o exame]]
+- [[ENEM - Redação]]
+- [[📊 Relatório do Vault]]

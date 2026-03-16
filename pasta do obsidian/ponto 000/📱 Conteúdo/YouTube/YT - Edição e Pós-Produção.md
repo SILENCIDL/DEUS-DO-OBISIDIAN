@@ -118,3 +118,12 @@ updated: 2026-01-27
 - [[YT - Roteiros e Storytelling]]
 - [[YT - Thumbnails e Design]]
 - [[AUDIOVISUAL - Minha área completa]]
+
+---
+
+## 🔗 Backlinks
+
+- [[FOTO - Técnica]]
+- [[YOUTUBE - Meu canal de vídeos]]
+- [[YT - Roteiros e Storytelling]]
+- [[YT - Séries e Formatos Recorrentes]]

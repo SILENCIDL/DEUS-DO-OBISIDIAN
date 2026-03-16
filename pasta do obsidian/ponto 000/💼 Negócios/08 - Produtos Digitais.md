@@ -248,3 +248,13 @@ MÓDULO BÔNUS
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #infoprodutos #curso #ebook #mentoria #comunidade
+
+---
+
+## 🔗 Backlinks
+
+- [[05 - Monetização YouTube]]
+- [[09 - Funil de Vendas]]
+- [[10 - Precificação]]
+- [[Ideas Extraordinárias - Monetização e Escala]]
+- [[📊 Relatório do Vault]]

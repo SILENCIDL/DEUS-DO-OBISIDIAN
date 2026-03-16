@@ -1,7 +1,12 @@
 ---
-tags: [template, idiomas, sessao, estudo]
-tipo: template
 categoria: Idiomas
+date_modified: '2026-03-16'
+tags:
+- template
+- idiomas
+- sessao
+- estudo
+tipo: template
 ---
 
 # 📚 Template — Sessão de Estudo

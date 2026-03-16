@@ -242,3 +242,11 @@ P.S.: [CTA ou teaser do próximo]
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #linkedin #podcast #newsletter #telegram #twitter #pinterest
+
+---
+
+## 🔗 Backlinks
+
+- [[06 - Monetização TikTok]]
+- [[Ideas Extraordinárias - Monetização e Escala]]
+- [[📊 Relatório do Vault]]

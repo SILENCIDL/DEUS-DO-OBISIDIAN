@@ -292,3 +292,18 @@ Este é o **nódulo central** que conecta toda a evolução histórica da fotogr
 ---
 
 *Última atualização: 2026-02-06*
+
+---
+
+## 🔗 Backlinks
+
+- [[Câmera Escura]]
+- [[Era Pré-Fotográfica]]
+- [[Era da Fotografia Contemporânea]]
+- [[Era da Fotografia Digital]]
+- [[Era da Fotografia Moderna]]
+- [[Era da Fotografia Química]]
+- [[FOTO - Arte]]
+- [[FOTOGRAFIA - Arte, técnica e negócio]]
+- [[Heliografia de Niépce]]
+- [[📊 Relatório do Vault]]

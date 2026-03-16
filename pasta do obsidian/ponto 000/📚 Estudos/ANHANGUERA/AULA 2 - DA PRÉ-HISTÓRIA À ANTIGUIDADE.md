@@ -14,3 +14,10 @@ PES MÃOS E CABEÇA VOLTADAS PARA O LADO
 
 busto de mefertiti
 retrato em relevo de aquenáton
+
+---
+
+## 🔗 Backlinks
+
+- [[UNIDADE 1 - CONCEITOS INTRODUTÓRIOS]]
+- [[📊 Relatório do Vault]]

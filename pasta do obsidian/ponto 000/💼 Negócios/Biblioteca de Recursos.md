@@ -324,3 +324,11 @@ Categoria: [[ESTUDOS E CURSOS - Meu aprendizado]]
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #recursos #ferramentas #cursos #livros #biblioteca
+
+---
+
+## 🔗 Backlinks
+
+- [[Exercícios Práticos]]
+- [[Glossário Completo]]
+- [[Roteiro de Estudos]]

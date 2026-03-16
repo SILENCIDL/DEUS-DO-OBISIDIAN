@@ -12,7 +12,7 @@
  [[ORGANIZAÇÕA URGÊNCIA|ORGANIZAÇÕA URGÊNCIA]]
  [[Pasted image 20250611211446.png|Pasted image 20250611211446.png]]
  [[Pasted image 20251102095031.png|Pasted image 20251102095031.png]]
- [[PHOTOSHOOP|PHOTOSHOOP]]
+ [[PHOTOSHOP|PHOTOSHOOP]]
  [[PLANEJAMENTO - Organização e direções|PLANEJAMENTO - Organização e direções]]
  [[Sem-Título-1_01.jpg|Sem-Título-1_01.jpg]]
  [[Sem-Título-1_02.jpg|Sem-Título-1_02.jpg]]

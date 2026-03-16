@@ -176,3 +176,12 @@ _________________________________.
 - [[03 - Estrutura Empresarial]]
 
 #personal-branding #posicionamento #autoridade
+
+---
+
+## 🔗 Backlinks
+
+- [[02 - Construção da Imagem]]
+- [[Ideas Extraordinárias - Monetização e Escala]]
+- [[Meu Perfil]]
+- [[📊 Relatório do Vault]]

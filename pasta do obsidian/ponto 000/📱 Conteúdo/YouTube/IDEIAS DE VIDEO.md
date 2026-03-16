@@ -22,4 +22,12 @@ Categoria: [[YOUTUBE - Meu canal de vu{00ed}deos]]
 [[QUAIS SÃO MINHAS METAS PARA 10 ANOS ...]]
 [[MEU PROCESSO DE FOTOGRAFIA, EDIÇÃO E PUBLICAÇÃO]]
 
+---
 
+## 🔗 Backlinks
+
+- [[CONT-CRIATIVIDADE]]
+- [[FOTOGRAFIA (ESTUDOS + INSPIRAÇÕES E DICAS. )]]
+- [[ORGANIZAÇÕA URGÊNCIA]]
+- [[POEMAS & TEXTOS]]
+- [[📊 Relatório do Vault]]

@@ -61,3 +61,19 @@ Coleção de textos que me inspiram.
 - [[VINICIUS RAFAEL - Meu universo]]
 - [[ESTUDOS E CURSOS - Meu aprendizado]]
 - [[PLANEJAMENTO - Organização e direções]]
+
+---
+
+## 🔗 Backlinks
+
+- [[CONHECIMENTO QUE CONDUZ A VIDA ETERNA]]
+- [[ESTUDOS E CURSOS - Meu aprendizado]]
+- [[FRAGMENTOS (PAULO ROBERTO DA SILVA)]]
+- [[LEITURA]]
+- [[LIDOS Q]]
+- [[NADA PODE ME FERIR]]
+- [[O ATO CRIATIVO UMA FORMA DE SER]]
+- [[O HOMEM MAIS RICO DA BABILONIA (GEORGE S. CLASON)]]
+- [[O PODER DA AUTO RESPONSABILIDADE]]
+- [[O RICO TEM PENSAMENTO INDEPENDENTE.]]
+- [[POEMAS & TEXTOS]]

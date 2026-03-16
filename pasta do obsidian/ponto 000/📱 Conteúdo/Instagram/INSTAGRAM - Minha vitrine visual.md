@@ -155,3 +155,24 @@ Conteúdo efêmero para conexão diária.
 - [[YOUTUBE - Meu canal de vídeos]]
 - [[LOJA VRGS - E-commerce de roupas]]
 - [[FOTOGRAFIA - Arte, técnica e negócio]]
+
+---
+
+## 🔗 Backlinks
+
+- [[AUDIOVISUAL - Minha área completa]]
+- [[CONT-CRIATIVIDADE]]
+- [[ESTRATEGIAS DE ENGAJAMENTO]]
+- [[HASGTAGS]]
+- [[INFLUENCIADORES VIRTUAIS - Framework de Criação]]
+- [[INSTAGRAM]]
+- [[LOJA VRGS - E-commerce de roupas]]
+- [[MUSICAS VIRAIS]]
+- [[NEG-ANUNCIOS]]
+- [[NEG-CRIATIVOS]]
+- [[NEG-PLANEJ ANUNCIOS]]
+- [[PROGRAMADAS]]
+- [[TRENDS E TENDENCIAS DO MOMENTO]]
+- [[YOUTUBE - Meu canal de vídeos]]
+- [[YT - Crescimento e Comunidade]]
+- [[📊 Relatório do Vault]]
