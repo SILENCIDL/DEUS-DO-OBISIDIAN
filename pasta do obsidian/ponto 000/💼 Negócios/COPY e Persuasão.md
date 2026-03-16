@@ -133,7 +133,7 @@ Story 5: Urgência / bônus
 ---
 
 ## 🔗 Conexões
-- [[💼 Negócios/09 - Funil de Vendas]]
-- [[💼 Negócios/10 - Precificação]]
-- [[📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual]]
+- [[09 - Funil de Vendas]]
+- [[10 - Precificação]]
+- [[INSTAGRAM - Minha vitrine visual]]
 - [[TRAFEGO - Orgânico e Pago]]

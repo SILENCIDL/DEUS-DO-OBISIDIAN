@@ -20,4 +20,4 @@ Registros pessoais, pensamentos e momentos importantes.
 
 ## 🔗 Conexões
 - [[VINICIUS RAFAEL - Meu universo]]
-- [[🎯 Pessoal/QUEM SOU EU]]
+- [[QUEM SOU EU]]

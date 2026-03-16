@@ -127,7 +127,7 @@ CAMPANHA (Objetivo: vendas, leads, alcance)
 ---
 
 ## 🔗 Conexões
-- [[💼 Negócios/09 - Funil de Vendas]]
+- [[09 - Funil de Vendas]]
 - [[COPY e Persuasão]]
-- [[📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual]]
+- [[INSTAGRAM - Minha vitrine visual]]
 - [[LOJA VRGS - E-commerce de roupas]]

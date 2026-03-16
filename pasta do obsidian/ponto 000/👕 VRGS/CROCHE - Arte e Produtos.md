@@ -90,4 +90,4 @@ updated: 2026-02-27
 ## 🔗 Conexões
 - [[LOJA VRGS - E-commerce de roupas]]
 - [[VRGS - Catálogo de Produtos]]
-- [[📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual]]
+- [[INSTAGRAM - Minha vitrine visual]]

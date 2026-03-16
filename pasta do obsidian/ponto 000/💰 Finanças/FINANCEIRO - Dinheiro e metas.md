@@ -131,7 +131,7 @@ Receita Total
 - [[VINICIUS RAFAEL - Meu universo]]
 - [[PLANEJAMENTO - Organização e direções]]
 - [[LOJA VRGS - E-commerce de roupas]]
-- [[📸 Fotografia/FOTOGRAFIA - Arte, técnica e negócio]]
+- [[FOTOGRAFIA - Arte, técnica e negócio]]
 
 ---
 

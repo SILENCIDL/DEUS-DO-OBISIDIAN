@@ -20,7 +20,7 @@ updated: 2026-02-27
 | Interface de áudio | Gravação profissional | ⬜ Futura | R$ 400-1.500 |
 | Fone de ouvido | Monitora/edição | ⬜ Comprar | R$ 150-500 |
 
-> Ver lista completa: [[📸 Fotografia/METAS DE EQUIPAMENTOS]]
+> Ver lista completa: [[METAS DE EQUIPAMENTOS]]
 
 ### Cuidados com áudio:
 - [ ] Gravar em ambientes sem eco (travesseiro/cobertor ao redor)
@@ -92,9 +92,9 @@ updated: 2026-02-27
 3. **Mensalmente** → Planejar conteúdo do mês seguinte
 
 ### Projetos Criativos Ativos:
-- [[📸 Fotografia/PROJETOS CINEMATIC]] — Vídeos com estética cinematográfica
-- [[📱 Conteúdo/YouTube/IDEIAS DE VIDEO]] — Banco de ideias para YouTube
-- [[💼 Negócios/Banco de Ideias]] — Ideias de negócios e conteúdo
+- [[PROJETOS CINEMATIC]] — Vídeos com estética cinematográfica
+- [[IDEIAS DE VIDEO]] — Banco de ideias para YouTube
+- [[Banco de Ideias]] — Ideias de negócios e conteúdo
 
 ---
 
@@ -110,7 +110,7 @@ updated: 2026-02-27
 ---
 
 ## 🔗 Conexões
-- [[📱 Conteúdo/YouTube/YOUTUBE - Meu canal de vídeos]]
-- [[📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual]]
-- [[📸 Fotografia/METAS DE EQUIPAMENTOS]]
-- [[💼 Negócios/Banco de Ideias]]
+- [[YOUTUBE - Meu canal de vídeos]]
+- [[INSTAGRAM - Minha vitrine visual]]
+- [[METAS DE EQUIPAMENTOS]]
+- [[Banco de Ideias]]

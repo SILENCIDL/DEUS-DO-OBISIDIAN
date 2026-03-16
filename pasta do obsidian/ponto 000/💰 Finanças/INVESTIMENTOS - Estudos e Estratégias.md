@@ -88,18 +88,18 @@ Produtos ou serviços de baixo valor (geralmente até R$97). Volume alto, margem
 
 ### Ativas (trocar tempo por dinheiro)
 - Fotografia freelancer → [[FOTOGRAFIA - Arte, técnica e negócio]]
-- Serviços de design → [[💼 Negócios/02 - Construção da Imagem]]
+- Serviços de design → [[02 - Construção da Imagem]]
 - Trabalhos de TI
 
 ### Passivas (dinheiro trabalhando por você)
 - Investimentos em renda fixa/variável
-- Produtos digitais (presets, e-books, cursos) → [[💼 Negócios/Banco de Ideias]]
+- Produtos digitais (presets, e-books, cursos) → [[Banco de Ideias]]
 - YouTube monetizado → [[YOUTUBE - Meu canal de vídeos]]
-- Afiliados → [[💼 Negócios/04 - Monetização Instagram]]
+- Afiliados → [[04 - Monetização Instagram]]
 
 ### Negócios (escala)
 - Loja VRGS → [[LOJA VRGS - E-commerce de roupas]]
-- Anúncios pagos → [[💼 Negócios/TRAFEGO - Orgânico e Pago]]
+- Anúncios pagos → [[TRAFEGO - Orgânico e Pago]]
 - Horta (produção local)
 
 ---
@@ -124,4 +124,4 @@ Produtos ou serviços de baixo valor (geralmente até R$97). Volume alto, margem
 ## 🔗 Conexões
 - [[FINANCEIRO - Dinheiro e metas]]
 - [[PLANEJAMENTO - Organização e direções]]
-- [[💼 Negócios/Banco de Ideias]]
+- [[Banco de Ideias]]

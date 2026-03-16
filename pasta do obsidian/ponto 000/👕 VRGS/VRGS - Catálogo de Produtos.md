@@ -97,7 +97,7 @@ updated: 2026-02-27
 - [ ] Manual da marca
 
 **Ferramentas de design:**
-- Photoshop → [[📱 Conteúdo/PHOTOSHOP]]
+- Photoshop → [[PHOTOSHOP]]
 - Canva → para posts e materiais de marketing
 - Illustrator → para vetores e logos
 
@@ -118,5 +118,5 @@ updated: 2026-02-27
 ## 🔗 Conexões
 - [[LOJA VRGS - E-commerce de roupas]]
 - [[CROCHE - Arte e Produtos]]
-- [[💰 Finanças/FINANCEIRO - Dinheiro e metas]]
-- [[📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual]]
+- [[FINANCEIRO - Dinheiro e metas]]
+- [[INSTAGRAM - Minha vitrine visual]]

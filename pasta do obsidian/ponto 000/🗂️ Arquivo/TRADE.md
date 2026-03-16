@@ -1,6 +1,6 @@
 Categoria: [[FINANCEIRO - Dinheiro e metas]]
 
-[[ESTUDOS DE FINANÇAS.]]
+[[ESTUDOS DE FINANÇAS]]
 
 ---
 

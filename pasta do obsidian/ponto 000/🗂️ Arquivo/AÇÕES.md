@@ -1,5 +1,5 @@
 [[TRADE]]
-[[ESTUDOS DE FINANÇAS.]]
+[[ESTUDOS DE FINANÇAS]]
 
 ---
 

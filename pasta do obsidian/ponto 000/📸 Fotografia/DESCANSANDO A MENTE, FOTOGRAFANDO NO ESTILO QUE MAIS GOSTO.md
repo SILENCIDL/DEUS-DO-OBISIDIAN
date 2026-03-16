@@ -1,4 +1,4 @@
-Categoria: [[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]
+Categoria: [[FOTOGRAFIA - Arte, técnica e negócio]]
 
 [[DESCANSANDO A MENTE, FOTOGRAFANDO NO ESTILO QUE MAIS GOSTO.canvas|DESCANSANDO A MENTE, FOTOGRAFANDO NO ESTILO QUE MAIS GOSTO]]
 [[publicação-8.jpg]]

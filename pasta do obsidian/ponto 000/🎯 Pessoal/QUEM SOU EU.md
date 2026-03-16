@@ -75,5 +75,5 @@ updated: 2026-02-27
 ## 🔗 Conexões
 - [[VINICIUS RAFAEL - Meu universo]]
 - [[PLANEJAMENTO - Organização e direções]]
-- [[🎯 Pessoal/PESSOAL-HUB]]
-- [[💼 Negócios/Meu Perfil]]
+- [[PESSOAL-HUB]]
+- [[Meu Perfil]]

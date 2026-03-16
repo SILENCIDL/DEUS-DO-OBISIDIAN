@@ -33,4 +33,4 @@ Quem sou, de onde vim e para onde vou.
 
 ## 🔗 Conexões
 - [[VINICIUS RAFAEL - Meu universo]]
-- [[📓 Diário/DIARIO-HUB]]
+- [[DIARIO-HUB]]
