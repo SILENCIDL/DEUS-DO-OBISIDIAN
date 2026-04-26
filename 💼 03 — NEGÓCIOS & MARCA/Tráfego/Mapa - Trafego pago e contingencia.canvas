@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"e35fd9f4b95b100d","x":-580,"y":-740,"width":320,"height":60,"type":"text","text":"Vender é consequência e será facil"},
+		{"id":"3a4cd1e8c115af9f","x":-540,"y":-660,"width":240,"height":60,"type":"text","text":"muita coisa está interligada"},
+		{"id":"c11a7daded9b6fcb","x":-468,"y":-570,"width":96,"height":60,"type":"text","text":"CPM \nCPC"},
+		{"id":"2e71a14891b9bea8","x":-271,"y":-510,"width":315,"height":60,"type":"text","text":"Por que Contingência ? (de face ads)"},
+		{"id":"98526d081bea2898","x":109,"y":-510,"width":250,"height":60,"type":"text","text":" Conta de anuncio 1 \n Conta de anuncio 2"},
+		{"id":"406fd623253dbd7f","x":184,"y":-600,"width":100,"height":60,"type":"text","text":"ip fixo "},
+		{"id":"7c2b952baeb45ac4","x":153,"y":-660,"width":162,"height":60,"type":"text","text":"maquina virtual"},
+		{"id":"da5a74bb413fe101","x":-271,"y":-600,"width":210,"height":60,"type":"text","text":"Blocks - Não Vender"},
+		{"id":"9c860e7757fabab1","x":-21,"y":-600,"width":130,"height":60,"type":"text","text":"Não Vender "},
+		{"id":"4cc896327fece6a2","x":-291,"y":-660,"width":250,"height":60,"type":"text","text":"Nunca colocar todas as suas fichas em um só lugar "},
+		{"id":"2ac67cede5b49eeb","x":-545,"y":-420,"width":250,"height":118,"type":"text","text":"Ferramentas Antidetects:\n1 - Incogniton\n2 - MultiLogin\n3 - AntyDolphin"},
+		{"id":"28d9c722a68f509d","x":-291,"y":-421,"width":315,"height":60,"type":"text","text":"USAR CHIP VEEK, CHIP VIA SATELITE"},
+		{"id":"26743bee277ec2e6","x":-291,"y":-362,"width":250,"height":60,"type":"text","text":"VPN E PROXY - NÃO USAR"}
+	],
+	"edges":[
+		{"id":"c733fcc5dc7e9ed4","fromNode":"e35fd9f4b95b100d","fromSide":"bottom","toNode":"3a4cd1e8c115af9f","toSide":"top"},
+		{"id":"ab3e9bb0f1abfbce","fromNode":"2e71a14891b9bea8","fromSide":"left","toNode":"c11a7daded9b6fcb","toSide":"bottom"},
+		{"id":"35c65fa1c242ef64","fromNode":"2e71a14891b9bea8","fromSide":"top","toNode":"da5a74bb413fe101","toSide":"bottom"},
+		{"id":"3f12afb481b19698","fromNode":"da5a74bb413fe101","fromSide":"right","toNode":"9c860e7757fabab1","toSide":"left"},
+		{"id":"99a9b8143106a993","fromNode":"da5a74bb413fe101","fromSide":"top","toNode":"4cc896327fece6a2","toSide":"bottom"},
+		{"id":"6a66fc54f4a0464a","fromNode":"2e71a14891b9bea8","fromSide":"right","toNode":"98526d081bea2898","toSide":"left"},
+		{"id":"01fef5b60ee547e9","fromNode":"3a4cd1e8c115af9f","fromSide":"bottom","toNode":"c11a7daded9b6fcb","toSide":"top"},
+		{"id":"4dd54f8caab1bbf3","fromNode":"7c2b952baeb45ac4","fromSide":"bottom","toNode":"406fd623253dbd7f","toSide":"top"}
+	]
+}

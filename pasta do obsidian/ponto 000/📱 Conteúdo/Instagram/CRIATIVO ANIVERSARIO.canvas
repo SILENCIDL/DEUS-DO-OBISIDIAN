@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"0898519b49fe149f","type":"file","file":"Sem-Título-1-Recuperado_02.gif","x":-400,"y":-617,"width":400,"height":400},
+		{"id":"1cfbb11bdc789a41","type":"file","file":"teste  de resolução.jpg","x":-800,"y":-180,"width":1312,"height":403},
+		{"id":"46b26882437968a9","type":"text","text":"FAZER UMA MONTAGEM DE OUTRA FOTO QUE ME APAREÇA EM UMA FOTO DE CORPO INTEIRA DE PREFERENCIAA NO VILLAGE ","x":580,"y":-248,"width":671,"height":137},
+		{"id":"fb633ed440feadcd","type":"file","file":"Sem-Título-1-Recuperado_03.jpg","x":0,"y":-617,"width":400,"height":399},
+		{"id":"a7a16941a4c764a0","type":"file","file":"Sem-Título-1-Recuperado_04.gif","x":400,"y":-618,"width":102,"height":400},
+		{"id":"d60d69a5f286a501","type":"text","text":"TERMINAR DE MONTAR ESSES MODELO DE ANUNCIO.","x":-550,"y":-860,"width":700,"height":140},
+		{"id":"c0877f3d2660734a","type":"file","file":"Sem-Título-1-Recuperado_01.gif","x":-800,"y":-617,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"855c5c38b929ba27","fromNode":"d60d69a5f286a501","fromSide":"bottom","toNode":"0898519b49fe149f","toSide":"top"},
+		{"id":"b16a2633086f166b","fromNode":"a7a16941a4c764a0","fromSide":"right","toNode":"46b26882437968a9","toSide":"left"},
+		{"id":"553cf17974d9db7e","fromNode":"1cfbb11bdc789a41","fromSide":"right","toNode":"46b26882437968a9","toSide":"left"}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"arte-exerc","type":"text","text":"## ✏️ Exercícios Arte\n\n- [ ] Fotografar 1 objeto com 10 emoções\n- [ ] Criar moodboard com 50 referências\n- [ ] Semana só cores quentes\n- [ ] Semana só cores frias\n- [ ] Projeto pessoal de 30 dias\n- [ ] Definir 2 palavras do meu estilo","x":-1100,"y":-30,"width":400,"height":230,"color":"6"},
+		{"id":"arte-link","type":"file","file":"FOTO - Arte.md","x":-600,"y":-510,"width":400,"height":60},
+		{"id":"arte-box","type":"text","text":"# 🎨 MÓDULO 1: ARTE\n\n**7 Aulas:**\n1. O que torna uma foto \"arte\"?\n2. Gêneros da fotografia artística\n3. Desenvolvendo seu estilo pessoal\n4. Linguagem visual e composição artística\n5. Cor como ferramenta artística\n6. Preto e branco como escolha\n7. Projetos fotográficos pessoais\n\n**Foco:** Visão, expressão, referências, estilo próprio","x":-600,"y":-420,"width":400,"height":360,"color":"6"},
+		{"id":"fotografia-link","type":"file","file":"FOTOGRAFIA - Arte, técnica e negócio.md","x":300,"y":-510,"width":340,"height":90},
+		{"id":"tecnica-link","type":"file","file":"FOTO - Técnica.md","x":-160,"y":-510,"width":400,"height":60},
+		{"id":"tecnica-box","type":"text","text":"# ⚙️ MÓDULO 2: TÉCNICA\n\n**7 Aulas:**\n1. Triângulo da Exposição\n2. Modos da Câmera\n3. Foco e Nitidez\n4. Luz Natural (Masterclass)\n5. Composição Completa\n6. Lentes e Distância Focal\n7. Edição Fotográfica\n\n**Foco:** Câmera, luz, composição, edição, workflow","x":-160,"y":-440,"width":400,"height":380,"color":"1"},
+		{"id":"tecnica-equip","type":"text","text":"## 📷 Meus Equipamentos\n\n**Câmeras:**\n- Nikon D3100 (backup)\n- Nikon D7500 (principal)\n\n**Lentes:**\n- Kit 18-55mm\n- Tamron 70-300mm f/4 (pesquisando)\n\n**Próxima compra:**\n→ 50mm f/1.8 (retrato + baixa luz)","x":-160,"y":-30,"width":400,"height":360,"color":"1"},
+		{"id":"tecnica-luz","type":"text","text":"## ☀️ Horários de Luz\n\n🔵 05:00-06:00 — Blue hour\n🟡 06:00-07:30 — Golden hour manhã\n⚪ 07:30-10:00 — Luz agradável\n🔴 10:00-15:00 — Sol forte (evitar)\n⚪ 15:00-17:00 — Tarde\n🟡 17:00-18:30 — MELHOR LUZ DO DIA\n🔵 18:30-19:30 — Blue hour\n⚫ 19:30+ — Noite","x":-160,"y":360,"width":400,"height":270,"color":"1"},
+		{"id":"negocio-link","type":"file","file":"FOTO - Negócio.md","x":720,"y":-500,"width":400,"height":60},
+		{"id":"negocio-box","type":"text","text":"# 💼 MÓDULO 3: NEGÓCIO\n\n**7 Aulas:**\n1. Mentalidade de empreendedor\n2. Definindo seu nicho\n3. Precificação (quanto cobrar)\n4. Captação de clientes\n5. Atendimento e experiência\n6. Portfólio e marca pessoal\n7. Escalando o negócio\n\n**Foco:** Preço, cliente, portfólio, marca, escala","x":720,"y":-400,"width":400,"height":380,"color":"4"},
+		{"id":"centro","type":"text","text":"# 📷 FOTOGRAFIA\n## Arte, Técnica e Negócio\n**O caminho completo do fotógrafo**","x":300,"y":-270,"width":320,"height":120,"color":"2"},
+		{"id":"negocio-precos","type":"text","text":"## 💰 Referência de Preços\n\n**Iniciante (0-1 ano):**\n- Ensaio pessoal: R$200-400\n- Ensaio família: R$300-500\n- Evento pequeno: R$400-700\n- Produto (10 fotos): R$200-400\n\n**Intermediário (1-3 anos):**\n- Ensaio pessoal: R$500-900\n- Ensaio família: R$600-1.200\n- Evento: R$800-1.500\n- Produto (20 fotos): R$500-1.000","x":1160,"y":-420,"width":400,"height":420,"color":"4"},
+		{"id":"negocio-metas","type":"text","text":"## 🎯 Metas Financeiras\n\n- Mês 1-3: R$500/mês\n- Mês 4-6: R$1.500/mês\n- Mês 7-12: R$3.000/mês\n- Ano 2: R$5.000/mês\n- Ano 3: R$8.000-10.000/mês\n\n**Fontes:** Sessões + Prints + Presets + YouTube","x":1160,"y":30,"width":400,"height":260,"color":"4"},
+		{"id":"negocio-capt","type":"text","text":"## 🧲 5 Canais de Captação\n\n1. Instagram (portfólio visual)\n2. Indicação (boca a boca)\n3. Google Meu Negócio\n4. Parcerias locais\n5. Networking presencial\n\n→ Template de abordagem no módulo","x":720,"y":0,"width":400,"height":270,"color":"4"},
+		{"id":"jornada","type":"text","text":"# 🗺️ JORNADA COMPLETA\n\n**ARTE** → Desenvolver visão e estilo\n↓\n**TÉCNICA** → Dominar câmera e luz\n↓\n**NEGÓCIO** → Transformar em renda\n\n*Os 3 juntos = Fotógrafo completo*","x":280,"y":15,"width":360,"height":240,"color":"2"},
+		{"id":"arte-ref","type":"text","text":"## 📚 Referências Arte\n\n**Fotógrafos:**\n- Steve McCurry (retrato)\n- Ansel Adams (paisagem P&B)\n- Henri Cartier-Bresson (street)\n- Sebastião Salgado (documental)\n- Annie Leibovitz (conceitual)\n\n**Conceitos-chave:**\n- Moodboard pessoal\n- Paleta de cores\n- Projeto fotográfico de longo prazo","x":-1100,"y":-510,"width":400,"height":410,"color":"6"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"centro","fromSide":"left","toNode":"arte-box","toSide":"right"},
+		{"id":"e2","fromNode":"centro","fromSide":"bottom","toNode":"tecnica-box","toSide":"top"},
+		{"id":"e3","fromNode":"centro","fromSide":"right","toNode":"negocio-box","toSide":"left"},
+		{"id":"e4","fromNode":"arte-box","fromSide":"left","toNode":"arte-ref","toSide":"right"},
+		{"id":"e6","fromNode":"tecnica-box","fromSide":"bottom","toNode":"tecnica-equip","toSide":"top"},
+		{"id":"e7","fromNode":"tecnica-equip","fromSide":"bottom","toNode":"tecnica-luz","toSide":"top"},
+		{"id":"e8","fromNode":"negocio-box","fromSide":"right","toNode":"negocio-precos","toSide":"left"},
+		{"id":"e9","fromNode":"negocio-precos","fromSide":"bottom","toNode":"negocio-metas","toSide":"top"},
+		{"id":"e10","fromNode":"negocio-box","fromSide":"bottom","toNode":"negocio-capt","toSide":"top"},
+		{"id":"e11","fromNode":"centro","fromSide":"bottom","toNode":"jornada","toSide":"top"},
+		{"id":"e12","fromNode":"fotografia-link","fromSide":"bottom","toNode":"centro","toSide":"top"},
+		{"id":"e13","fromNode":"arte-link","fromSide":"bottom","toNode":"arte-box","toSide":"top"},
+		{"id":"e14","fromNode":"tecnica-link","fromSide":"bottom","toNode":"tecnica-box","toSide":"top"},
+		{"id":"e15","fromNode":"negocio-link","fromSide":"bottom","toNode":"negocio-box","toSide":"top"},
+		{"id":"286f05967850bf79","fromNode":"jornada","fromSide":"right","toNode":"negocio-capt","toSide":"left"},
+		{"id":"ca5159a715118284","fromNode":"arte-box","fromSide":"left","toNode":"arte-exerc","toSide":"right"}
+	]
+}

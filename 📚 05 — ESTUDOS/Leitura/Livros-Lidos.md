@@ -1,0 +1,24 @@
+---
+created: 2026-04-26
+módulo: ESTUDOS
+tags: [estudos, leitura]
+status: ativo
+---
+
+Categoria: [[LEITURA - Livros e conhecimento]]
+
+[[LEITURA]]
+[[LIDOS Q]]
+
+
+
+
+
+
+2. LIVRO [[NADA PODE ME FERIR]]
+3. LIVRO [[DIRETO DE CUBA]]
+
+5. LIVRO [[MAIS QUE ABENÇOADO]]
+6. LIVRO [[O PODER DA AUTO RESPONSABILIDADE]]
+7. LIVRO [[DISCIPLINA É LIBERDADE (JOCKO WILLINK)]]
+8. LIVRO [[NUNCA É HORA DE PARAR (DAVID GOGGINS)]]

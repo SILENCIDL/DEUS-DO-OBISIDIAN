@@ -1,2 +1,0 @@
-[[TRADE]]
-[[ESTUDOS DE FINANÇAS.]]

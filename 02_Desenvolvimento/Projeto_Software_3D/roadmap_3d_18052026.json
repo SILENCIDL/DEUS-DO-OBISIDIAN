@@ -1,0 +1,37 @@
+{
+  "data_planejamento": "18/05/2026",
+  "projeto": "Software 3D - Blender + Three.js",
+  "fase_1": {
+    "duracao": "Mês 1-2",
+    "foco": "Fundamentos Blender",
+    "tarefas": [
+      "Interface do Blender (UI, atalhos)",
+      "Modelagem básica (cubes, esferas, modificadores)",
+      "Materials e Shaders simples",
+      "Lighting básico",
+      "Render settings"
+    ]
+  },
+  "fase_2": {
+    "duracao": "Mês 3-4",
+    "foco": "Modelagem intermediária",
+    "tarefas": [
+      "Sculpting (ZBrush style)",
+      "UV Mapping",
+      "Texturas PBR",
+      "Rigging básico",
+      "Animação simples"
+    ]
+  },
+  "fase_3": {
+    "duracao": "Mês 5-6",
+    "foco": "Three.js Integration",
+    "tarefas": [
+      "Export de modelos (glTF)",
+      "Loading em Three.js",
+      "Lighting em WebGL",
+      "Interatividade (rotação, zoom)",
+      "Performance optimization"
+    ]
+  }
+}

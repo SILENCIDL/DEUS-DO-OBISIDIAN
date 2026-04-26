@@ -1,0 +1,281 @@
+{
+  "nodes": [
+    {
+      "id": "titulo",
+      "type": "text",
+      "x": 400,
+      "y": -500,
+      "width": 500,
+      "height": 80,
+      "color": "6",
+      "text": "# 📙 HUMANAS — Perguntas e Análise\n**Registre suas respostas e analise seu desempenho**"
+    },
+    {
+      "id": "link-materia",
+      "type": "file",
+      "x": 400,
+      "y": -400,
+      "width": 500,
+      "height": 50,
+      "file": "ENEM - Ciências Humanas.md"
+    },
+    {
+      "id": "brasil-titulo",
+      "type": "text",
+      "x": -200,
+      "y": -280,
+      "width": 350,
+      "height": 50,
+      "color": "1",
+      "text": "### 1. Brasil Colônia/Império/República"
+    },
+    {
+      "id": "brasil-link",
+      "type": "file",
+      "x": -200,
+      "y": -220,
+      "width": 350,
+      "height": 40,
+      "file": "ENEM - HUM - Brasil Colonial a República.md"
+    },
+    {
+      "id": "brasil-q1",
+      "type": "text",
+      "x": -200,
+      "y": -160,
+      "width": 350,
+      "height": 120,
+      "text": "**Q1**: Sistema de plantation no Brasil colonial:\n\n⬜ A) Policultura, trabalho livre\n⬜ B) Monocultura, latifúndio, escravidão\n⬜ C) Minifúndio, exportação\n⬜ D) Agricultura familiar\n\n**Resposta**: ___ | ✅❌"
+    },
+    {
+      "id": "brasil-q2",
+      "type": "text",
+      "x": -200,
+      "y": -20,
+      "width": 350,
+      "height": 120,
+      "text": "**Q2**: A Lei Áurea (1888) foi assinada por:\n\n⬜ A) D. Pedro I\n⬜ B) D. Pedro II\n⬜ C) Princesa Isabel\n⬜ D) Getúlio Vargas\n\n**Resposta**: ___ | ✅❌"
+    },
+    {
+      "id": "brasil-q3",
+      "type": "text",
+      "x": -200,
+      "y": 120,
+      "width": 350,
+      "height": 120,
+      "text": "**Q3**: A Constituição de 1988 é chamada de:\n\n⬜ A) Polaca\n⬜ B) Cidadã\n⬜ C) Outorgada\n⬜ D) Provisória\n\n**Resposta**: ___ | ✅❌"
+    },
+    {
+      "id": "vargas-titulo",
+      "type": "text",
+      "x": 200,
+      "y": -280,
+      "width": 350,
+      "height": 50,
+      "color": "2",
+      "text": "### 2. Era Vargas e Ditadura"
+    },
+    {
+      "id": "vargas-link",
+      "type": "file",
+      "x": 200,
+      "y": -220,
+      "width": 350,
+      "height": 40,
+      "file": "ENEM - HUM - Era Vargas e Ditadura.md"
+    },
+    {
+      "id": "vargas-q1",
+      "type": "text",
+      "x": 200,
+      "y": -160,
+      "width": 350,
+      "height": 120,
+      "text": "**Q1**: A CLT foi criada durante:\n\n⬜ A) República Velha\n⬜ B) Estado Novo\n⬜ C) Ditadura Militar\n⬜ D) Nova República\n\n**Resposta**: ___ | ✅❌"
+    },
+    {
+      "id": "vargas-q2",
+      "type": "text",
+      "x": 200,
+      "y": -20,
+      "width": 350,
+      "height": 120,
+      "text": "**Q2**: O AI-5 (1968) caracterizou-se por:\n\n⬜ A) Abertura política\n⬜ B) Maior repressão\n⬜ C) Eleições diretas\n⬜ D) Fim da censura\n\n**Resposta**: ___ | ✅❌"
+    },
+    {
+      "id": "vargas-q3",
+      "type": "text",
+      "x": 200,
+      "y": 120,
+      "width": 350,
+      "height": 120,
+      "text": "**Q3**: \"Diretas Já\" foi movimento por:\n\n⬜ A) Golpe militar\n⬜ B) Eleições diretas\n⬜ C) Constituinte\n⬜ D) Impeachment\n\n**Resposta**: ___ | ✅❌"
+    },
+    {
+      "id": "global-titulo",
+      "type": "text",
+      "x": 600,
+      "y": -280,
+      "width": 350,
+      "height": 50,
+      "color": "5",
+      "text": "### 3. Globalização e Geopolítica"
+    },
+    {
+      "id": "global-link",
+      "type": "file",
+      "x": 600,
+      "y": -220,
+      "width": 350,
+      "height": 40,
+      "file": "ENEM - HUM - Globalização e Geopolítica.md"
+    },
+    {
+      "id": "global-q1",
+      "type": "text",
+      "x": 600,
+      "y": -160,
+      "width": 350,
+      "height": 120,
+      "text": "**Q1**: A Guerra Fria foi caracterizada por:\n\n⬜ A) Conflito direto EUA x URSS\n⬜ B) Bipolaridade ideológica\n⬜ C) Multipolaridade\n⬜ D) Unipolaridade\n\n**Resposta**: ___ | ✅❌"
+    },
+    {
+      "id": "global-q2",
+      "type": "text",
+      "x": 600,
+      "y": -20,
+      "width": 350,
+      "height": 120,
+      "text": "**Q2**: BRICS representa:\n\n⬜ A) Países desenvolvidos\n⬜ B) Economias emergentes\n⬜ C) União Europeia\n⬜ D) Zona do Euro\n\n**Resposta**: ___ | ✅❌"
+    },
+    {
+      "id": "global-q3",
+      "type": "text",
+      "x": 600,
+      "y": 120,
+      "width": 350,
+      "height": 120,
+      "text": "**Q3**: A ONU foi criada para:\n\n⬜ A) Regular comércio\n⬜ B) Paz e direitos humanos\n⬜ C) Empréstimos financeiros\n⬜ D) Aliança militar\n\n**Resposta**: ___ | ✅❌"
+    },
+    {
+      "id": "urban-titulo",
+      "type": "text",
+      "x": 1000,
+      "y": -280,
+      "width": 350,
+      "height": 50,
+      "color": "4",
+      "text": "### 4. Urbanização e Migração"
+    },
+    {
+      "id": "urban-link",
+      "type": "file",
+      "x": 1000,
+      "y": -220,
+      "width": 350,
+      "height": 40,
+      "file": "ENEM - HUM - Urbanização e Migração.md"
+    },
+    {
+      "id": "urban-q1",
+      "type": "text",
+      "x": 1000,
+      "y": -160,
+      "width": 350,
+      "height": 120,
+      "text": "**Q1**: Êxodo rural significa:\n\n⬜ A) Cidade → campo\n⬜ B) Campo → cidade\n⬜ C) País → exterior\n⬜ D) Exterior → país\n\n**Resposta**: ___ | ✅❌"
+    },
+    {
+      "id": "urban-q2",
+      "type": "text",
+      "x": 1000,
+      "y": -20,
+      "width": 350,
+      "height": 120,
+      "text": "**Q2**: Gentrificação é:\n\n⬜ A) Crescimento das favelas\n⬜ B) Expulsão de pobres de áreas valorizadas\n⬜ C) Migração internacional\n⬜ D) Êxodo rural\n\n**Resposta**: ___ | ✅❌"
+    },
+    {
+      "id": "urban-q3",
+      "type": "text",
+      "x": 1000,
+      "y": 120,
+      "width": 350,
+      "height": 120,
+      "text": "**Q3**: Conurbação significa:\n\n⬜ A) Cidades que se fundem\n⬜ B) Cidade isolada\n⬜ C) Área rural\n⬜ D) Zona industrial\n\n**Resposta**: ___ | ✅❌"
+    },
+    {
+      "id": "cid-titulo",
+      "type": "text",
+      "x": 400,
+      "y": 300,
+      "width": 350,
+      "height": 50,
+      "color": "3",
+      "text": "### 5. Cidadania e Direitos Humanos"
+    },
+    {
+      "id": "cid-link",
+      "type": "file",
+      "x": 400,
+      "y": 360,
+      "width": 350,
+      "height": 40,
+      "file": "ENEM - HUM - Cidadania e Direitos Humanos.md"
+    },
+    {
+      "id": "cid-q1",
+      "type": "text",
+      "x": 200,
+      "y": 420,
+      "width": 350,
+      "height": 120,
+      "text": "**Q1**: Direitos de 1ª geração são:\n\n⬜ A) Sociais\n⬜ B) Civis e políticos\n⬜ C) Ambientais\n⬜ D) Digitais\n\n**Resposta**: ___ | ✅❌"
+    },
+    {
+      "id": "cid-q2",
+      "type": "text",
+      "x": 600,
+      "y": 420,
+      "width": 350,
+      "height": 120,
+      "text": "**Q2**: Habeas corpus protege contra:\n\n⬜ A) Imposto ilegal\n⬜ B) Prisão ilegal\n⬜ C) Demissão injusta\n⬜ D) Discriminação\n\n**Resposta**: ___ | ✅❌"
+    },
+    {
+      "id": "analise-titulo",
+      "type": "text",
+      "x": 400,
+      "y": 600,
+      "width": 500,
+      "height": 50,
+      "color": "6",
+      "text": "## 📊 Análise de Desempenho"
+    },
+    {
+      "id": "analise-tabela",
+      "type": "text",
+      "x": 400,
+      "y": 670,
+      "width": 500,
+      "height": 200,
+      "text": "| Tópico | Acertos | Total | % |\n|--------|---------|-------|---|\n| Brasil Colonial/República | | /3 | |\n| Era Vargas e Ditadura | | /3 | |\n| Globalização e Geopolítica | | /3 | |\n| Urbanização e Migração | | /3 | |\n| Cidadania e Direitos | | /2 | |\n| **TOTAL** | | **/14** | |\n\n**Revisão necessária**: ________________"
+    },
+    {
+      "id": "gabarito",
+      "type": "text",
+      "x": 400,
+      "y": 900,
+      "width": 500,
+      "height": 150,
+      "color": "1",
+      "text": "### 🔑 Gabarito\n**Brasil**: B, C, B\n**Vargas/Ditadura**: B, B, B\n**Globalização**: B, B, B\n**Urbanização**: B, B, A\n**Cidadania**: B, B"
+    }
+  ],
+  "edges": [
+    {"id": "e1", "fromNode": "titulo", "toNode": "link-materia", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e2", "fromNode": "brasil-titulo", "toNode": "brasil-link", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e3", "fromNode": "vargas-titulo", "toNode": "vargas-link", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e4", "fromNode": "global-titulo", "toNode": "global-link", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e5", "fromNode": "urban-titulo", "toNode": "urban-link", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e6", "fromNode": "cid-titulo", "toNode": "cid-link", "fromSide": "bottom", "toSide": "top"}
+  ]
+}

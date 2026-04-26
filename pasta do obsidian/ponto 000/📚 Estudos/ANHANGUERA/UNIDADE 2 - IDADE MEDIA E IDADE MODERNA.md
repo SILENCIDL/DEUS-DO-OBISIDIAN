@@ -1,0 +1,14 @@
+---
+tags: ['estudos']
+tipo: nota
+date_created: 2026-03-16
+date_modified: 2026-03-16
+---
+
+Categoria: [[ANHANGUERA]]
+
+[[AULA 1 - ARTE MEDIEVAL]]
+[[AULA 2 -  RENASCIMENTO]]
+[[AULA 3 - MANEIRISMO E BARROCO CATÓLICO]]
+[[AULA 4 - BARRICI PROTESTANTE  E ROCOÓ]]
+[[AULA 5 - ENCERRAMENTO DA UNIDADE - IDADE MEDIA E IDADE MODERNA]]

@@ -1,0 +1,4 @@
+pasta do obsidian/vault_backup_*/
+
+# Plugin data may contain API keys
+.obsidian/plugins/

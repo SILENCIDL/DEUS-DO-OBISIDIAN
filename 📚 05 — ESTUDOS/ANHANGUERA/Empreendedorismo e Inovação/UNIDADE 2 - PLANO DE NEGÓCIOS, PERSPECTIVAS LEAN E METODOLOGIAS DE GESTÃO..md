@@ -1,0 +1,15 @@
+---
+created: 2026-04-26
+módulo: ESTUDOS
+tags: [estudos, anhanguera, empreendedorismo]
+status: ativo
+---
+
+Categoria: [[ANHANGUERA]]
+
+[[AULA 1 - PLANO DE NEGÓCIOS]]
+[[AULA 2 - PERSPECTIVAS LEAN NO EMPREENDEDORISMO]]
+[[AULA 3 - STARTUPS]]
+[[AULA 4 - METODOLOGIAS DE GESTÃO ]]
+[[AULA 5 - ENCERRAMENTO DA UNIDADE . PLANO DE NEGÓCIOS, PERSPECTIVAS LEAN E METODOLOGIAS DE GESTÃO.]]
+

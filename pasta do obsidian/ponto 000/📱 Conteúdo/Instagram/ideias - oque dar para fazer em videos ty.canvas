@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"b5ec21abcf2a9a79","x":-400,"y":-240,"width":260,"height":60,"color":"1","type":"text","text":"colocar 1 poema "},
+		{"id":"aef5294d57f1efbf","x":-780,"y":-278,"width":250,"height":137,"color":"1","type":"text","text":"em uma parte especifica do video"},
+		{"id":"293752e6ad21a5a4","x":-780,"y":-80,"width":250,"height":140,"color":"1","type":"text","text":"poema elaborado sentimental "},
+		{"id":"c98c56ce1d2a404f","x":-402,"y":-400,"width":265,"height":50,"color":"1","type":"text","text":"dentro de 1 video "},
+		{"id":"67fd5443ca077cc5","x":80,"y":-405,"width":420,"height":60,"type":"text","text":"oque colocar em meus videos "},
+		{"id":"fbdda5280d1cb738","x":80,"y":-303,"width":250,"height":51,"type":"text","text":""},
+		{"id":"f9528b4bce669255","x":80,"y":-210,"width":250,"height":60,"type":"text","text":""},
+		{"id":"666aaa332c5b9d01","type":"text","text":"","x":80,"y":-105,"width":250,"height":51},
+		{"id":"253c148a98589b3b","type":"text","text":"","x":80,"y":-10,"width":250,"height":50}
+	],
+	"edges":[
+		{"id":"039fa3461c2f672e","fromNode":"b5ec21abcf2a9a79","fromSide":"left","toNode":"aef5294d57f1efbf","toSide":"right"},
+		{"id":"a4d19c55e53bbe95","fromNode":"aef5294d57f1efbf","fromSide":"bottom","toNode":"293752e6ad21a5a4","toSide":"top"},
+		{"id":"bd6fd7089fb1584a","fromNode":"c98c56ce1d2a404f","fromSide":"bottom","toNode":"b5ec21abcf2a9a79","toSide":"top"},
+		{"id":"68d4c20d8cdac15c","fromNode":"c98c56ce1d2a404f","fromSide":"right","toNode":"67fd5443ca077cc5","toSide":"left"},
+		{"id":"98794c8113b3e330","fromNode":"67fd5443ca077cc5","fromSide":"left","toNode":"fbdda5280d1cb738","toSide":"left"},
+		{"id":"a4fedaf81374c59f","fromNode":"fbdda5280d1cb738","fromSide":"left","toNode":"f9528b4bce669255","toSide":"left"},
+		{"id":"4eae17cecfda2e9f","fromNode":"f9528b4bce669255","fromSide":"left","toNode":"666aaa332c5b9d01","toSide":"left"},
+		{"id":"ce9d9ca8b4a51026","fromNode":"666aaa332c5b9d01","fromSide":"left","toNode":"253c148a98589b3b","toSide":"left"}
+	]
+}

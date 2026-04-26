@@ -1,3 +1,0 @@
-Categoria: [[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]
-
-[[FIM DE TARDE, BRINCANDO COM UMA 18-105MM.canvas|FIM DE TARDE, BRINCANDO COM UMA 18-105MM]]

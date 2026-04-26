@@ -1,0 +1,316 @@
+[16:12:06] INFO  ====================================================
+[16:12:06] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[16:12:06] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[16:12:06] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[16:12:06] INFO  Modo:   DRY-RUN | Fonte: todas
+[16:12:06] INFO  ====================================================
+[16:12:06] INFO  INBOX vazio — nenhum arquivo para processar.
+[16:12:06] INFO  [DRY-RUN] MCP log: 86 eventos → C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\CODIFICAÇÃO + IA\2026-04-06 MCP Log.md
+[16:12:06] INFO  
+Resumo: 1 item(s) processado(s)
+[16:12:06] INFO  vault_injector.py v2 concluído.
+[16:15:25] INFO  ====================================================
+[16:15:25] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[16:15:25] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[16:15:25] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[16:15:25] INFO  Modo:   REAL | Fonte: todas
+[16:15:25] INFO  ====================================================
+[16:15:25] INFO  INBOX: 1 arquivo(s) encontrado(s)
+[16:15:25] INFO  ✓ sessao-2026-04-06_1612.md → CODIFICAÇÃO + IA/2026-04-06 Título da sessão.md
+[16:15:25] INFO  ✓ MCP log: 86 eventos registrados
+[16:15:25] INFO  
+Resumo: 2 item(s) processado(s)
+[16:15:25] INFO  vault_injector.py v2 concluído.
+[22:00:03] INFO  ====================================================
+[22:00:03] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[22:00:03] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[22:00:03] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[22:00:03] INFO  Modo:   REAL | Fonte: todas
+[22:00:03] INFO  ====================================================
+[22:00:03] INFO  INBOX vazio — nenhum arquivo para processar.
+[22:00:03] INFO  ✓ MCP log: 86 eventos registrados
+[22:00:03] INFO  
+Resumo: 1 item(s) processado(s)
+[22:00:03] INFO  vault_injector.py v2 concluído.
+[22:00:02] INFO  ====================================================
+[22:00:02] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[22:00:02] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[22:00:02] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[22:00:02] INFO  Modo:   REAL | Fonte: todas
+[22:00:02] INFO  ====================================================
+[22:00:02] INFO  INBOX vazio — nenhum arquivo para processar.
+[22:00:02] INFO  ✓ MCP log: 87 eventos registrados
+[22:00:02] INFO  
+Resumo: 1 item(s) processado(s)
+[22:00:02] INFO  vault_injector.py v2 concluído.
+[22:00:02] INFO  ====================================================
+[22:00:02] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[22:00:02] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[22:00:02] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[22:00:02] INFO  Modo:   REAL | Fonte: todas
+[22:00:02] INFO  ====================================================
+[22:00:02] INFO  INBOX vazio — nenhum arquivo para processar.
+[22:00:02] INFO  ✓ MCP log: 85 eventos registrados
+[22:00:02] INFO  
+Resumo: 1 item(s) processado(s)
+[22:00:02] INFO  vault_injector.py v2 concluído.
+[22:00:02] INFO  ====================================================
+[22:00:02] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[22:00:02] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[22:00:02] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[22:00:02] INFO  Modo:   REAL | Fonte: todas
+[22:00:02] INFO  ====================================================
+[22:00:02] INFO  INBOX vazio — nenhum arquivo para processar.
+[22:00:02] INFO  ✓ MCP log: 85 eventos registrados
+[22:00:02] INFO  
+Resumo: 1 item(s) processado(s)
+[22:00:02] INFO  vault_injector.py v2 concluído.
+[09:17:49] INFO  ====================================================
+[09:17:49] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[09:17:49] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[09:17:49] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[09:17:49] INFO  Modo:   REAL | Fonte: todas
+[09:17:49] INFO  ====================================================
+[09:17:49] INFO  INBOX vazio — nenhum arquivo para processar.
+[09:17:49] INFO  ✓ MCP log: 85 eventos registrados
+[09:17:49] INFO  
+Resumo: 1 item(s) processado(s)
+[09:17:49] INFO  vault_injector.py v2 concluído.
+[22:27:14] INFO  ====================================================
+[22:27:14] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[22:27:14] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[22:27:14] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[22:27:14] INFO  Modo:   REAL | Fonte: todas
+[22:27:14] INFO  ====================================================
+[22:27:15] INFO  INBOX vazio — nenhum arquivo para processar.
+[16:45:11] INFO  ====================================================
+[16:45:11] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[16:45:11] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[16:45:11] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[16:45:11] INFO  Modo:   REAL | Fonte: todas
+[16:45:11] INFO  ====================================================
+[16:45:11] INFO  INBOX vazio — nenhum arquivo para processar.
+[16:45:12] INFO  ✓ MCP log: 85 eventos registrados
+[16:45:12] INFO  
+Resumo: 1 item(s) processado(s)
+[16:45:12] INFO  vault_injector.py v2 concluído.
+[22:32:56] INFO  ====================================================
+[22:32:56] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[22:32:56] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[22:32:56] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[22:32:56] INFO  Modo:   REAL | Fonte: todas
+[22:32:56] INFO  ====================================================
+[22:32:56] INFO  INBOX vazio — nenhum arquivo para processar.
+[22:32:56] INFO  ✓ MCP log: 85 eventos registrados
+[22:32:56] INFO  
+Resumo: 1 item(s) processado(s)
+[22:32:56] INFO  vault_injector.py v2 concluído.
+[10:55:23] INFO  ====================================================
+[10:55:23] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[10:55:23] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[10:55:23] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[10:55:23] INFO  Modo:   REAL | Fonte: todas
+[10:55:23] INFO  ====================================================
+[10:55:23] INFO  INBOX vazio — nenhum arquivo para processar.
+[10:55:23] INFO  ✓ MCP log: 85 eventos registrados
+[10:55:23] INFO  
+Resumo: 1 item(s) processado(s)
+[10:55:23] INFO  vault_injector.py v2 concluído.
+[20:21:59] INFO  ====================================================
+[20:21:59] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[20:21:59] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[20:21:59] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[20:21:59] INFO  Modo:   REAL | Fonte: todas
+[20:21:59] INFO  ====================================================
+[20:21:59] INFO  INBOX vazio — nenhum arquivo para processar.
+[20:21:59] INFO  ✓ MCP log: 85 eventos registrados
+[20:21:59] INFO  
+Resumo: 1 item(s) processado(s)
+[20:21:59] INFO  vault_injector.py v2 concluído.
+[22:00:01] INFO  ====================================================
+[22:00:01] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[22:00:01] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[22:00:01] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[22:00:01] INFO  Modo:   REAL | Fonte: todas
+[22:00:01] INFO  ====================================================
+[22:00:01] INFO  INBOX vazio — nenhum arquivo para processar.
+[22:00:02] INFO  ✓ MCP log: 85 eventos registrados
+[22:00:02] INFO  
+Resumo: 1 item(s) processado(s)
+[22:00:02] INFO  vault_injector.py v2 concluído.
+[07:16:16] INFO  ====================================================
+[07:16:16] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[07:16:16] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[07:16:16] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[07:16:16] INFO  Modo:   REAL | Fonte: todas
+[07:16:16] INFO  ====================================================
+[07:16:16] INFO  INBOX vazio — nenhum arquivo para processar.
+[07:16:16] INFO  ✓ MCP log: 85 eventos registrados
+[07:16:16] INFO  
+Resumo: 1 item(s) processado(s)
+[07:16:16] INFO  vault_injector.py v2 concluído.
+[22:00:02] INFO  ====================================================
+[22:00:02] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[22:00:02] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[22:00:02] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[22:00:02] INFO  Modo:   REAL | Fonte: todas
+[22:00:02] INFO  ====================================================
+[22:00:02] INFO  INBOX vazio — nenhum arquivo para processar.
+[22:00:02] INFO  ✓ MCP log: 85 eventos registrados
+[22:00:02] INFO  
+Resumo: 1 item(s) processado(s)
+[22:00:02] INFO  vault_injector.py v2 concluído.
+[17:10:28] INFO  ====================================================
+[17:10:28] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[17:10:28] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[17:10:28] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[17:10:28] INFO  Modo:   REAL | Fonte: todas
+[17:10:28] INFO  ====================================================
+[17:10:28] INFO  INBOX vazio — nenhum arquivo para processar.
+[17:10:28] INFO  ✓ MCP log: 85 eventos registrados
+[17:10:28] INFO  
+Resumo: 1 item(s) processado(s)
+[17:10:28] INFO  vault_injector.py v2 concluído.
+[18:33:56] INFO  ====================================================
+[18:33:56] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[18:33:56] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[18:33:56] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[18:33:56] INFO  Modo:   REAL | Fonte: todas
+[18:33:56] INFO  ====================================================
+[18:33:56] INFO  INBOX vazio — nenhum arquivo para processar.
+[18:34:06] INFO  ✓ MCP log: 85 eventos registrados
+[18:34:07] INFO  
+Resumo: 1 item(s) processado(s)
+[18:34:07] INFO  vault_injector.py v2 concluído.
+[22:00:02] INFO  ====================================================
+[22:00:02] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[22:00:02] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[22:00:02] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[22:00:02] INFO  Modo:   REAL | Fonte: todas
+[22:00:02] INFO  ====================================================
+[22:00:02] INFO  INBOX vazio — nenhum arquivo para processar.
+[22:00:02] INFO  ✓ MCP log: 85 eventos registrados
+[22:00:02] INFO  
+Resumo: 1 item(s) processado(s)
+[22:00:02] INFO  vault_injector.py v2 concluído.
+[17:08:11] INFO  ====================================================
+[17:08:11] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[17:08:11] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[17:08:11] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[17:08:11] INFO  Modo:   REAL | Fonte: todas
+[17:08:11] INFO  ====================================================
+[17:08:11] INFO  INBOX vazio — nenhum arquivo para processar.
+[17:08:11] INFO  ✓ MCP log: 85 eventos registrados
+[17:08:11] INFO  
+Resumo: 1 item(s) processado(s)
+[17:08:11] INFO  vault_injector.py v2 concluído.
+[22:00:04] INFO  ====================================================
+[22:00:04] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[22:00:04] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[22:00:04] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[22:00:04] INFO  Modo:   REAL | Fonte: todas
+[22:00:04] INFO  ====================================================
+[22:00:04] INFO  INBOX vazio — nenhum arquivo para processar.
+[22:00:05] INFO  ✓ MCP log: 85 eventos registrados
+[22:00:05] INFO  
+Resumo: 1 item(s) processado(s)
+[22:00:05] INFO  vault_injector.py v2 concluído.
+[12:38:29] INFO  ====================================================
+[12:38:29] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[12:38:29] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[12:38:29] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[12:38:29] INFO  Modo:   REAL | Fonte: todas
+[12:38:29] INFO  ====================================================
+[12:38:29] INFO  INBOX vazio — nenhum arquivo para processar.
+[12:38:30] INFO  ✓ MCP log: 85 eventos registrados
+[12:38:30] INFO  
+Resumo: 1 item(s) processado(s)
+[12:38:30] INFO  vault_injector.py v2 concluído.
+[23:34:05] INFO  ====================================================
+[23:34:05] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[23:34:05] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[23:34:05] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[23:34:05] INFO  Modo:   REAL | Fonte: todas
+[23:34:05] INFO  ====================================================
+[23:34:05] INFO  INBOX vazio — nenhum arquivo para processar.
+[23:34:05] INFO  ✓ MCP log: 85 eventos registrados
+[23:34:05] INFO  
+Resumo: 1 item(s) processado(s)
+[23:34:05] INFO  vault_injector.py v2 concluído.
+[10:26:18] INFO  ====================================================
+[10:26:18] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[10:26:18] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[10:26:18] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[10:26:18] INFO  Modo:   REAL | Fonte: todas
+[10:26:18] INFO  ====================================================
+[10:26:18] INFO  INBOX vazio — nenhum arquivo para processar.
+[10:26:18] INFO  ✓ MCP log: 85 eventos registrados
+[10:26:18] INFO  
+Resumo: 1 item(s) processado(s)
+[10:26:18] INFO  vault_injector.py v2 concluído.
+[22:00:03] INFO  ====================================================
+[22:00:03] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[22:00:03] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[22:00:03] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[22:00:03] INFO  Modo:   REAL | Fonte: todas
+[22:00:03] INFO  ====================================================
+[22:00:03] INFO  INBOX vazio — nenhum arquivo para processar.
+[22:00:03] INFO  ✓ MCP log: 85 eventos registrados
+[22:00:03] INFO  
+Resumo: 1 item(s) processado(s)
+[22:00:03] INFO  vault_injector.py v2 concluído.
+[22:00:02] INFO  ====================================================
+[22:00:02] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[22:00:02] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[22:00:02] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[22:00:02] INFO  Modo:   REAL | Fonte: todas
+[22:00:02] INFO  ====================================================
+[22:00:02] INFO  INBOX vazio — nenhum arquivo para processar.
+[22:00:02] INFO  ✓ MCP log: 85 eventos registrados
+[22:00:02] INFO  
+Resumo: 1 item(s) processado(s)
+[22:00:02] INFO  vault_injector.py v2 concluído.
+[09:16:55] INFO  ====================================================
+[09:16:55] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[09:16:55] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[09:16:55] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[09:16:55] INFO  Modo:   REAL | Fonte: todas
+[09:16:55] INFO  ====================================================
+[09:16:55] INFO  INBOX vazio — nenhum arquivo para processar.
+[09:16:56] INFO  ✓ MCP log: 85 eventos registrados
+[09:16:56] INFO  
+Resumo: 1 item(s) processado(s)
+[09:16:56] INFO  vault_injector.py v2 concluído.
+[22:10:35] INFO  ====================================================
+[22:10:35] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[22:10:35] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[22:10:35] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[22:10:35] INFO  Modo:   REAL | Fonte: todas
+[22:10:35] INFO  ====================================================
+[22:10:35] INFO  INBOX vazio — nenhum arquivo para processar.
+[22:10:36] INFO  ✓ MCP log: 85 eventos registrados
+[22:10:36] INFO  
+Resumo: 1 item(s) processado(s)
+[22:10:36] INFO  vault_injector.py v2 concluído.
+[22:22:50] INFO  ====================================================
+[22:22:51] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[22:22:51] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[22:22:51] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[22:22:51] INFO  Modo:   REAL | Fonte: todas
+[22:22:51] INFO  ====================================================
+[22:22:51] INFO  INBOX vazio — nenhum arquivo para processar.
+[22:22:52] INFO  ✓ MCP log: 85 eventos registrados
+[22:22:52] INFO  
+Resumo: 1 item(s) processado(s)
+[22:22:52] INFO  vault_injector.py v2 concluído.
+[22:00:02] INFO  ====================================================
+[22:00:02] INFO  DEUS-DO-OBSIDIAN — vault_injector.py v2
+[22:00:02] INFO  Vault:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN
+[22:00:02] INFO  INBOX:  C:\Users\Usuário\Documents\GitHub\DEUS-DO-OBISIDIAN\INBOX
+[22:00:02] INFO  Modo:   REAL | Fonte: todas
+[22:00:02] INFO  ====================================================
+[22:00:02] INFO  INBOX vazio — nenhum arquivo para processar.
+[22:00:02] INFO  ✓ MCP log: 85 eventos registrados
+[22:00:02] INFO  
+Resumo: 1 item(s) processado(s)
+[22:00:02] INFO  vault_injector.py v2 concluído.

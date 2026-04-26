@@ -1,0 +1,14 @@
+---
+tags: ['estudos']
+tipo: nota
+date_created: 2026-03-16
+date_modified: 2026-03-16
+---
+
+[[UNIDADE 1 - CONCEITOS INTRODUTÓRIOS]]
+
+[[UNIDADE 2 - IDADE MEDIA E IDADE MODERNA ]]
+
+[[UNIDADE 3 - DA ARTE NEOCLÁSSICA ÀS VANGUARDAS EUROPEIAS ]]
+
+[[UNIDADE 4 - ARTE CONTEMPORÂNEA ]]
