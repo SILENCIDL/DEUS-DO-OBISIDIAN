@@ -121,4 +121,5 @@ Categoria: [[Ideas Extraordinárias - Monetização e Escala]]
 
 ## Links
 [[LEADS]] | [[COPY]] | [[CRIATIVO]] | [[CONVERSÃO]] | [[TRAFEGO PAGO]] | [[TRAFEGO ORGANICO]] | [[ROI]] | [[FUNIL]] | [[REMARKETING]] | [[ESTUDOS DIRECIONAIS]] | [[ENTENDIMENTOS DO CONSUMO]] | [[Analisando a concorrência]]
-
+---
+*Pai: [[_MOC-Negocios]]*

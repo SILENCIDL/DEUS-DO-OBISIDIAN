@@ -392,3 +392,5 @@ Loop cada 5 minutos:
 
 *Última atualização: 2026-05-18*
 *Próxima revisão: 2026-06-15 (check-in trimestral)*
+---
+*Pai: [[_MOC-Pessoal]]*

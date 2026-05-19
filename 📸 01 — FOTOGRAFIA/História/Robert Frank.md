@@ -17,3 +17,5 @@ tipo: stub
 - Também cineasta: *Pull My Daisy* (1959) com Jack Kerouac
 
 > Ver também: [[Street Photography]] | [[Henri Cartier-Bresson]] | [[Fotografia Documental]]
+---
+*Pai: [[_MOC-Fotografia]]*

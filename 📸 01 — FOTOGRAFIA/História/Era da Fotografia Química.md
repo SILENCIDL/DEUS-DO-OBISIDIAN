@@ -344,3 +344,5 @@ Fotógrafos precisavam levar uma **tenda escura** para revelar as placas imediat
 ---
 
 **← Voltar para [[HISTÓRIA DA FOTOGRAFIA - 200 anos|📜 História da Fotografia]]**
+---
+*Pai: [[_MOC-Fotografia]]*

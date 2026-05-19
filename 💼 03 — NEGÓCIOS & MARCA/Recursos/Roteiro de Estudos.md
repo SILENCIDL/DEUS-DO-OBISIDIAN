@@ -550,3 +550,5 @@ MÊS 5-6:
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #estudos #aprendizado #trilha #desenvolvimento #capacitação
+---
+*Pai: [[_MOC-Negocios]]*

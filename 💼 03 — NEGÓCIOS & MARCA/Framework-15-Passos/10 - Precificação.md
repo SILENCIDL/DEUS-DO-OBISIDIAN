@@ -204,3 +204,5 @@ Preço ideal = R$190 × 2.5 = R$475 ≈ R$497
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #precificação #preço #valor #estratégia #vendas
+---
+*Pai: [[_MOC-Negocios]]*

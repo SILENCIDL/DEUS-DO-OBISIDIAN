@@ -16,3 +16,5 @@ tipo: stub
 - Reduziu para minutos com iodeto de prata
 
 > Ver também: [[Daguerreótipo]] | [[Era da Fotografia Química]]
+---
+*Pai: [[_MOC-Fotografia]]*

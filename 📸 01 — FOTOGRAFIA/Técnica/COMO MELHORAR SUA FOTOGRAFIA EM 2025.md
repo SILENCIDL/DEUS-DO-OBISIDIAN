@@ -82,4 +82,5 @@ Categoria: [[FOTOGRAFIA - Arte, técnica e negócio]]
 
 ## Links
 [[FOTOGRAFIA - Arte, técnica e negócio]] | [[LIGHTROOM]] | [[PROJETO OLHAR]] | [[PROJETOS CINEMATIC]] | [[PORTFÓLIO FOTOGRÁFICO]]
-
+---
+*Pai: [[_MOC-Fotografia]]*

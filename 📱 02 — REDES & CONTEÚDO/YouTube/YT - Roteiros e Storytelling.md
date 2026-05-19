@@ -147,3 +147,5 @@ MÚSICA/SFX:
 - [[YT - SEO e Algoritmo]]
 - [[YT - Thumbnails e Design]]
 - [[YT - Edição e Pós-Produção]]
+---
+*Pai: [[_MOC-Redes]]*

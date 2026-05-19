@@ -46,3 +46,5 @@ Em adição à semântica perigosa, o aprendizado da dicção espanhola exige a 
 ## 5. TAGS SUGERIDAS
 
 #espanhol_avancado #falsos_cognatos #imersao_compreensivel #variacao_dialetal #portunhol
+---
+*Pai: [[_MOC-Estudos]]*

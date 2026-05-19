@@ -17,3 +17,5 @@ tipo: stub
 - Disparou a revolução do fotojornalismo e da street photography
 
 > Ver também: [[Henri Cartier-Bresson]] | [[Street Photography]] | [[Era da Fotografia Moderna]]
+---
+*Pai: [[_MOC-Fotografia]]*

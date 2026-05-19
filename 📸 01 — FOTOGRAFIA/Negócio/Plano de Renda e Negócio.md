@@ -55,3 +55,5 @@ R$6.000–7.000/mês
 https://claude.ai/chat/5270ff94-b945-4b0a-8376-f05a09661087
 https://claude.ai/chat/95401b64-17a4-43c4-9a9e-c840188a5b99
 https://claude.ai/chat/98616ea8-ed3a-4fea-97fd-01e1439b0677
+---
+*Pai: [[_MOC-Fotografia]]*

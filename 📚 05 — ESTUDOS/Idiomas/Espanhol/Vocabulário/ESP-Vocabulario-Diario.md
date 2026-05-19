@@ -132,3 +132,5 @@ categoria: Espanhol
 **← Voltar para [[ESP-HUB-Espanhol|🇪🇸 HUB Espanhol]]**
 
 #espanhol #vocabulario #palavras #flashcards
+---
+*Pai: [[_MOC-Estudos]]*

@@ -238,3 +238,5 @@ Ticket → Notificação → Atribuição → Resposta
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #automação #sistemas #ferramentas #produtividade #sop
+---
+*Pai: [[_MOC-Negocios]]*

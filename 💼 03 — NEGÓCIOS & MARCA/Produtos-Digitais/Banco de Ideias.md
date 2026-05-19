@@ -370,3 +370,5 @@ Este é seu **repositório pessoal de ideias**. Sempre que tiver uma ideia - boa
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #ideias #criatividade #conteúdo #brainstorm #planejamento
+---
+*Pai: [[_MOC-Negocios]]*

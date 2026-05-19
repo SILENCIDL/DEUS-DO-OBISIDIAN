@@ -16,3 +16,5 @@ tipo: stub
 - Fundador da fotografia como meio reprodutível
 
 > Ver também: [[Calótipo de Fox Talbot]] | [[Era da Fotografia Química]]
+---
+*Pai: [[_MOC-Fotografia]]*

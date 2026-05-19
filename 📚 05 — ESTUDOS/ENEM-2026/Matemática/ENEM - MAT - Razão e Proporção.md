@@ -139,4 +139,5 @@ Se escala é 1:50.000 e distância no mapa é 4 cm:
 - [[ENEM - Matemática]]
 - [[ENEM - MAT - Perguntas.canvas]]
 - [[ENEM - Área de Ação.canvas]]
-
+---
+*Pai: [[_MOC-Estudos]]*

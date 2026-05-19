@@ -64,3 +64,5 @@ Implementação do MCP pendente de teste final.
 ## Conversa de referência
 
 https://claude.ai/chat/c1cb7c6f-ef71-4424-a875-5d9da0b17ea6
+---
+*Pai: [[_MOC-Tech]]*

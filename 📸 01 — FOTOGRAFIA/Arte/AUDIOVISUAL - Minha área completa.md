@@ -58,5 +58,5 @@ Audiovisual é o guarda-chuva de tudo que envolve **imagem e som**.
 - [[VINICIUS - Meu universo]]
 - [[INSTAGRAM - Minha vitrine visual]]
 - [[YOUTUBE - Meu canal de vídeos]]
-
-
+---
+*Pai: [[_MOC-Fotografia]]*

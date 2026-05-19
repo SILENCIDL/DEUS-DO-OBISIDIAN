@@ -18,3 +18,5 @@ tipo: stub
 > Obras: *Sobre Fotografia* | *Doença como Metáfora* | *Às Voltas com a dor dos outros*
 >
 > Ver também: [[Teoria da Fotografia]] | [[Roland Barthes]]
+---
+*Pai: [[_MOC-Fotografia]]*

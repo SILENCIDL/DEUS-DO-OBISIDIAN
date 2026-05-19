@@ -92,3 +92,26 @@ tipo: moc-central
 
 *Última atualização: 2026-04-26 — pós-reorganização DEUS-DO-OBSIDIAN*
 
+---
+
+## 📎 Notas importadas (ponto 000 / DIREÇÃO)
+
+- [[2026-05-05_18-20-25_proposta-inicial-organiza-o-do-obsidian-para-otimi]]
+- [[2026-05-05_18-29-24_2026-05-05-18-20-25-proposta-inicial-organiza-o-do]]
+- [[PLANEJAMENTO - Organização e direções]]
+- [[Simple_Greeting_Message@20260329_220601]]
+- [[Clip Web Page]]
+- [[Clip YouTube Transcript]]
+- [[Emojify]]
+- [[Explain like I am 5]]
+- [[Fix grammar and spelling]]
+- [[Generate glossary]]
+- [[Generate table of contents]]
+- [[Make longer]]
+- [[Make shorter]]
+- [[Remove URLs]]
+- [[Rewrite as tweet thread]]
+- [[Rewrite as tweet]]
+- [[Simplify]]
+- [[Summarize]]
+- [[Translate to Chinese]]

@@ -102,4 +102,5 @@ São visitantes, seguidores e leads que chegam através de:
 
 ## Links
 [[TRAFEGO PAGO]] | [[FUNIL]] | [[COPY]] | [[LEADS]] | [[REMARKETING]]
-
+---
+*Pai: [[_MOC-Negocios]]*

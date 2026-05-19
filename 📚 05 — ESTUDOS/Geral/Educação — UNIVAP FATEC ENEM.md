@@ -69,3 +69,5 @@ Próximo processo seletivo: meados de 2026.
 ## Conversa de referência
 
 https://claude.ai/chat/b20da911-399e-4fb8-9e48-68bffbb01648
+---
+*Pai: [[_MOC-Estudos]]*

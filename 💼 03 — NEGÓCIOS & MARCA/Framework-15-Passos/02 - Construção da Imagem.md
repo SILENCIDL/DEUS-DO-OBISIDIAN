@@ -155,3 +155,5 @@ graph TD
 - [[04 - Monetização Instagram]]
 
 #imagem #identidade-visual #autoridade #branding
+---
+*Pai: [[_MOC-Negocios]]*

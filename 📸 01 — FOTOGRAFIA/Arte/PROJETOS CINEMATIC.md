@@ -80,3 +80,5 @@ Série fotográfica com linguagem cinematográfica:
 
 ## Links
 [[PROJETO OLHAR]] | [[CENA 1]] | [[CENA 2]] | [[CENA 3]] | [[FOTOGRAFIA - Arte, técnica e negócio]] | [[INSTAGRAM - Minha vitrine visual]] | [[PUBLICAÇÕES]]
+---
+*Pai: [[_MOC-Fotografia]]*

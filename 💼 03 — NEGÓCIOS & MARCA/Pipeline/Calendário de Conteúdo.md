@@ -472,3 +472,5 @@ Isso é pra você 👇
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #calendário #planejamento #conteúdo #organização #produtividade
+---
+*Pai: [[_MOC-Negocios]]*

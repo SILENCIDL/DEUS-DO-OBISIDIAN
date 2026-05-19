@@ -71,3 +71,5 @@ Categoria: [[LOJA VRGS - E-commerce de roupas]]
 
 ## Links
 [[LOJA VRGS - E-commerce de roupas]] | [[LOJA DE ROUPAS]] | [[BRINDES]] | [[CROCHE]] | [[ACESSORIOS BRINCOS, PRATA, PULSEIRAS E COLAR]]
+---
+*Pai: [[_MOC-VRGS]]*

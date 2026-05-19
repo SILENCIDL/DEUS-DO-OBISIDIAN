@@ -274,3 +274,5 @@ Email 2
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #funil #vendas #conversão #email-marketing #automação
+---
+*Pai: [[_MOC-Negocios]]*

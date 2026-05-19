@@ -136,3 +136,13 @@ Arquivos RAW/JPG das sessões. Pasta de binários — não tem notas, só imagen
 
 *Pai: [[_MOC-Vault]] · Atualizado: 2026-04-26*
 
+---
+
+## 📎 Notas importadas (ponto 000 / DIREÇÃO)
+
+- [[Equipamentos_e_Metas]]
+- [[Estudos_Optica_e_Sensores]]
+- [[Fotop_e_Equipe]]
+- [[Pack_Filmic_Mantiqueira]]
+- [[Projetos_e_Eventos]]
+- [[🎯 SUBTEMAS EXPANDIDOS - Fotografia]]

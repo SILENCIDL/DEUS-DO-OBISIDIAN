@@ -27,3 +27,5 @@ Estética trata do complexo de **sensações** e dos **sentimentos** que **objet
 #### Estética como campo de estudo.
 
 Estuda como as **produções** como intenções **artísticas** ou não, tocam a **sensibilidade** e geram **julgamento** **de valor que** articula o **conhecimento prévio** (a experiência), a **razão** e a ética.
+---
+*Pai: [[_MOC-Estudos]]*

@@ -60,3 +60,28 @@ tipo: moc-area
 
 *Pai: [[_MOC-Vault]] · Atualizado: 2026-04-26*
 
+---
+
+## 📎 Notas importadas (ponto 000 / DIREÇÃO)
+
+- [[Horta_Irrigacao_Autonoma]]
+- [[Planejamento_Casal]]
+- [[ACESSORIOS BRINCOS, PRATA, PULSEIRAS E COLAR]]
+- [[BAGS]]
+- [[BLUSAS]]
+- [[BRINDES]]
+- [[CAMISAS]]
+- [[CAMISETAS]]
+- [[REGATAS]]
+- [[SAPATOS]]
+- [[Tocas e Bonés]]
+- [[Crochê — Como Comecei]]
+- [[Crochê]]
+- [[TIPOS DE ROUPAS E ACESSORIOS DE CROCHE]]
+- [[DESENHO]]
+- [[Design]]
+- [[LOJA DE ROUPAS]]
+- [[LOJA VRGS - E-commerce de roupas]]
+- [[MINHA LOJA DE ROUPAS]]
+- [[CROCHE]]
+- [[🎯 SUBTEMAS EXPANDIDOS - Pessoais]]

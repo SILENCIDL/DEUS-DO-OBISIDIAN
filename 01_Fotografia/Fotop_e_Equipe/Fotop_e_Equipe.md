@@ -45,3 +45,5 @@ A fundação de qualquer entrega bem-sucedida, contudo, é o alinhamento de expe
 ## 5. TAGS SUGERIDAS
 
 #briefing_fotografico #gestao_criativa #fotografia_corporativa #lideranca #relacionamento_cliente
+---
+*Pai: [[_MOC-Fotografia]]*

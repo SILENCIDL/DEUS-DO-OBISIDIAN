@@ -247,3 +247,5 @@
 ---
 
 *Última atualização: 2026-05-18*
+---
+*Pai: [[_MOC-Tech]]*

@@ -342,4 +342,5 @@ Mantenha a resposta curta (1-2 frases) mas genuína.
 - [[LOJA VRGS - E-commerce de roupas]]
 - [[INSTAGRAM - Minha vitrine visual]]
 - [[VINICIUS - Meu universo]]
-
+---
+*Pai: [[_MOC-Negocios]]*

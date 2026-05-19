@@ -249,3 +249,5 @@ P.S.: [CTA ou teaser do próximo]
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #linkedin #podcast #newsletter #telegram #twitter #pinterest
+---
+*Pai: [[_MOC-Negocios]]*

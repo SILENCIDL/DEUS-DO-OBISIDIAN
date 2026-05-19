@@ -644,3 +644,5 @@ A proposta final demonstra uma compreensão profunda das complexidades da organi
 
 - [[MAPA-CONVERSAS-CLAUDE]]
 - [[DEUS-DO-OBSIDIAN]]
+---
+*Pai: [[_MOC-Vault]]*

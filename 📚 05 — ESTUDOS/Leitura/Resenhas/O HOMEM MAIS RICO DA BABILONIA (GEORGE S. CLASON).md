@@ -65,3 +65,5 @@ Considerado um dos clássicos mais importantes de finanças pessoais. Ensinament
 
 ## Links
 [[NÃO LIDOS]] | [[LEITURA - Livros e conhecimento]] | [[ESTUDOS DE FINANÇAS.]] | [[RESERVAS]] | [[FORMAS DE AUMENTAR O DINHEIRO]]
+---
+*Pai: [[_MOC-Estudos]]*

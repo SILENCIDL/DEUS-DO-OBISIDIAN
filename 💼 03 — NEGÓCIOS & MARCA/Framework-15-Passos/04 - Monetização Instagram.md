@@ -238,3 +238,5 @@ OFERTA CLOSE FRIENDS
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #instagram #monetização #publipost #close-friends #afiliados
+---
+*Pai: [[_MOC-Negocios]]*

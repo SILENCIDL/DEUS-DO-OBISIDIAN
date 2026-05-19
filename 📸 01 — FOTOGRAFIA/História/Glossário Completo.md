@@ -595,3 +595,5 @@ Ferramenta de automação que conecta diferentes apps.
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #glossário #termos #definições #dicionário #aprendizado
+---
+*Pai: [[_MOC-Fotografia]]*

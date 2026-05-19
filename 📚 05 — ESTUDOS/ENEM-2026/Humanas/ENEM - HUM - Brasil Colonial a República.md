@@ -166,4 +166,5 @@ O ENEM cobra:
 - [[ENEM - Ciências Humanas]]
 - [[ENEM - HUM - Perguntas.canvas]]
 - [[ENEM - Área de Ação.canvas]]
-
+---
+*Pai: [[_MOC-Estudos]]*

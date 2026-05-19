@@ -109,3 +109,5 @@ Pós-venda (satisfação → recompra / indicação)
 
 ## Links
 [[LINGUAGEM DO MERCADO]] | [[COPY]] | [[FUNIL]] | [[LEADS]] | [[Analisando a concorrência]] | [[ESTUDOS DE FINANÇAS.]]
+---
+*Pai: [[_MOC-Negocios]]*

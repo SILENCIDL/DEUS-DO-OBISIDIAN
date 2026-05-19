@@ -78,4 +78,5 @@ Controle financeiro pessoal e dos negócios.
 - [[PLANEJAMENTO - Organização e direções]]
 - [[LOJA VRGS - E-commerce de roupas]]
 - [[FOTOGRAFIA - Arte, técnica e negócio]]
-
+---
+*Pai: [[_MOC-Financas]]*

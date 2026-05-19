@@ -53,3 +53,5 @@ Clientes enviam selfies via WhatsApp. Vinícius usa Gemini/Kimi para gerar fotos
 ## Conversa de referência
 
 https://claude.ai/chat/93814c10-6089-42f4-b337-1fa63041ab86
+---
+*Pai: [[_MOC-Fotografia]]*

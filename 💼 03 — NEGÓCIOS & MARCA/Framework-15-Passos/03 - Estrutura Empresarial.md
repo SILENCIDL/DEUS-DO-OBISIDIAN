@@ -187,3 +187,5 @@ valor de R$ XXX].
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #empresa #mei #cnpj #nota-fiscal #contratos
+---
+*Pai: [[_MOC-Negocios]]*

@@ -46,3 +46,5 @@ Conteúdo:
 ## Conversa de referência
 
 https://claude.ai/chat/537b0a72-4915-4337-8d60-c7be92fbaad7
+---
+*Pai: [[_MOC-Tech]]*

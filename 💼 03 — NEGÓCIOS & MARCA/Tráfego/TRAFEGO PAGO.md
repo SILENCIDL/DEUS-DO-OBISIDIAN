@@ -129,4 +129,5 @@ Semana 4: Desligar perdedores, manter top 2
 
 ## Links
 [[TRAFEGO ORGANICO]] | [[ANUNCIOS]] | [[CRIATIVOS (ANUNCIOS)]] | [[ROI]] | [[REMARKETING]] | [[FUNIL]]
-
+---
+*Pai: [[_MOC-Negocios]]*

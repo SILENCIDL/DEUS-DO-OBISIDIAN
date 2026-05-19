@@ -16,3 +16,5 @@ tipo: stub
 - Colaborador próximo de Louis Daguerre
 
 > Pai: [[Era Pré-Fotográfica]] | Ver também: [[Heliografia de Niépce]]
+---
+*Pai: [[_MOC-Fotografia]]*

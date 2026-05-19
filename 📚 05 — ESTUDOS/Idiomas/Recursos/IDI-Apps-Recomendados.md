@@ -145,3 +145,5 @@ categoria: Idiomas
 **← Voltar para [[IDIOMAS-HUB-Central|🌍 HUB Idiomas]]**
 
 #idiomas #apps #ferramentas #recomendacao
+---
+*Pai: [[_MOC-Estudos]]*

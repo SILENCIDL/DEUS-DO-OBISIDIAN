@@ -19,3 +19,5 @@ tipo: stub
 > Obras: *Moonrise, Hernandez, New Mexico* (1941) | *Clearing Winter Storm* (1944)
 >
 > Ver também: [[Grupo f/64]] | [[Modernismo Fotográfico]] | [[Era da Fotografia Contemporânea]]
+---
+*Pai: [[_MOC-Fotografia]]*

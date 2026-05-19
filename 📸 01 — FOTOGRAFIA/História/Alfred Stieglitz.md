@@ -17,3 +17,5 @@ tipo: stub
 - Casado com a pintora Georgia O'Keeffe (fotografou-a extensivamente)
 
 > Ver também: [[Pictorialismo]] | [[Modernismo Fotográfico]] | [[Grupo f/64]]
+---
+*Pai: [[_MOC-Fotografia]]*

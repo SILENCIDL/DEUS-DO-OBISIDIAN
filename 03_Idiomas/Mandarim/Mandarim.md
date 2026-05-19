@@ -44,3 +44,5 @@ O chinês mandarim castiga fisicamente e psicologicamente aprendizes iniciantes 
 ## 5. TAGS SUGERIDAS
 
 #mandarim_hsk #fluencia_asiatica #srs_anki #pinyin #imposicao_tonal
+---
+*Pai: [[_MOC-Estudos]]*

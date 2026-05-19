@@ -380,3 +380,5 @@ Cons: Manutenção, custo
 **Reviewer:** Casal (testes UX)
 
 *Documento vivo. Atualizar conforme progresso em VSCode. Decisões críticas registrar aqui.*
+---
+*Pai: [[_MOC-Tech]]*

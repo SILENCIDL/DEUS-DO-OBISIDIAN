@@ -16,3 +16,5 @@ Primeiro processo fotográfico comercial, anunciado por Louis Daguerre em **1839
 - Detalho extremo, aparência de "espelho mágico"
 
 > Ver também: [[Louis Daguerre]] | [[Era da Fotografia Química]]
+---
+*Pai: [[_MOC-Fotografia]]*

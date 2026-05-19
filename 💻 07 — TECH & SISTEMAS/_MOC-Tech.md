@@ -64,4 +64,12 @@ tipo: moc-area
 
 *Pai: [[_MOC-Vault]] · Atualizado: 2026-04-26*
 
+---
 
+## 📎 Notas importadas (ponto 000 / DIREÇÃO)
+
+- [[Automacoes_Obsidian_API]]
+- [[Portfolio_Site_Vinicius]]
+- [[Roadmap_do_Portfoio]]
+- [[Projeto_Software_3D]]
+- [[🎯 SUBTEMAS EXPANDIDOS - Dev]]

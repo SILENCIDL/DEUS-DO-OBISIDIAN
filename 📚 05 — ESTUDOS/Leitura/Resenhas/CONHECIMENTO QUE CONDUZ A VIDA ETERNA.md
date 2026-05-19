@@ -58,4 +58,5 @@ Uma ideia que quero levar para a vida:
 
 ## Links
 [[NÃO LIDOS]] | [[LEITURA - Livros e conhecimento]] | [[VINICIUS - Meu universo]]
-
+---
+*Pai: [[_MOC-Estudos]]*

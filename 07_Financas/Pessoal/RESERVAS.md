@@ -59,4 +59,5 @@ Categoria: [[FINANCEIRO - Dinheiro e metas]]
 - [[Planejamento Financeiro]]
 - [[RENDA FIXA]]
 - [[VINICIUS - Meu universo]]
-
+---
+*Pai: [[_MOC-Financas]]*

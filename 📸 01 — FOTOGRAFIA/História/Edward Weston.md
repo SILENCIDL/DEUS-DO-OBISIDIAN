@@ -17,3 +17,5 @@ tipo: stub
 - Influenciou gerações de fotógrafos com sua abordagem "straight"
 
 > Ver também: [[Grupo f/64]] | [[Modernismo Fotográfico]] | [[Ansel Adams]]
+---
+*Pai: [[_MOC-Fotografia]]*

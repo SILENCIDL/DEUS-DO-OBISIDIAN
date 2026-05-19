@@ -692,4 +692,5 @@ Conexão em tempo real com a audiência.
 - [[YT - Análise de Concorrência]] — Estudar canais e encontrar lacunas
 - [[YT - Séries e Formatos Recorrentes]] — Formatos que criam hábito
 - [[YT - Crescimento e Comunidade]] — Estratégias para escalar e engajar
-
+---
+*Pai: [[_MOC-Redes]]*

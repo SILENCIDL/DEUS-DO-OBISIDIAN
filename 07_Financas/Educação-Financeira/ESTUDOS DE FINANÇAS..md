@@ -82,3 +82,5 @@ Nível 4: Renda variável de risco (cripto, trade)
 
 ## Links
 [[DINHEIRO (CONTROLE DE GASTOS)]] | [[FINANCEIRO - Dinheiro e metas]] | [[FORMAS DE AUMENTAR O DINHEIRO]] | [[RESERVAS]] | [[AÇÕES]] | [[RENDA FIXA]]
+---
+*Pai: [[_MOC-Financas]]*

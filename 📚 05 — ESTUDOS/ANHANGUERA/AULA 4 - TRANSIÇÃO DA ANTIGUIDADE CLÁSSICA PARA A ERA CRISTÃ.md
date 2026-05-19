@@ -32,3 +32,5 @@ tipo: stub
 - [[AULA 3 - ANTIGUIDADE CLÁSSICA]]
 - [[UNIDADE 1 - CONCEITOS INTRODUTÓRIOS]]
 - [[UNIDADE 2 - IDADE MÉDIA E IDADE MODERNA]]
+---
+*Pai: [[_MOC-Estudos]]*

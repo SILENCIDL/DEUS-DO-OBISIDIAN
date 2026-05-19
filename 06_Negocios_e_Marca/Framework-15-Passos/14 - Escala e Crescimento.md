@@ -247,3 +247,5 @@ SEMANA 2: PÓS-LANÇAMENTO
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #escala #crescimento #tráfego-pago #lançamento #expansão
+---
+*Pai: [[_MOC-Negocios]]*

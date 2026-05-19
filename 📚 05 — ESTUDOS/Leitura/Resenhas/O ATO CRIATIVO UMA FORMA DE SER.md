@@ -61,3 +61,5 @@ Rick Rubin produziu álbuns de Johnny Cash, Jay-Z, Red Hot Chili Peppers e dezen
 
 ## Links
 [[NÃO LIDOS]] | [[LEITURA - Livros e conhecimento]] | [[CRIATIVIDADE]] | [[PROJETO OLHAR]] | [[O ATO CRIATIVO UMA FORMA DE SER]]
+---
+*Pai: [[_MOC-Estudos]]*

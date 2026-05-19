@@ -101,4 +101,5 @@ updated: 2026-03-13
 - [[FINANCEIRO - Dinheiro e metas]]
 - [[10 - Precificação]]
 - [[VINICIUS - Meu universo]]
-
+---
+*Pai: [[_MOC-Fotografia]]*

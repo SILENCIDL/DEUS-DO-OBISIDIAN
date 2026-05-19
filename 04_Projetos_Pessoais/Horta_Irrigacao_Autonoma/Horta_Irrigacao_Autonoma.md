@@ -46,3 +46,5 @@ Na mecânica primária vital da atuação deste cenário em uma floresta caseira
 ## 5. TAGS SUGERIDAS
 
 #hardware_eletronica #internet_das_coisas #horta_maker #projetos_arduino_esp32 #custos_reais
+---
+*Pai: [[_MOC-Pessoal]]*

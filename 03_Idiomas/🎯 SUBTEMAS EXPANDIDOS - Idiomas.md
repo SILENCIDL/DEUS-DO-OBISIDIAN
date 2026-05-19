@@ -213,3 +213,5 @@
 
 *Última atualização: 2026-05-18*
 *Próxima revisão: 2026-06-01 (checkpoint de progresso)*
+---
+*Pai: [[_MOC-Estudos]]*

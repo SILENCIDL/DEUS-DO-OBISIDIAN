@@ -113,3 +113,5 @@ FRANCÊS:
 **🎯 Comece agora:** [[ESP-HUB-Espanhol|Ir para Espanhol]]
 
 #idiomas #espanhol #russo #intercambio #aprendizado
+---
+*Pai: [[_MOC-Estudos]]*

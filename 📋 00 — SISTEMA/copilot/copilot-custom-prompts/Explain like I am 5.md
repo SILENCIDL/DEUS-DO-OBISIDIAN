@@ -10,3 +10,5 @@ Explain {} in simple terms that a 5-year-old would understand:
     2. Include simple analogies
     3. Break down complex concepts
     Return only the simplified explanation.
+---
+*Pai: [[_MOC-Vault]]*

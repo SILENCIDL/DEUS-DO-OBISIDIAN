@@ -19,3 +19,5 @@ tipo: stub
 > Obras: *Workers* (1993) | *Genesis* (2013) | *Terra* (1997)
 >
 > Ver também: [[Instituto Moreira Salles]] | [[Fotografia Documental]] | [[Preto e Branco Artístico]]
+---
+*Pai: [[_MOC-Fotografia]]*

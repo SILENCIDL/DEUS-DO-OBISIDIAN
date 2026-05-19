@@ -67,3 +67,9 @@ tipo: moc-area
 ---
 
 *Pai: [[_MOC-Vault]] · Atualizado: 2026-04-26*
+
+---
+
+## 📎 Notas importadas (ponto 000 / DIREÇÃO)
+
+- [[CROCHE]]

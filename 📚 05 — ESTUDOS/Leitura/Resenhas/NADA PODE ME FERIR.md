@@ -67,4 +67,5 @@ David Goggins foi de obeso, infestado de baratas e sem perspectiva a Navy SEAL, 
 
 ## Links
 [[LIDOS Q]] | [[O PODER DA AUTO RESPONSABILIDADE]] | [[LEITURA - Livros e conhecimento]] | [[VINICIUS - Meu universo]]
-
+---
+*Pai: [[_MOC-Estudos]]*

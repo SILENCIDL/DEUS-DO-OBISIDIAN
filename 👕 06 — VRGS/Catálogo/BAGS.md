@@ -62,3 +62,5 @@ As bags VRGS funcionam como marketing andante:
 
 ## Links
 [[LOJA VRGS - E-commerce de roupas]] | [[LOJA DE ROUPAS]] | [[BRINDES]] | [[ACESSORIOS BRINCOS, PRATA, PULSEIRAS E COLAR]]
+---
+*Pai: [[_MOC-VRGS]]*

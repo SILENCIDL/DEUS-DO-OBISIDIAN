@@ -58,3 +58,5 @@ Representa a imersão: o olhar que já não é mais acidente — é escolha.
 
 ## Links
 [[PROJETO OLHAR]] | [[O CENA 1]] | [[O CENA 3]] | [[PROJETOS CINEMATIC]] | [[FOTOGRAFIA - Arte, técnica e negócio]]
+---
+*Pai: [[_MOC-Fotografia]]*

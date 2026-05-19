@@ -99,4 +99,5 @@ Teria interesse em conversar sobre [benefício]?
 - [[INSTAGRAM - Minha vitrine visual]]
 - [[ANUNCIOS]]
 - [[Ideas Extraordinárias - Monetização e Escala]]
-
+---
+*Pai: [[_MOC-Negocios]]*

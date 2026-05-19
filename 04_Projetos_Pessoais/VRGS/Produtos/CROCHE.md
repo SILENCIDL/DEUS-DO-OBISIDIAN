@@ -25,3 +25,5 @@ Linha de produtos artesanais em crochê da VRGS.
 - [[VRGS Estratégia]] — planejamento geral
 - [[CATÁLOGO VRGS]] — produtos disponíveis
 - [[_MOC-VRGS]]
+---
+*Pai: [[_MOC-Pessoal]]*

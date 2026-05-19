@@ -16,3 +16,5 @@ tipo: stub
 - Membros notáveis: Eve Arnold, Martin Parr, Sebastião Salgado, Steve McCurry
 
 > Ver também: [[Robert Capa]] | [[Henri Cartier-Bresson]] | [[Sebastião Salgado]] | [[Steve McCurry]]
+---
+*Pai: [[_MOC-Fotografia]]*

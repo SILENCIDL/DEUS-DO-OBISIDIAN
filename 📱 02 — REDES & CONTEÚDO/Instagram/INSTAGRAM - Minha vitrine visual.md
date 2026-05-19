@@ -155,4 +155,5 @@ Conteúdo efêmero para conexão diária.
 - [[YOUTUBE - Meu canal de vídeos]]
 - [[LOJA VRGS - E-commerce de roupas]]
 - [[FOTOGRAFIA - Arte, técnica e negócio]]
-
+---
+*Pai: [[_MOC-Redes]]*

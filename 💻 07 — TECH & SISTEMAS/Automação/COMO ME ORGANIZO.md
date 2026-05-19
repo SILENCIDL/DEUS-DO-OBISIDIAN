@@ -96,4 +96,5 @@ Categoria: [[FOTOGRAFIA - Arte, técnica e negócio]]
 
 ## Links
 [[FOTOGRAFIA - Arte, técnica e negócio]] | [[LIGHTROOM]] | [[TRABALHOS FOTOGRAFICOS]] | [[PORTFÓLIO FOTOGRÁFICO]]
-
+---
+*Pai: [[_MOC-Tech]]*

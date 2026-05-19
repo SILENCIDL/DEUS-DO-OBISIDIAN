@@ -74,3 +74,5 @@ Saber sobre spread permite:
 
 ## Links
 [[ELISIANE AULAS AO VIVO.]] | [[ESTUDOS DE FINANÇAS.]] | [[FINANCEIRO - Dinheiro e metas]] | [[RENDA FIXA]]
+---
+*Pai: [[_MOC-Financas]]*

@@ -52,3 +52,5 @@ Portfólio com categorias: casamentos, aventura, retratos, street photography.
 ## Conversa de referência
 
 https://claude.ai/chat/63a093c5-a057-4e2d-a82d-ed20e4737010
+---
+*Pai: [[_MOC-Tech]]*

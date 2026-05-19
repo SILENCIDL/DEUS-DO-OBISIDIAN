@@ -94,3 +94,5 @@ Investimento = (Renda - Gastos) × Consistência × Tempo
 
 ## Links
 [[DINHEIRO (CONTROLE DE GASTOS)]] | [[FINANCEIRO - Dinheiro e metas]] | [[HORTA]] | [[ANUNCIOS]] | [[YOUTUBE (CRIAÇÃO DE CONTEÚDO)]] | [[RESERVAS]]
+---
+*Pai: [[_MOC-Financas]]*

@@ -68,3 +68,5 @@ Exemplo de uso: carrossel no Instagram onde cada slide tem uma foto + um fragmen
 
 ## Links
 [[IDEIAS DE VIDEO]] | [[LEITURA - Livros e conhecimento]] | [[FRAGMENTOS (PAULO ROBERTO DA SILVA)]] | [[O ATO CRIATIVO UMA FORMA DE SER]]
+---
+*Pai: [[_MOC-Estudos]]*

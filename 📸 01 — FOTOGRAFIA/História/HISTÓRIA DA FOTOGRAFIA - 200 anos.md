@@ -292,3 +292,5 @@ Este é o **nódulo central** que conecta toda a evolução histórica da fotogr
 ---
 
 *Última atualização: 2026-02-06*
+---
+*Pai: [[_MOC-Fotografia]]*

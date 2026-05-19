@@ -17,3 +17,5 @@ tipo: stub
 - Primeira mulher a ter uma retrospectiva no National Portrait Gallery (1991)
 
 > Ver também: [[Retratos Carte de Visite]] | [[Fotografia de Moda]]
+---
+*Pai: [[_MOC-Fotografia]]*

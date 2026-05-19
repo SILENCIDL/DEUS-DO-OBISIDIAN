@@ -16,3 +16,5 @@ tipo: stub
 - A imagem original está preservada na University of Texas at Austin
 
 > Ver também: [[Joseph Nicéphore Niépce]] | [[Heliografia de Niépce]] | [[Era Pré-Fotográfica]]
+---
+*Pai: [[_MOC-Fotografia]]*

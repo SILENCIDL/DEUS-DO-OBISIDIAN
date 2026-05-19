@@ -14,4 +14,5 @@ Categoria: [[LOJA VRGS - E-commerce de roupas]]
 [[QUEM SOU EU.]]
 [[YOUTUBE (CRIAÇÃO DE CONTEÚDO)]]
 [[ESTUDOS]]
-
+---
+*Pai: [[_MOC-Arquivo]]*

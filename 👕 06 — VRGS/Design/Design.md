@@ -93,3 +93,5 @@ Categoria: [[LOJA VRGS - E-commerce de roupas]]
 
 ## Links
 [[LOJA VRGS - E-commerce de roupas]] | [[DESENHO]] | [[INSTAGRAM - Minha vitrine visual]] | [[FOTOGRAFIA (ESTUDOS + INSPIRAÇÕES E DICAS. )]]
+---
+*Pai: [[_MOC-VRGS]]*

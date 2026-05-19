@@ -10,3 +10,5 @@ Rewrite {} as a single tweet with these requirements:
     2. Use concise, impactful language
     3. Maintain the core message
     Return only the tweet text.
+---
+*Pai: [[_MOC-Vault]]*

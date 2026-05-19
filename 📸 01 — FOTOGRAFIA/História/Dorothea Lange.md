@@ -16,3 +16,5 @@ tipo: stub
 - Fotografia como ferramenta de advocacy social
 
 > Ver também: [[Fotografia Documental]] | [[FSA]] | [[Walker Evans]]
+---
+*Pai: [[_MOC-Fotografia]]*

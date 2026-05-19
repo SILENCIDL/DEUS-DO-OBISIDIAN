@@ -47,3 +47,5 @@ Outro pico anatômico desafiador encontra-se no som fricativo do "R uvular" (ʁ)
 ## 5. TAGS SUGERIDAS
 
 #idiomas #frances_corporativo #fonetica_articulacao #nasais #imersao_cultural_b1
+---
+*Pai: [[_MOC-Estudos]]*

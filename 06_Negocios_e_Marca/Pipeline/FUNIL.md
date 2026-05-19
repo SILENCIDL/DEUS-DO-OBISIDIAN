@@ -92,4 +92,5 @@ PÓS-VENDA — Fidelização
 - [[TRAFEGO ORGANICO]]
 - [[09 - Funil de Vendas]]
 - [[Ideas Extraordinárias - Monetização e Escala]]
-
+---
+*Pai: [[_MOC-Negocios]]*

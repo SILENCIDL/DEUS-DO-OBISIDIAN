@@ -81,3 +81,5 @@ Todo começo de mês, revisar:
 
 ## Links
 [[FINANCEIRO - Dinheiro e metas]] | [[DINHEIRO (CONTROLE DE GASTOS)]] | [[RESERVAS]] | [[FORMAS DE AUMENTAR O DINHEIRO]] | [[Planejamento Financeiro]]
+---
+*Pai: [[_MOC-Financas]]*

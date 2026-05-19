@@ -12,3 +12,5 @@ status: ativo
 [[UNIDADE 3 - DA ARTE NEOCLÁSSICA ÀS VANGUARDAS EUROPEIAS ]]
 
 [[UNIDADE 4 - ARTE CONTEMPORÂNEA ]]
+---
+*Pai: [[_MOC-Estudos]]*

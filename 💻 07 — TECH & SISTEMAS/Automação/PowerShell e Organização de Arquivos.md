@@ -41,3 +41,5 @@ Caminho do cartão com espaço trailing confirmado: `I:\cartão celular` (espaç
 ## Conversa de referência
 
 https://claude.ai/chat/145ffe4a-967e-4f14-ac9e-05453da30c5b
+---
+*Pai: [[_MOC-Tech]]*

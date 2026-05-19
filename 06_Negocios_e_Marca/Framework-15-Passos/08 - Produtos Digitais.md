@@ -255,3 +255,5 @@ MÓDULO BÔNUS
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #infoprodutos #curso #ebook #mentoria #comunidade
+---
+*Pai: [[_MOC-Negocios]]*

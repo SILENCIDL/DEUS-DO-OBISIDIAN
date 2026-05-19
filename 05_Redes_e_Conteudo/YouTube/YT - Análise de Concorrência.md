@@ -114,3 +114,5 @@ ________________________
 - [[YT - SEO e Algoritmo]]
 - [[YT - Thumbnails e Design]]
 - [[Banco de Ideias]]
+---
+*Pai: [[_MOC-Redes]]*

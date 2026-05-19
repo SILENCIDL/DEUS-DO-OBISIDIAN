@@ -444,4 +444,5 @@ CONCLUSÃO
 > 💡 **Lembrete**: O ENEM não é apenas uma prova, é uma oportunidade de transformar seu futuro. Dedique-se, organize-se e confie no seu potencial!
 
 **Bons estudos! 📚✨**
-
+---
+*Pai: [[_MOC-Estudos]]*

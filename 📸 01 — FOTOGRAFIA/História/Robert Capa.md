@@ -18,3 +18,5 @@ tipo: stub
 > Obras: *Morto de um miliciano* (1936) | *Desembarque em Omaha Beach* (1944)
 >
 > Ver também: [[Magnum Photos]] | [[Fotografia de Guerra Moderna]]
+---
+*Pai: [[_MOC-Fotografia]]*

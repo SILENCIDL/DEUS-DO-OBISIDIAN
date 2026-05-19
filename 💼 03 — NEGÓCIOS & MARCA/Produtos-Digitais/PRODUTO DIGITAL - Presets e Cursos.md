@@ -84,5 +84,5 @@ updated: 2026-03-13
 - [[LIGHTROOM]]
 - [[08 - Produtos Digitais]]
 - [[VINICIUS - Meu universo]]
-
-
+---
+*Pai: [[_MOC-Negocios]]*

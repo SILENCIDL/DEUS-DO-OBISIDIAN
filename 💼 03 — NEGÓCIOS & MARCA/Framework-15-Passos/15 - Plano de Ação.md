@@ -238,3 +238,5 @@ ________________________________
 - [[Roteiro de Estudos]]
 
 #plano-de-ação #metas #checklist #organização #execução
+---
+*Pai: [[_MOC-Negocios]]*

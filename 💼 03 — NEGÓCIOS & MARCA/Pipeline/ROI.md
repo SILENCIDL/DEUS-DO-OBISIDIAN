@@ -83,3 +83,5 @@ Se após 3 meses um investimento não trouxe retorno mensurável:
 - [[FUNIL]]
 - [[11 - Gestão Financeira]]
 - [[Ideas Extraordinárias - Monetização e Escala]]
+---
+*Pai: [[_MOC-Negocios]]*

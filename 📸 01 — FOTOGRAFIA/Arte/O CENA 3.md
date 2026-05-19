@@ -62,3 +62,5 @@ Cap. 3 (O CENA 3): Transformação — se ver no que fotografa
 
 ## Links
 [[PROJETO OLHAR]] | [[O CENA 1]] | [[O CENA 2]] | [[PROJETOS CINEMATIC]] | [[FOTOGRAFIA - Arte, técnica e negócio]]
+---
+*Pai: [[_MOC-Fotografia]]*

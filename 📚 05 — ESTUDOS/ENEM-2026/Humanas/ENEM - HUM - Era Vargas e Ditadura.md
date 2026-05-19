@@ -164,4 +164,5 @@ O ENEM cobra especialmente:
 - [[ENEM - HUM - Brasil Colonial a República]]
 - [[ENEM - HUM - Perguntas.canvas]]
 - [[ENEM - Área de Ação.canvas]]
-
+---
+*Pai: [[_MOC-Estudos]]*

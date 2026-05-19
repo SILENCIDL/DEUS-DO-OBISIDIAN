@@ -147,4 +147,5 @@ Conta de luz: Custo = kWh × tarifa
 - [[ENEM - Ciências da Natureza]]
 - [[ENEM - NAT - Perguntas.canvas]]
 - [[ENEM - Área de Ação.canvas]]
-
+---
+*Pai: [[_MOC-Estudos]]*

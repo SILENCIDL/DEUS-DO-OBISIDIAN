@@ -674,3 +674,5 @@ Após completar os exercícios, avalie-se:
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #exercícios #prática #desenvolvimento #atividades #aprendizado
+---
+*Pai: [[_MOC-Fotografia]]*

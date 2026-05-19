@@ -191,3 +191,5 @@ Iris                 =         Diafragma
 ---
 
 **← Voltar para [[HISTÓRIA DA FOTOGRAFIA - 200 anos|📜 História da Fotografia]]**
+---
+*Pai: [[_MOC-Fotografia]]*

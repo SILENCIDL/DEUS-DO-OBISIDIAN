@@ -46,3 +46,5 @@ A captação de milhares de arquivos de 24 a 45 megapixels exige uma arquitetura
 ## 5. TAGS SUGERIDAS
 
 #hardware_fotografia #nikon_z #macbook_m4_max #review_lentes #workflow_alto_desempenho
+---
+*Pai: [[_MOC-Fotografia]]*

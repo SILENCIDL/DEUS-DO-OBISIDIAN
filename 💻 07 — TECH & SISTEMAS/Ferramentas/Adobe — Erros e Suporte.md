@@ -45,3 +45,5 @@ Adobe Creative Cloud Cleaner Tool
 
 https://claude.ai/chat/e4a7a64d-a523-4d3c-bd88-2b1ebc5281a0
 https://claude.ai/chat/d4a87c96-1b37-4e72-ae6a-6596e658c312
+---
+*Pai: [[_MOC-Tech]]*

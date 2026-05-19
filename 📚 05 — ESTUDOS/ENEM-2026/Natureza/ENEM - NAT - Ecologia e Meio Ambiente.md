@@ -128,4 +128,5 @@ Fixação (N₂ → NH₃) → Nitrificação → Assimilação → Desnitrifica
 - [[ENEM - Ciências da Natureza]]
 - [[ENEM - NAT - Perguntas.canvas]]
 - [[ENEM - Área de Ação.canvas]]
-
+---
+*Pai: [[_MOC-Estudos]]*

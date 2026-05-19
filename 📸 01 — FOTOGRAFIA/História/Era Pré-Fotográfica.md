@@ -190,3 +190,5 @@ O contexto do século XIX foi fundamental:
 ---
 
 **← Voltar para [[HISTÓRIA DA FOTOGRAFIA - 200 anos|📜 História da Fotografia]]**
+---
+*Pai: [[_MOC-Fotografia]]*

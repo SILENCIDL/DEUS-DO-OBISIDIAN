@@ -21,3 +21,5 @@ PES MÃOS E CABEÇA VOLTADAS PARA O LADO
 
 busto de mefertiti
 retrato em relevo de aquenáton
+---
+*Pai: [[_MOC-Estudos]]*

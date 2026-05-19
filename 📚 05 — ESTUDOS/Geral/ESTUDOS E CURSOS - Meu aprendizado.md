@@ -75,5 +75,5 @@ Minha estratégia de **diversificação de conhecimento**.
 - [[FOTOGRAFIA - Arte, técnica e negócio]]
 - [[LEITURA - Livros e conhecimento]]
 - [[PLANEJAMENTO - Organização e direções]]
-
-
+---
+*Pai: [[_MOC-Estudos]]*

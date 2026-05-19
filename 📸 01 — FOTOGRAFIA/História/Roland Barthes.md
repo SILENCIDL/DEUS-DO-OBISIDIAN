@@ -18,3 +18,5 @@ tipo: stub
 > Obras: *A Câmara Clara* | *Mitos de Hoje* | *Fragmentos de um discurso amoroso*
 >
 > Ver também: [[Teoria da Fotografia]] | [[Susan Sontag]]
+---
+*Pai: [[_MOC-Fotografia]]*

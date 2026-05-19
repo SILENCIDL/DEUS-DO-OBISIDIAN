@@ -61,4 +61,5 @@ Coleção de textos que me inspiram.
 - [[VINICIUS - Meu universo]]
 - [[ESTUDOS E CURSOS - Meu aprendizado]]
 - [[PLANEJAMENTO - Organização e direções]]
-
+---
+*Pai: [[_MOC-Estudos]]*

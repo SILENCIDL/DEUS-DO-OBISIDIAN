@@ -27,3 +27,5 @@ Registro fotográfico da realidade com propósito de informar ou provocar mudan�
 - [[FSA]] (Farm Security Administration)
 
 > Ver também: [[Street Photography]] | [[Fotojornalismo]]
+---
+*Pai: [[_MOC-Fotografia]]*

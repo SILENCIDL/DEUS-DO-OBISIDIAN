@@ -173,3 +173,5 @@ FUNDO (Conversão)
 ---
 
 #monetização #instagram #youtube #empreendedorismo #escala #ideias
+---
+*Pai: [[_MOC-Negocios]]*

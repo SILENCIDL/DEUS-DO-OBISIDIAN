@@ -40,3 +40,5 @@ Categoria: [[FOTOGRAFIA - Arte, técnica e negócio]]
 ---
 
 *Atualizado: 2026-05-11*
+---
+*Pai: [[_MOC-Fotografia]]*

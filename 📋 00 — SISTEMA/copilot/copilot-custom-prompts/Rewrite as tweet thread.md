@@ -16,3 +16,5 @@ Convert {} into a Twitter thread following these rules:
     4. End with "THREAD END" on its own line
     5. Make content engaging and clear
     Return only the formatted thread.
+---
+*Pai: [[_MOC-Vault]]*

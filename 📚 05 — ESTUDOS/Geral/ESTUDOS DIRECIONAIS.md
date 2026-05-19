@@ -64,4 +64,5 @@ Contraste com estudo amplo (faculdade, leitura livre):
 
 ## Links
 [[ESTUDOS E CURSOS - Meu aprendizado]] | [[Analisando a concorrência]] | [[LINGUAGEM DO MERCADO]] | [[COPY]]
-
+---
+*Pai: [[_MOC-Estudos]]*

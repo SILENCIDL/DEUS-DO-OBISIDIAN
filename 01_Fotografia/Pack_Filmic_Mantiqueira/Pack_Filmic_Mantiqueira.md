@@ -44,3 +44,5 @@ Aplicar esta engenharia à região da Serra da Mantiqueira significa traduzir os
 ## 5. TAGS SUGERIDAS
 
 #color_grading #log_profiles #pack_filmic #serra_da_mantiqueira #pos_producao
+---
+*Pai: [[_MOC-Fotografia]]*

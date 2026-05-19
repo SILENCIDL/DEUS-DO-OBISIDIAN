@@ -97,3 +97,5 @@ Categoria: [[FOTOGRAFIA - Arte, técnica e negócio]]
 
 ## Links
 [[FOTOGRAFIA - Arte, técnica e negócio]] | [[LISTA DE EQUIPAMENTOS]] | [[METAS DE EQUIPAMENTOS]] | [[PORTFÓLIO FOTOGRÁFICO]]
+---
+*Pai: [[_MOC-Fotografia]]*

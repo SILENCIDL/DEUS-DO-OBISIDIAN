@@ -22,3 +22,5 @@ Moral:
 Religião:
 Ambos prescreevem pensamentos.
 Dogma religioso. Não lida com a razão e sim com a Fé.
+---
+*Pai: [[_MOC-Estudos]]*

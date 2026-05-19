@@ -60,3 +60,5 @@ Prompts detalhados entregues em arquivo `.md` separado.
 ## Conversa de referência
 
 https://claude.ai/chat/adf23ba0-8a04-426c-966b-9b72ed8aaed9
+---
+*Pai: [[_MOC-Negocios]]*

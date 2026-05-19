@@ -70,3 +70,5 @@ status: ativo
 ## Conversa de referência
 
 https://claude.ai/chat/683cb1d7-8481-45ce-8f86-89b052375d8d
+---
+*Pai: [[_MOC-Pessoal]]*

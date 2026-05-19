@@ -57,3 +57,5 @@ Calendário de março 2026 configurado via Google Calendar API.
 ## Conversa de referência
 
 https://claude.ai/chat/a083b6f8-a2eb-4940-9f46-5655e68ac129
+---
+*Pai: [[_MOC-Fotografia]]*

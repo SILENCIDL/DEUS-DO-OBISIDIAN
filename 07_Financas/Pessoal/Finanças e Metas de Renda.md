@@ -45,3 +45,5 @@ status: ativo
 ## Conversa de referência
 
 https://claude.ai/chat/98616ea8-ed3a-4fea-97fd-01e1439b0677
+---
+*Pai: [[_MOC-Financas]]*

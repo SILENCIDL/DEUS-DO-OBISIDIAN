@@ -152,4 +152,5 @@ Figuras de linguagem são **recursos expressivos** que dão mais força, emoçã
 - [[ENEM - Linguagens e Códigos]]
 - [[ENEM - LING - Perguntas.canvas]]
 - [[ENEM - Área de Ação.canvas]]
-
+---
+*Pai: [[_MOC-Estudos]]*

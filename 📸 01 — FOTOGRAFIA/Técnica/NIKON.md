@@ -70,3 +70,5 @@ Categoria: [[FOTOGRAFIA - Arte, técnica e negócio]]
 
 ## Links
 [[LISTA DE EQUIPAMENTOS]] | [[METAS DE EQUIPAMENTOS]] | [[VOU TROCAR DE EQUIPAMENTOS]] | [[ACESSORIOS DE FOTOGRAFIA]]
+---
+*Pai: [[_MOC-Fotografia]]*

@@ -17,3 +17,5 @@ tipo: stub
 - Influenciou a New Topographics (1975) e fotógrafos conceituais
 
 > Ver também: [[Dorothea Lange]] | [[Fotografia Documental]] | [[FSA]]
+---
+*Pai: [[_MOC-Fotografia]]*

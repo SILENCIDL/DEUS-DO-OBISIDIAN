@@ -47,3 +47,5 @@ Ao analisar um exemplo aplicado, como um festival esportivo ao ar livre, o fluxo
 ## 5. TAGS SUGERIDAS
 
 #fotografia #workflow_esportivo #gestao_de_arquivos #checklist_evento
+---
+*Pai: [[_MOC-Fotografia]]*

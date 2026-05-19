@@ -183,3 +183,5 @@ _________________________________.
 - [[03 - Estrutura Empresarial]]
 
 #personal-branding #posicionamento #autoridade
+---
+*Pai: [[_MOC-Negocios]]*

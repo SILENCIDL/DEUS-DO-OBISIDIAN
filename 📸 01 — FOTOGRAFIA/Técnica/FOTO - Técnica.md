@@ -309,3 +309,5 @@ Mude a altura: chão, cintura, olho, acima. Cada ângulo conta história diferen
 - [[FOTO - Negócio]]
 - [[AUDIOVISUAL - Minha área completa]]
 - [[YT - Edição e Pós-Produção]]
+---
+*Pai: [[_MOC-Fotografia]]*

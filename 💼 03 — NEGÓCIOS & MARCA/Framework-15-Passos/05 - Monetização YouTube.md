@@ -197,3 +197,5 @@ pie title Tipos de Vídeo
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #youtube #adsense #monetização #patrocínio #seo
+---
+*Pai: [[_MOC-Negocios]]*

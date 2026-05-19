@@ -83,4 +83,5 @@ Criar com limitações gera mais criatividade do que ter liberdade total.
 - [[YOUTUBE - Meu canal de vídeos]]
 - [[IDEIAS DE VIDEO]]
 - [[VINICIUS - Meu universo]]
-
+---
+*Pai: [[_MOC-Redes]]*

@@ -168,3 +168,5 @@ Produto/Serviço (Venda)
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #tiktok #viral #ugc #lives #monetização
+---
+*Pai: [[_MOC-Negocios]]*

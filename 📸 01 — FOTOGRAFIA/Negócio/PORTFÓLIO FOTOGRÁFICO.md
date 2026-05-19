@@ -76,4 +76,5 @@ A cada 30 dias:
 - [[INSTAGRAM - Minha vitrine visual]]
 - [[AUDIOVISUAL - Minha área completa]]
 - [[VINICIUS - Meu universo]]
-
+---
+*Pai: [[_MOC-Fotografia]]*

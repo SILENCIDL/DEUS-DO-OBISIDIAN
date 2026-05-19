@@ -46,3 +46,5 @@ Em se tratando da instrumentalização de sistemas no Obsidian PKM como gestor c
 ## 5. TAGS SUGERIDAS
 
 #planejamento_conjunto #relacionamento_agil #financas_pessoais #gestao_vault_obsidian #vida_a_dois
+---
+*Pai: [[_MOC-Pessoal]]*

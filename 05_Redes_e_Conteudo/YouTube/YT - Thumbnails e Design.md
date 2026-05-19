@@ -120,3 +120,5 @@ updated: 2026-01-27
 - [[YT - SEO e Algoritmo]]
 - [[YT - Roteiros e Storytelling]]
 - [[AUDIOVISUAL - Minha área completa]]
+---
+*Pai: [[_MOC-Redes]]*

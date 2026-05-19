@@ -73,3 +73,5 @@ Categoria: [[LOJA VRGS - E-commerce de roupas]]
 
 ## Links
 [[LOJA VRGS - E-commerce de roupas]] | [[LOJA DE ROUPAS]] | [[TIPOS DE ROUPAS E ACESSORIOS DE CROCHE]] | [[desing]]
+---
+*Pai: [[_MOC-VRGS]]*

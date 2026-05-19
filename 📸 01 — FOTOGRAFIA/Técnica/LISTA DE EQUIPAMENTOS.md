@@ -69,3 +69,5 @@ Antes de comprar, responder:
 
 ## Links
 [[NIKON]] | [[LENTE 105MM]] | [[METAS DE EQUIPAMENTOS]] | [[VOU TROCAR DE EQUIPAMENTOS]] | [[ACESSORIOS DE FOTOGRAFIA]]
+---
+*Pai: [[_MOC-Fotografia]]*

@@ -69,3 +69,5 @@ Categoria: [[FOTOGRAFIA - Arte, técnica e negócio]]
 
 ## Links
 [[PORTFÓLIO FOTOGRÁFICO]] | [[CLIENTES E ORÇAMENTOS]] | [[FOTOGRAFIA - Arte, técnica e negócio]] | [[PROJETO OLHAR]]
+---
+*Pai: [[_MOC-Fotografia]]*

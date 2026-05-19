@@ -41,3 +41,5 @@ Próximos 4 meses (a partir de março 2026).
 ## Conversa de referência
 
 https://claude.ai/chat/1d3bd101-7131-4932-8041-8285503760c2
+---
+*Pai: [[_MOC-Pessoal]]*

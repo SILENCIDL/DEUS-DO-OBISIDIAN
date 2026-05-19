@@ -17,3 +17,5 @@ tipo: stub
 - Usa Kodachrome e depois digital
 
 > Ver também: [[Magnum Photos]] | [[Fotografia em Cores]]
+---
+*Pai: [[_MOC-Fotografia]]*

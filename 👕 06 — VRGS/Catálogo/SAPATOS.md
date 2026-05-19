@@ -58,3 +58,5 @@ Trabalhar com calçados em tamanho implica:
 
 ## Links
 [[LOJA VRGS - E-commerce de roupas]] | [[LOJA DE ROUPAS]] | [[ACESSORIOS BRINCOS, PRATA, PULSEIRAS E COLAR]] | [[TOCAS , BONES]]
+---
+*Pai: [[_MOC-VRGS]]*

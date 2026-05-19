@@ -67,3 +67,5 @@ Categoria: [[FOTOGRAFIA - Arte, técnica e negócio]]
 
 ## Links
 [[PROJETOS CINEMATIC]] | [[CENA 2]] | [[CENA 3]] | [[FOTOGRAFIA - Arte, técnica e negócio]]
+---
+*Pai: [[_MOC-Fotografia]]*

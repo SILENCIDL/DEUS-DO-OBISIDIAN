@@ -83,4 +83,5 @@ Lead → DM → Orçamento / Venda de produto
 - [[FOTOGRAFIA - Arte, técnica e negócio]]
 - [[PRODUTO DIGITAL - Presets e Cursos]]
 - [[VINICIUS - Meu universo]]
-
+---
+*Pai: [[_MOC-Negocios]]*

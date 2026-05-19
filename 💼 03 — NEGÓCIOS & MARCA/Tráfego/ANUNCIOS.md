@@ -96,3 +96,5 @@ Os anúncios são o motor de aceleração do negócio. Funcionam em conjunto com
 
 ## Links
 [[TRAFEGO PAGO]] | [[CRIATIVOS (ANUNCIOS)]] | [[PLANEJAMENTO DE ANUNCIOS (CRIATIVOS)]] | [[LINGUAGEM DO MERCADO]] | [[ROI]] | [[FUNIL]]
+---
+*Pai: [[_MOC-Negocios]]*

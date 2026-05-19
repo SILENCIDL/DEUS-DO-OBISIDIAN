@@ -120,3 +120,5 @@ Vinicius Rafael
 - [[YT - SEO e Algoritmo]]
 - [[FINANCEIRO - Dinheiro e metas]]
 - [[Ideas Extraordinárias - Monetização e Escala]]
+---
+*Pai: [[_MOC-Redes]]*

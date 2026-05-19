@@ -64,3 +64,5 @@ Categoria: [[LOJA VRGS - E-commerce de roupas]]
 
 ## Links
 [[LOJA VRGS - E-commerce de roupas]] | [[LOJA DE ROUPAS]] | [[CAMISETAS]] | [[BLUSAS]]
+---
+*Pai: [[_MOC-VRGS]]*

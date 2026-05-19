@@ -358,3 +358,5 @@ ERA CONTEMPORÂNEA (1920-1990) → ERA DIGITAL (1990+)
 ---
 
 **← Voltar para [[HISTÓRIA DA FOTOGRAFIA - 200 anos|📜 História da Fotografia]]**
+---
+*Pai: [[_MOC-Fotografia]]*

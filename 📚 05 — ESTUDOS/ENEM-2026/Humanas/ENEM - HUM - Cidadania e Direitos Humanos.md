@@ -202,4 +202,5 @@ O ENEM cobra:
 - [[ENEM - HUM - Perguntas.canvas]]
 - [[ENEM - Redação]]
 - [[ENEM - Área de Ação.canvas]]
-
+---
+*Pai: [[_MOC-Estudos]]*

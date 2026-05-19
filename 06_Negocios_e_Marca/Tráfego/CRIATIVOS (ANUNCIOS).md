@@ -117,3 +117,5 @@ Um criativo está morrendo quando:
 
 ## Links
 [[ANUNCIOS]] | [[PLANEJAMENTO DE ANUNCIOS (CRIATIVOS)]] | [[TRAFEGO PAGO]] | [[COPY]] | [[INSTAGRAM - Minha vitrine visual]]
+---
+*Pai: [[_MOC-Negocios]]*

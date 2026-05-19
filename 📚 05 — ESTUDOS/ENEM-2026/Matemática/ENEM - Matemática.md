@@ -269,4 +269,5 @@ Probabilidade: P = favoráveis/possíveis
 - [[ENEM - Redação]]
 - [[ENEM - Área de Ação.canvas]]
 - [[ESTUDOS E CURSOS - Meu aprendizado]]
-
+---
+*Pai: [[_MOC-Estudos]]*

@@ -284,3 +284,5 @@ Como se candidatar:
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #equipe #delegação #contratação #gestão #liderança
+---
+*Pai: [[_MOC-Negocios]]*

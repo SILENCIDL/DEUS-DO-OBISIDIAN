@@ -378,3 +378,5 @@ A partir de **1990**, a fotografia passou por sua maior transformação desde a 
 ---
 
 **← Voltar para [[HISTÓRIA DA FOTOGRAFIA - 200 anos|📜 História da Fotografia]]**
+---
+*Pai: [[_MOC-Fotografia]]*

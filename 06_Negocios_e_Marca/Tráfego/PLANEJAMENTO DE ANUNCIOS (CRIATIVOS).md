@@ -120,3 +120,5 @@ Otimizar: pausar ou escalar
 
 ## Links
 [[ANUNCIOS]] | [[CRIATIVOS (ANUNCIOS)]] | [[TRAFEGO PAGO]] | [[COPY]] | [[FUNIL]]
+---
+*Pai: [[_MOC-Negocios]]*

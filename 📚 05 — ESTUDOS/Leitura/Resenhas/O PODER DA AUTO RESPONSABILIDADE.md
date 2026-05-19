@@ -64,4 +64,5 @@ Significa: **dentro das suas circunstâncias, você é o agente da mudança.**
 
 ## Links
 [[NADA PODE ME FERIR]] | [[LIDOS Q]] | [[LEITURA - Livros e conhecimento]] | [[VINICIUS - Meu universo]]
-
+---
+*Pai: [[_MOC-Estudos]]*

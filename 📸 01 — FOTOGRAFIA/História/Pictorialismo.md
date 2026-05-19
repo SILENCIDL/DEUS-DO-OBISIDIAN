@@ -27,3 +27,5 @@ Movimento fotográfico (1885-1915) que buscava elevar a fotografia à condição
 - Publicou *Camera Work* (1903-1917)
 
 > Ver também: [[Alfred Stieglitz]] | [[Modernismo Fotográfico]] | [[Julia Margaret Cameron]]
+---
+*Pai: [[_MOC-Fotografia]]*

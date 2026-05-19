@@ -58,3 +58,5 @@ A 105mm é versátil ideal para:
 
 ## Links
 [[LISTA DE EQUIPAMENTOS]] | [[METAS DE EQUIPAMENTOS]] | [[NIKON]] | [[FOTOGRAFIA - Arte, técnica e negócio]]
+---
+*Pai: [[_MOC-Fotografia]]*

@@ -67,3 +67,5 @@ mindmap
 - [<timestamp>: <quote text>](<video_url>&t=<seconds>s)
 
 Return only the markdown content without any explanations or comments.
+---
+*Pai: [[_MOC-Vault]]*

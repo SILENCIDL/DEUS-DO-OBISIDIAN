@@ -58,3 +58,5 @@ Prompt desenvolvido para II Festival de Vôlei São Bento do Sapucaí:
 
 https://claude.ai/chat/93814c10-6089-42f4-b337-1fa63041ab86
 https://claude.ai/chat/1d3bd101-7131-4932-8041-8285503760c2
+---
+*Pai: [[_MOC-Redes]]*

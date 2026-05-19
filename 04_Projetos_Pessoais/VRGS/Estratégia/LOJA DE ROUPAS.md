@@ -92,3 +92,5 @@ Preço de venda = Custo da peça × 2,5 a 3,5
 
 ## Links
 [[LOJA VRGS - E-commerce de roupas]] | [[MINHA LOJA DE ROUPAS]] | [[FORMAS DE AUMENTAR O DINHEIRO]] | [[TRAFEGO PAGO]] | [[ANUNCIOS]]
+---
+*Pai: [[_MOC-Pessoal]]*

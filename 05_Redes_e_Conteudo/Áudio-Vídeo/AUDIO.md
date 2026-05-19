@@ -80,3 +80,5 @@ Categoria: [[YOUTUBE - Meu canal de vídeos]]
 - [[MUSICAS VIRAIS]]
 - [[METAS DE EQUIPAMENTOS]]
 - [[VIDEO]]
+---
+*Pai: [[_MOC-Redes]]*

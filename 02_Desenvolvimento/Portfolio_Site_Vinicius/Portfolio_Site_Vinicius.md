@@ -46,3 +46,5 @@ O SEO para fotógrafos e desenvolvedores foi redefinido no atual paradigma de al
 ## 5. TAGS SUGERIDAS
 
 #desenvolvimento_web #arquitetura_de_software #nextjs #astrojs #seo_portfolio
+---
+*Pai: [[_MOC-Tech]]*

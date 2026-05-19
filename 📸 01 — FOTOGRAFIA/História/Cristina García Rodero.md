@@ -16,3 +16,5 @@ tipo: stub
 - Estilo: cor vibrante, respeito pelo sujeito fotografado
 
 > Ver também: [[Magnum Photos]] | [[Fotografia Documental]]
+---
+*Pai: [[_MOC-Fotografia]]*

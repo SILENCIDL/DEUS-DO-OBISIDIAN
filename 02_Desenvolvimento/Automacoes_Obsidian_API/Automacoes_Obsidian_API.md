@@ -45,3 +45,5 @@ Desta forma, o desenvolvedor destrava habilidades absolutas de automação basea
 ## 5. TAGS SUGERIDAS
 
 #obsidian_api #automacao_pkm #rest_api #gestao_do_conhecimento #shell_scripts
+---
+*Pai: [[_MOC-Tech]]*

@@ -75,3 +75,5 @@ updated: 2026-03-13
 - [[RENDA FIXA]]
 - [[RESERVAS]]
 - [[ESTUDOS DE FINANÇAS.]]
+---
+*Pai: [[_MOC-Financas]]*

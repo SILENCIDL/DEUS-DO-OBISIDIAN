@@ -30,3 +30,5 @@ tipo: stub
 - [[ESTÉTICA E HISTÓRIA DA ARTE]]
 - [[UNIDADE 2 - IDADE MÉDIA E IDADE MODERNA]]
 - [[HISTÓRIA DA FOTOGRAFIA - 200 anos]]
+---
+*Pai: [[_MOC-Estudos]]*

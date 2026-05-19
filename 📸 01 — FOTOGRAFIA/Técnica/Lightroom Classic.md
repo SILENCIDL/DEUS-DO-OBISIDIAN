@@ -43,3 +43,5 @@ Photoshop → `File > Automate > Photomerge` → opção "Reposition"
 
 https://claude.ai/chat/6b5269fb-b20d-41f0-8749-a826b807fb89
 https://claude.ai/chat/ca801757-96ff-4043-a0c8-f2fe4bb77ff5
+---
+*Pai: [[_MOC-Fotografia]]*

@@ -78,3 +78,5 @@ Caixa kraft / saquinho de tecido
 
 ## Links
 [[LOJA VRGS - E-commerce de roupas]] | [[LOJA DE ROUPAS]] | [[BAGS]] | [[TOCAS , BONES]] | [[ACESSORIOS BRINCOS, PRATA, PULSEIRAS E COLAR]]
+---
+*Pai: [[_MOC-Pessoal]]*

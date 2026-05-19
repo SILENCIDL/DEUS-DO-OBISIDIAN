@@ -54,3 +54,5 @@ Base = **São Bento do Sapucaí, SP** (não Campos do Jordão)
 ## Conversa de referência
 
 https://claude.ai/chat/95401b64-17a4-43c4-9a9e-c840188a5b99
+---
+*Pai: [[_MOC-Fotografia]]*

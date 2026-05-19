@@ -193,3 +193,5 @@ categoria: Espanhol
 **← Voltar para [[ESP-HUB-Espanhol|🇪🇸 HUB Espanhol]]**
 
 #espanhol #frases #conversacao #dialogo #viagem
+---
+*Pai: [[_MOC-Estudos]]*

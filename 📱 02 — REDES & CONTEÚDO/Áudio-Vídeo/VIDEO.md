@@ -102,3 +102,5 @@ Categoria: [[YOUTUBE - Meu canal de vídeos]]
 - [[AUDIO]]
 - [[METAS DE EQUIPAMENTOS]]
 - [[CRIATIVIDADE]]
+---
+*Pai: [[_MOC-Redes]]*

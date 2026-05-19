@@ -54,3 +54,5 @@ Fotografia/
 ## Conversa de referência
 
 https://claude.ai/chat/ad76b311-7096-45dc-9ff5-04cf38373d4d
+---
+*Pai: [[_MOC-Redes]]*

@@ -57,3 +57,5 @@ A literatura alimenta a fotografia:
 
 ## Links
 [[NÃO LIDOS]] | [[LEITURA - Livros e conhecimento]] | [[O ATO CRIATIVO UMA FORMA DE SER]] | [[PROJETO OLHAR]]
+---
+*Pai: [[_MOC-Estudos]]*

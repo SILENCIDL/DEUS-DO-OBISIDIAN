@@ -79,3 +79,5 @@ Cada "O CENA" representa um capítulo / perspectiva desse projeto.
 
 ## Links
 [[O CENA 1]] | [[O CENA 2]] | [[O CENA 3]] | [[PROJETOS CINEMATIC]] | [[FOTOGRAFIA - Arte, técnica e negócio]] | [[PORTFÓLIO FOTOGRÁFICO]]
+---
+*Pai: [[_MOC-Fotografia]]*

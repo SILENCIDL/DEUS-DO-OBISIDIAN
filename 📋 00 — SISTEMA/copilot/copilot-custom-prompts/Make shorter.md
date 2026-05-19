@@ -10,3 +10,5 @@ Reduce {} to half its length while preserving these elements:
     2. Essential details
     3. Original tone and style
     Return only the shortened text.
+---
+*Pai: [[_MOC-Vault]]*

@@ -84,4 +84,5 @@ Um lead é uma **pessoa com potencial de se tornar cliente** — alguém que dem
 - [[INSTAGRAM - Minha vitrine visual]]
 - [[CLIENTES E ORÇAMENTOS]]
 - [[Ideas Extraordinárias - Monetização e Escala]]
-
+---
+*Pai: [[_MOC-Negocios]]*

@@ -80,3 +80,5 @@ Para o momento do Vinicius Rafael:
 
 ## Links
 [[ESTUDOS DE FINANÇAS.]] | [[AÇÕES]] | [[CRYPTO]] | [[FINANCEIRO - Dinheiro e metas]] | [[RESERVAS]]
+---
+*Pai: [[_MOC-Financas]]*

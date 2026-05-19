@@ -116,3 +116,5 @@ NICHADO -------+------- AMPLO
 
 ## Links
 [[ESTUDOS DIRECIONAIS]] | [[LINGUAGEM DO MERCADO]] | [[FUNIL]] | [[LEADS]] | [[COPY]]
+---
+*Pai: [[_MOC-Negocios]]*

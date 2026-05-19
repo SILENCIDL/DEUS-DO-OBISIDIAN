@@ -139,4 +139,5 @@ O ENEM adora intertextualidade! Geralmente:
 - [[ENEM - Linguagens e Códigos]]
 - [[ENEM - LING - Perguntas.canvas]]
 - [[ENEM - Área de Ação.canvas]]
-
+---
+*Pai: [[_MOC-Estudos]]*

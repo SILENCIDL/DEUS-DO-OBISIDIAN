@@ -119,4 +119,5 @@ No ENEM, a questão geralmente:
 - [[ENEM - Linguagens e Códigos]]
 - [[ENEM - LING - Perguntas.canvas]]
 - [[ENEM - Área de Ação.canvas]]
-
+---
+*Pai: [[_MOC-Estudos]]*

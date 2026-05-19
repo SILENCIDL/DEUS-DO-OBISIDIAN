@@ -87,3 +87,5 @@ Mentoria / aula particular (R$ 500-1.000)
 
 ## Links
 [[ESTUDOS DE FINANÇAS.]] | [[FINANCEIRO - Dinheiro e metas]] | [[PRODUTO DIGITAL - Presets e Cursos]] | [[FUNIL]] | [[ROI]]
+---
+*Pai: [[_MOC-Financas]]*

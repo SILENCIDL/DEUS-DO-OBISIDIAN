@@ -74,4 +74,5 @@ O que me faz continuar é...
 
 ## Links
 [[FOTOGRAFIA - Arte, técnica e negócio]] | [[PROJETO OLHAR]] | [[PORTFÓLIO FOTOGRÁFICO]] | [[VINICIUS - Meu universo]]
-
+---
+*Pai: [[_MOC-Fotografia]]*

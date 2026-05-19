@@ -64,3 +64,5 @@ Representa os valores da marca:
 
 ## Links
 [[CROCHE]] | [[TIPOS DE ROUPAS E ACESSORIOS DE CROCHE]] | [[LOJA VRGS - E-commerce de roupas]] | [[MINHA LOJA DE ROUPAS]]
+---
+*Pai: [[_MOC-VRGS]]*

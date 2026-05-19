@@ -68,3 +68,5 @@ Como a Cena 2 se conecta com [[CENA 1]] e [[CENA 3]]?
 
 ## Links
 [[PROJETOS CINEMATIC]] | [[CENA 1]] | [[CENA 3]] | [[FOTOGRAFIA - Arte, técnica e negócio]]
+---
+*Pai: [[_MOC-Fotografia]]*

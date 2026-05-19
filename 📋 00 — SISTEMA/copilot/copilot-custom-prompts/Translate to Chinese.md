@@ -10,3 +10,5 @@ Translate {} into Chinese:
     2. Maintain appropriate cultural context
     3. Keep formatting and structure
     Return only the translated text.
+---
+*Pai: [[_MOC-Vault]]*

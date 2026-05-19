@@ -17,3 +17,5 @@ tipo: stub
 - Criticada por "imperfeições técnicas" na época, hoje reverenciada
 
 > Ver também: [[Pictorialismo]] | [[Era da Fotografia Química]]
+---
+*Pai: [[_MOC-Fotografia]]*

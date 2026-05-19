@@ -453,3 +453,5 @@ ROI = (Ganho - Investimento) ÷ Investimento × 100
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #finanças #planejamento #gestão #dinheiro #negócio
+---
+*Pai: [[_MOC-Financas]]*

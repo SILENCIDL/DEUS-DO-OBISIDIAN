@@ -341,3 +341,5 @@ PUBLICAÇÃO: (Instagram? Exposição? Livro? Site?)
 - [[FOTO - Negócio]]
 - [[HISTÓRIA DA FOTOGRAFIA - 200 anos]]
 - [[AUDIOVISUAL - Minha área completa]]
+---
+*Pai: [[_MOC-Fotografia]]*

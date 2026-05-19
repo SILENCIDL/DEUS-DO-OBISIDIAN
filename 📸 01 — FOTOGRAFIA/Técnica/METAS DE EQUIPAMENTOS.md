@@ -76,3 +76,5 @@ Categoria: [[FOTOGRAFIA - Arte, técnica e negócio]]
 
 ## Links
 [[LISTA DE EQUIPAMENTOS]] | [[VOU TROCAR DE EQUIPAMENTOS]] | [[NIKON]] | [[RESERVAS]]
+---
+*Pai: [[_MOC-Fotografia]]*

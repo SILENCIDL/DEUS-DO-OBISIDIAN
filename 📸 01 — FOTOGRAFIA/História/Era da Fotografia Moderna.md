@@ -376,3 +376,5 @@ ERA MODERNA (1880-1920) → ERA CONTEMPORÂNEA (1920-1990)
 ---
 
 **← Voltar para [[HISTÓRIA DA FOTOGRAFIA - 200 anos|📜 História da Fotografia]]**
+---
+*Pai: [[_MOC-Fotografia]]*

@@ -14,4 +14,5 @@ Categoria: [[VINICIUS - Meu universo]]
 [[POEMAS & TEXTOS]]
 
 [[FINANCEIRO PESSOAL.canvas|FINANCEIRO PESSOAL]]
-
+---
+*Pai: [[_MOC-Pessoal]]*

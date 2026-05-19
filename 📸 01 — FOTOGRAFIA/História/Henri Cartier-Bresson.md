@@ -19,3 +19,5 @@ tipo: stub
 > Obras: *Derrière la Gare Saint-Lazare* (1932) | *China* (1949)
 >
 > Ver também: [[Magnum Photos]] | [[Street Photography]] | [[Fotografia Documental]]
+---
+*Pai: [[_MOC-Fotografia]]*

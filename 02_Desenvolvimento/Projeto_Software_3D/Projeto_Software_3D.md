@@ -44,3 +44,5 @@ A mágica da transição perfeita do software gráfico central para as engrenage
 ## 5. TAGS SUGERIDAS
 
 #desenvolvimento_3d #blender #three_js #webgl #pipeline_otimizado #gamedev
+---
+*Pai: [[_MOC-Tech]]*

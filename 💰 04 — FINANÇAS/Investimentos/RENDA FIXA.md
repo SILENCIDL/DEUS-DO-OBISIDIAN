@@ -62,3 +62,5 @@ Categoria: [[FINANCEIRO - Dinheiro e metas]]
 - [[RESERVAS]]
 - [[AÇÕES]]
 - [[Planejamento Financeiro]]
+---
+*Pai: [[_MOC-Financas]]*

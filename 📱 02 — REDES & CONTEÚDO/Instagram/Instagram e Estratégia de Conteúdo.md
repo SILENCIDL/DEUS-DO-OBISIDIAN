@@ -78,3 +78,5 @@ Implementação: quando agenda abrir (~1 semana da conversa)
 
 https://claude.ai/chat/5b88eeaa-2d32-45c0-b0d8-0854cd44ba6c
 https://claude.ai/chat/2139cd39-958e-4327-9c22-7588ab147f9a
+---
+*Pai: [[_MOC-Redes]]*

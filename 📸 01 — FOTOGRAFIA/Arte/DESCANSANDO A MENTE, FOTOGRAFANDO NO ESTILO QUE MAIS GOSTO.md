@@ -27,3 +27,5 @@ Categoria: [[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]
 [[publicação-12.jpg]]
 [[publicação-11.jpg]]
 [[publicação-10.jpg]]
+---
+*Pai: [[_MOC-Fotografia]]*

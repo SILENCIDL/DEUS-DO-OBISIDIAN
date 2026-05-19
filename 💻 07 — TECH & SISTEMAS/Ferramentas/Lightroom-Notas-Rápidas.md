@@ -86,3 +86,5 @@ Coleções:
 
 ## Links
 [[FOTOGRAFIA - Arte, técnica e negócio]] | [[desing]] | [[PRODUTO DIGITAL - Presets e Cursos]] | [[LISTA DE EQUIPAMENTOS]]
+---
+*Pai: [[_MOC-Tech]]*

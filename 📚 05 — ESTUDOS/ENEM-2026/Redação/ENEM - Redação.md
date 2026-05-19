@@ -278,4 +278,5 @@ Categoria: [[ENEM - Preparação para o exame]]
 - [[ENEM - Matemática]]
 - [[ENEM - Área de Ação.canvas]]
 - [[ESTUDOS E CURSOS - Meu aprendizado]]
-
+---
+*Pai: [[_MOC-Estudos]]*

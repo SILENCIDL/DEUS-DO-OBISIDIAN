@@ -85,3 +85,5 @@ Ideia → Esboço à mão
 
 ## Links
 [[desing]] | [[LOJA VRGS - E-commerce de roupas]] | [[CAMISETAS]] | [[CRIATIVIDADE]]
+---
+*Pai: [[_MOC-Pessoal]]*

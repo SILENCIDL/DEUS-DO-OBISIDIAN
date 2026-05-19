@@ -149,3 +149,5 @@ ME SIGA:
 - [[YOUTUBE - Meu canal de vídeos]]
 - [[YT - Thumbnails e Design]]
 - [[YT - Roteiros e Storytelling]]
+---
+*Pai: [[_MOC-Redes]]*

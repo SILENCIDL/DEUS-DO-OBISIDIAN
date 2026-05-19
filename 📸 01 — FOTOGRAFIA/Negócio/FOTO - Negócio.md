@@ -467,3 +467,5 @@ Data: ____/____/______
 - [[FINANCEIRO - Dinheiro e metas]]
 - [[Planejamento Financeiro]]
 - [[LOJA VRGS - E-commerce de roupas]]
+---
+*Pai: [[_MOC-Fotografia]]*

@@ -72,3 +72,5 @@ Dia 7: CTA direto → "DM para orçamento"
 - [[INSTAGRAM - Minha vitrine visual]]
 - [[COPY]]
 - [[Ideas Extraordinárias - Monetização e Escala]]
+---
+*Pai: [[_MOC-Negocios]]*

@@ -118,3 +118,5 @@ updated: 2026-01-27
 - [[YT - Roteiros e Storytelling]]
 - [[YT - Thumbnails e Design]]
 - [[AUDIOVISUAL - Minha área completa]]
+---
+*Pai: [[_MOC-Redes]]*

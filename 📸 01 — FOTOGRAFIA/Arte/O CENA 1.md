@@ -62,3 +62,5 @@ Representa a abertura: o olhar que ainda está aprendendo a ver.
 
 ## Links
 [[PROJETO OLHAR]] | [[O CENA 2]] | [[O CENA 3]] | [[PROJETOS CINEMATIC]] | [[FOTOGRAFIA - Arte, técnica e negócio]]
+---
+*Pai: [[_MOC-Fotografia]]*

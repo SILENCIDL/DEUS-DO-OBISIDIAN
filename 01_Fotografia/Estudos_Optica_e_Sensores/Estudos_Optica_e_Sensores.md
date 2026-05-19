@@ -45,3 +45,5 @@ Na aplicabilidade prática diária, os estudos de física óptica determinam que
 ## 5. TAGS SUGERIDAS
 
 #optica #mtf #fisica_da_luz #sensores_fotograficos #full_frame
+---
+*Pai: [[_MOC-Fotografia]]*

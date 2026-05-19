@@ -108,3 +108,5 @@ Por que fazer contingencia?
 - [[VINICIUS - Meu universo]]
 - [[INSTAGRAM - Minha vitrine visual]]
 - [[FINANCEIRO - Dinheiro e metas]]
+---
+*Pai: [[_MOC-VRGS]]*

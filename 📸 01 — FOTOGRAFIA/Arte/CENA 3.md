@@ -67,3 +67,5 @@ Ao finalizar a Cena 3, o projeto cinematic completo deve ter:
 
 ## Links
 [[PROJETOS CINEMATIC]] | [[CENA 1]] | [[CENA 2]] | [[FOTOGRAFIA - Arte, técnica e negócio]]
+---
+*Pai: [[_MOC-Fotografia]]*

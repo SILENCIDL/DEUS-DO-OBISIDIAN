@@ -75,3 +75,5 @@ Categoria: [[LOJA VRGS - E-commerce de roupas]]
 
 ## Links
 [[LOJA VRGS - E-commerce de roupas]] | [[LOJA DE ROUPAS]] | [[CROCHE]] | [[BRINDES]] | [[TOCAS , BONES]]
+---
+*Pai: [[_MOC-VRGS]]*

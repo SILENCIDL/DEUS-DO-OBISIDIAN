@@ -68,3 +68,5 @@ Após terminar:
 
 ## Links
 [[LEITURA - Livros e conhecimento]] | [[LIDOS Q]] | [[NÃO LIDOS]] | [[ESTUDOS E CURSOS - Meu aprendizado]]
+---
+*Pai: [[_MOC-Estudos]]*

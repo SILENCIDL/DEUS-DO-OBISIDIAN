@@ -43,3 +43,5 @@ Produzido com datas confirmadas, taxas e premiações.
 ## Conversa de referência
 
 https://claude.ai/chat/1d3bd101-7131-4932-8041-8285503760c2
+---
+*Pai: [[_MOC-Fotografia]]*

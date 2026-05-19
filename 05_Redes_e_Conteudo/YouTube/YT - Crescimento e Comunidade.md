@@ -127,3 +127,5 @@ updated: 2026-01-27
 - [[YT - Séries e Formatos Recorrentes]]
 - [[INSTAGRAM - Minha vitrine visual]]
 - [[YT - Monetização e Parcerias]]
+---
+*Pai: [[_MOC-Redes]]*

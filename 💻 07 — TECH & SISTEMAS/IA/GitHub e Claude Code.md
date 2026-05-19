@@ -54,3 +54,5 @@ Uso do Claude Code para editar arquivos diretamente em repositórios GitHub.
 
 https://claude.ai/chat/2ccdf062-bc97-4443-972f-39ff0f2d5464
 https://claude.ai/chat/63a093c5-a057-4e2d-a82d-ed20e4737010
+---
+*Pai: [[_MOC-Tech]]*

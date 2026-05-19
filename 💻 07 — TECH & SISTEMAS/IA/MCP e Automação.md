@@ -56,3 +56,5 @@ Local, sem internet, 100% na máquina.
 ## Conversa de referência
 
 https://claude.ai/chat/1a5b6283-65d8-43c4-b400-25d467b541a4
+---
+*Pai: [[_MOC-Tech]]*

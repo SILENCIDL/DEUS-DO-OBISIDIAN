@@ -218,3 +218,5 @@ Reserva ideal: R$57.000
 - [[Ideas Extraordinárias - Monetização e Escala]]
 
 #finanças #fluxo-de-caixa #impostos #mei #gestão
+---
+*Pai: [[_MOC-Negocios]]*

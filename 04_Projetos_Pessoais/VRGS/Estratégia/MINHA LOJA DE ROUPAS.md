@@ -77,4 +77,5 @@ O nome VRGS carrega um manifesto:
 
 ## Links
 [[LOJA VRGS - E-commerce de roupas]] | [[LOJA DE ROUPAS]] | [[VINICIUS - Meu universo]] | [[PRESENÇA DIGITAL - Hub Central]]
-
+---
+*Pai: [[_MOC-Pessoal]]*
