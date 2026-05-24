@@ -1,0 +1,10 @@
+{
+  "id": "absolute-expander",
+  "name": "Absolute Expander",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Expansão inteligente de notas com IA.",
+  "author": "Vinícius Rafael",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}

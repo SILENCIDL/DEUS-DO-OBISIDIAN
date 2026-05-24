@@ -1,0 +1,22 @@
+{
+  "name": "absolute-expander",
+  "version": "1.0.0",
+  "description": "Obsidian plugin — Absolute Expander",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "tsc --noEmit --skipLibCheck && node esbuild.config.mjs production"
+  },
+  "keywords": [],
+  "author": "Vinícius Rafael",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "esbuild": "^0.21.0",
+    "tslib": "^2.6.0",
+    "typescript": "^5.4.0"
+  },
+  "dependencies": {
+    "obsidian": "latest"
+  }
+}
