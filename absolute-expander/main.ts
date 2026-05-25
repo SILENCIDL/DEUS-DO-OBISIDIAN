@@ -1,6 +1,7 @@
 import { MarkdownView, Notice, Plugin } from "obsidian";
 import { buildContext } from "./ContextBuilder";
 import { generateExpansions } from "./AIBridge";
+import { ExpansionModal } from "./ExpansionModal";
 import {
   AbsoluteExpanderSettings,
   AbsoluteExpanderSettingTab,
@@ -41,22 +42,16 @@ export default class AbsoluteExpanderPlugin extends Plugin {
           new Notice("Absolute Expander: abra uma nota Markdown primeiro.");
           return;
         }
+
         const payload = buildContext(this.app, editor, view.file);
         if (!payload) return;
 
-        new Notice("Absolute Expander: gerando expansões…");
-        const variations = await generateExpansions(payload, this.settings);
+        new Notice("Analisando contexto absoluto…", 3000);
 
-        if (variations.length > 0) {
-          console.log("[AbsoluteExpander] Variações geradas:", variations);
-          variations.forEach((v, i) => {
-            const labels = ["TÉCNICA", "CRIATIVA", "SINTÉTICA"];
-            console.log(`[AbsoluteExpander] ${labels[i]}:`, v);
-          });
-          new Notice(
-            `Absolute Expander: ${variations.filter(Boolean).length} variações prontas — veja o console (Ctrl+Shift+I).`
-          );
-        }
+        const variations = await generateExpansions(payload, this.settings);
+        if (!variations.length) return; // AIBridge já exibiu o Notice de erro
+
+        new ExpansionModal(this.app, editor, variations).open();
       },
     });
   }
