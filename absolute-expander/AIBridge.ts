@@ -4,7 +4,7 @@ import type { AbsoluteExpanderSettings } from "./Settings";
 
 const CLAUDE_ENDPOINT = "https://api.anthropic.com/v1/messages";
 const GEMINI_ENDPOINT =
-  "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent";
+  "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent";
 
 // Constrói o system prompt injetando a teia de contexto da nota.
 // Backlinks e outlinks fornecem ao LLM a semântica de vizinhança —
