@@ -6,138 +6,98 @@ const CLAUDE_ENDPOINT = "https://api.anthropic.com/v1/messages";
 const GEMINI_ENDPOINT =
   "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent";
 
-// Constrói o system prompt injetando a teia de contexto da nota.
-// Backlinks e outlinks fornecem ao LLM a semântica de vizinhança —
-// crucial para que as variações permaneçam coerentes com a vault.
-function buildSystemPrompt(payload: ContextPayload): string {
+function buildRecursivePrompt(payload: ContextPayload, settings: AbsoluteExpanderSettings): string {
   const fmt = (arr: string[]) => (arr.length ? arr.join(", ") : "nenhum");
 
-  return `Você é um especialista em expansão de conhecimento para sistemas PKM (Zettelkasten / Obsidian).
+  return `Você é um arquiteto de conhecimento recursivo para Obsidian.
+Seu objetivo é transformar um TEMA em uma estrutura profunda de SUBTEMAS.
 
 CONTEXTO DA NOTA ATIVA:
 - Arquivo: ${payload.activeFile}
+- Conteúdo Base: ${payload.selectedText}
 - Tags: ${fmt(payload.tags)}
-- Backlinks — ${payload.backlinks.length} notas citam esta: ${fmt(payload.backlinks)}
-- Outlinks — ${payload.outlinks.length} notas citadas por esta: ${fmt(payload.outlinks)}
+- Conexões: ${payload.backlinks.length} backlinks, ${payload.outlinks.length} outlinks.
 
 INSTRUÇÃO:
-Considere as conexões semânticas acima e gere EXATAMENTE 3 variações do trecho recebido.
-Retorne apenas as variações, sem explicações ou texto adicional, neste formato estrito:
+1. Analise o "Conteúdo Base" e identifique até ${settings.maxSubthemes} subtemas lógicos.
+2. Para cada subtema, crie um título curto e uma descrição de uma frase.
+3. Formate a resposta EXATAMENTE como uma lista Markdown de Wikilinks:
 
-TÉCNICA: [reformulação objetiva e terminologicamente precisa, adequada para documentação]
-CRIATIVA: [reformulação narrativa com metáforas, adequada para síntese pessoal e reflexão]
-SINTÉTICA: [compressão em uma única frase densa, apta a servir como título de nota ou link-âncora]`;
+ESTRUTURA:
+- [[Nome do Subtema 1]]: Descrição breve.
+- [[Nome do Subtema 2]]: Descrição breve.
+...`;
 }
 
-// Regex tolerante a quebras de linha dentro de cada variação.
-function parseVariations(raw: string): string[] {
-  const técnica =
-    /TÉCNICA:\s*([\s\S]+?)(?=CRIATIVA:|$)/i.exec(raw)?.[1]?.trim() ?? "";
-  const criativa =
-    /CRIATIVA:\s*([\s\S]+?)(?=SINTÉTICA:|$)/i.exec(raw)?.[1]?.trim() ?? "";
-  const sintética =
-    /SINTÉTICA:\s*([\s\S]+?)$/i.exec(raw)?.[1]?.trim() ?? "";
-  return [técnica, criativa, sintética];
+function parseSubthemes(raw: string): string[] {
+  const lines = raw.split("\n");
+  const subthemes: string[] = [];
+  for (const line of lines) {
+    const match = line.match(/\[\[(.*?)\]\]/);
+    if (match) {
+      subthemes.push(match[1]);
+    }
+  }
+  return subthemes;
 }
 
 async function callClaude(
   payload: ContextPayload,
-  apiKey: string
-): Promise<string[]> {
+  settings: AbsoluteExpanderSettings
+): Promise<string> {
   const response = await requestUrl({
     url: CLAUDE_ENDPOINT,
     method: "POST",
     headers: {
-      "x-api-key": apiKey,
+      "x-api-key": settings.claudeApiKey,
       "anthropic-version": "2023-06-01",
       "content-type": "application/json",
     },
     body: JSON.stringify({
-      model: "claude-opus-4-7",
-      max_tokens: 1024,
-      system: buildSystemPrompt(payload),
-      messages: [
-        {
-          role: "user",
-          content: `Expanda este trecho:\n\n"${payload.selectedText}"`,
-        },
-      ],
+      model: "claude-3-5-sonnet-20240620",
+      max_tokens: 4096,
+      system: buildRecursivePrompt(payload, settings),
+      messages: [{ role: "user", content: "Gere a estrutura de subtemas." }],
     }),
   });
 
-  const text: string = (response.json?.content?.[0]?.text as string) ?? "";
-  console.debug("[AbsoluteExpander] Claude raw response:", text);
-  return parseVariations(text);
+  return (response.json?.content?.[0]?.text as string) ?? "";
 }
 
 async function callGemini(
   payload: ContextPayload,
-  apiKey: string
-): Promise<string[]> {
+  settings: AbsoluteExpanderSettings
+): Promise<string> {
   const response = await requestUrl({
-    url: `${GEMINI_ENDPOINT}?key=${apiKey}`,
+    url: `${GEMINI_ENDPOINT}?key=${settings.geminiApiKey}`,
     method: "POST",
     headers: { "content-type": "application/json" },
     body: JSON.stringify({
       system_instruction: {
-        parts: [{ text: buildSystemPrompt(payload) }],
+        parts: [{ text: buildRecursivePrompt(payload, settings) }],
       },
-      contents: [
-        {
-          parts: [
-            {
-              text: `Expanda este trecho:\n\n"${payload.selectedText}"`,
-            },
-          ],
-        },
-      ],
-      generationConfig: { maxOutputTokens: 1024 },
+      contents: [{ parts: [{ text: "Gere a estrutura de subtemas." }] }],
+      generationConfig: { maxOutputTokens: 4096 },
     }),
   });
 
-  const text: string =
-    (response.json?.candidates?.[0]?.content?.parts?.[0]?.text as string) ?? "";
-  console.debug("[AbsoluteExpander] Gemini raw response:", text);
-  return parseVariations(text);
+  return (response.json?.candidates?.[0]?.content?.parts?.[0]?.text as string) ?? "";
 }
 
-function notifyError(err: unknown): void {
-  const status = (err as { status?: number })?.status;
-  if (status === 401) {
-    new Notice("Absolute Expander: chave de API inválida ou expirada.");
-  } else if (status === 429) {
-    new Notice(
-      "Absolute Expander: limite de requisições atingido. Aguarde alguns segundos."
-    );
-  } else if (status === 400) {
-    new Notice("Absolute Expander: requisição malformada — verifique o modelo selecionado.");
-  } else {
-    const msg = err instanceof Error ? err.message : String(err);
-    new Notice(`Absolute Expander: falha na requisição — ${msg}`);
-  }
-}
-
-export async function generateExpansions(
+export async function generateRecursiveExpansions(
   payload: ContextPayload,
   settings: AbsoluteExpanderSettings
-): Promise<string[]> {
+): Promise<{ raw: string; subthemes: string[] }> {
   const { activeModel, claudeApiKey, geminiApiKey } = settings;
 
-  if (activeModel === "claude" && !claudeApiKey) {
-    new Notice("Absolute Expander: adicione sua Claude API Key nas configurações.");
-    return [];
-  }
-  if (activeModel === "gemini" && !geminiApiKey) {
-    new Notice("Absolute Expander: adicione sua Gemini API Key nas configurações.");
-    return [];
-  }
-
   try {
-    return activeModel === "claude"
-      ? await callClaude(payload, claudeApiKey)
-      : await callGemini(payload, geminiApiKey);
+    const raw = activeModel === "claude"
+      ? await callClaude(payload, settings)
+      : await callGemini(payload, settings);
+    
+    return { raw, subthemes: parseSubthemes(raw) };
   } catch (err: unknown) {
-    notifyError(err);
-    return [];
+    new Notice(`Erro na IA: ${String(err)}`);
+    return { raw: "", subthemes: [] };
   }
 }
