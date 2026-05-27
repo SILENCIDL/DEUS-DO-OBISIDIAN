@@ -5,12 +5,18 @@ export interface AbsoluteExpanderSettings {
   claudeApiKey: string;
   geminiApiKey: string;
   activeModel: "claude" | "gemini";
+  maxDepth: number;
+  maxSubthemes: number;
+  autoInsert: boolean;
 }
 
 export const DEFAULT_SETTINGS: AbsoluteExpanderSettings = {
   claudeApiKey: "",
   geminiApiKey: "",
   activeModel: "claude",
+  maxDepth: 15,
+  maxSubthemes: 30,
+  autoInsert: true,
 };
 
 export class AbsoluteExpanderSettingTab extends PluginSettingTab {
@@ -33,6 +39,42 @@ export class AbsoluteExpanderSettingTab extends PluginSettingTab {
           .setValue(this.plugin.settings.activeModel)
           .onChange(async (value) => {
             this.plugin.settings.activeModel = value as "claude" | "gemini";
+            await this.plugin.saveSettings();
+          })
+      );
+
+    new Setting(containerEl)
+      .setName("Inserção Automática")
+      .setDesc("Se ativado, o plugin insere o conteúdo diretamente na nota sem abrir o modal.")
+      .addToggle((toggle) =>
+        toggle
+          .setValue(this.plugin.settings.autoInsert)
+          .onChange(async (value) => {
+            this.plugin.settings.autoInsert = value;
+            await this.plugin.saveSettings();
+          })
+      );
+
+    new Setting(containerEl)
+      .setName("Profundidade Máxima")
+      .setDesc("Nível máximo de recursão (Temas -> Subtemas).")
+      .addText((text) =>
+        text
+          .setValue(String(this.plugin.settings.maxDepth))
+          .onChange(async (value) => {
+            this.plugin.settings.maxDepth = Number(value) || 15;
+            await this.plugin.saveSettings();
+          })
+      );
+
+    new Setting(containerEl)
+      .setName("Máximo de Subtemas")
+      .setDesc("Número máximo de subtemas gerados por nível.")
+      .addText((text) =>
+        text
+          .setValue(String(this.plugin.settings.maxSubthemes))
+          .onChange(async (value) => {
+            this.plugin.settings.maxSubthemes = Number(value) || 30;
             await this.plugin.saveSettings();
           })
       );

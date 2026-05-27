@@ -1,7 +1,6 @@
-import { MarkdownView, Notice, Plugin } from "obsidian";
+import { MarkdownView, Notice, Plugin, TFile } from "obsidian";
 import { buildContext } from "./ContextBuilder";
-import { generateExpansions } from "./AIBridge";
-import { ExpansionModal } from "./ExpansionModal";
+import { generateRecursiveExpansions } from "./AIBridge";
 import {
   AbsoluteExpanderSettings,
   AbsoluteExpanderSettingTab,
@@ -16,47 +15,61 @@ export default class AbsoluteExpanderPlugin extends Plugin {
     this.addSettingTab(new AbsoluteExpanderSettingTab(this.app, this));
 
     this.addCommand({
-      id: "construir-contexto",
-      name: "Construir Contexto da Nota Ativa",
-      editorCallback: (editor, view) => {
-        if (!(view instanceof MarkdownView) || !view.file) {
-          new Notice("Absolute Expander: abra uma nota Markdown primeiro.");
-          return;
-        }
-        const payload = buildContext(this.app, editor, view.file);
-        if (!payload) return;
-
-        new Notice(
-          `Contexto capturado: ${payload.backlinks.length} backlinks · ` +
-            `${payload.outlinks.length} outlinks · ${payload.tags.length} tags`
-        );
-        console.debug("[AbsoluteExpander] ContextPayload:", payload);
-      },
-    });
-
-    this.addCommand({
-      id: "expandir-texto",
-      name: "Expandir Texto Selecionado",
+      id: "expansao-recursiva",
+      name: "Executar Expansão Recursiva (Temas -> Subtemas)",
       editorCallback: async (editor, view) => {
-        if (!(view instanceof MarkdownView) || !view.file) {
-          new Notice("Absolute Expander: abra uma nota Markdown primeiro.");
-          return;
-        }
-
-        const payload = buildContext(this.app, editor, view.file);
-        if (!payload) return;
-
-        new Notice("Analisando contexto absoluto…", 3000);
-
-        const variations = await generateExpansions(payload, this.settings);
-        if (!variations.length) return; // AIBridge já exibiu o Notice de erro
-
-        new ExpansionModal(this.app, editor, variations).open();
+        if (!(view instanceof MarkdownView) || !view.file) return;
+        
+        await this.runRecursiveExpansion(view.file, 0);
       },
     });
   }
 
-  override onunload(): void {}
+  async runRecursiveExpansion(file: TFile, depth: number) {
+    if (depth >= this.settings.maxDepth) {
+      new Notice(`Profundidade máxima atingida (${depth})`);
+      return;
+    }
+
+    new Notice(`Expandindo: ${file.basename} (Nível ${depth})`);
+
+    // Simulando o editor para notas que podem não estar abertas
+    const content = await this.app.vault.read(file);
+    const payload = {
+        selectedText: content || "Tema vazio",
+        activeFile: file.path,
+        backlinks: [],
+        outlinks: [],
+        tags: []
+    };
+
+    const { raw, subthemes } = await generateRecursiveExpansions(payload, this.settings);
+    
+    if (!raw) return;
+
+    // 1. Atualiza a nota atual com os subtemas
+    await this.app.vault.append(file, "\n\n## Subtemas Gerados\n" + raw);
+
+    // 2. Cria novas notas para cada subtema e expande recursivamente
+    for (const sub of subthemes.slice(0, this.settings.maxSubthemes)) {
+        const path = `${sub}.md`;
+        let subFile = this.app.vault.getAbstractFileByPath(path);
+        
+        if (!subFile) {
+            try {
+                subFile = await this.app.vault.create(path, `# ${sub}\n\nOrigem: [[${file.basename}]]`);
+            } catch (e) {
+                console.error(`Erro ao criar nota ${sub}:`, e);
+                continue;
+            }
+        }
+
+        if (subFile instanceof TFile) {
+            // Chamada recursiva para o próximo nível
+            await this.runRecursiveExpansion(subFile, depth + 1);
+        }
+    }
+  }
 
   async loadSettings(): Promise<void> {
     this.settings = Object.assign(
