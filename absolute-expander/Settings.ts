@@ -4,7 +4,8 @@ import type AbsoluteExpanderPlugin from "./main";
 export interface AbsoluteExpanderSettings {
   claudeApiKey: string;
   geminiApiKey: string;
-  activeModel: "claude" | "gemini";
+  kimiApiKey: string;
+  activeModel: "claude" | "gemini" | "kimi";
   maxDepth: number;
   maxSubthemes: number;
   autoInsert: boolean;
@@ -13,6 +14,7 @@ export interface AbsoluteExpanderSettings {
 export const DEFAULT_SETTINGS: AbsoluteExpanderSettings = {
   claudeApiKey: "",
   geminiApiKey: "",
+  kimiApiKey: "",
   activeModel: "claude",
   maxDepth: 15,
   maxSubthemes: 30,
@@ -36,9 +38,10 @@ export class AbsoluteExpanderSettingTab extends PluginSettingTab {
         dd
           .addOption("claude", "Claude (Anthropic)")
           .addOption("gemini", "Gemini (Google)")
+          .addOption("kimi", "KimiAI (Moonshot)")
           .setValue(this.plugin.settings.activeModel)
           .onChange(async (value) => {
-            this.plugin.settings.activeModel = value as "claude" | "gemini";
+            this.plugin.settings.activeModel = value as "claude" | "gemini" | "kimi";
             await this.plugin.saveSettings();
           })
       );
@@ -103,6 +106,21 @@ export class AbsoluteExpanderSettingTab extends PluginSettingTab {
           .setValue(this.plugin.settings.geminiApiKey)
           .onChange(async (value) => {
             this.plugin.settings.geminiApiKey = value.trim();
+            await this.plugin.saveSettings();
+          });
+        text.inputEl.setAttribute("type", "password");
+        text.inputEl.style.width = "100%";
+      });
+
+    new Setting(containerEl)
+      .setName("KimiAI API Key")
+      .setDesc("Obtenha em platform.moonshot.cn.")
+      .addText((text) => {
+        text
+          .setPlaceholder("sk-...")
+          .setValue(this.plugin.settings.kimiApiKey)
+          .onChange(async (value) => {
+            this.plugin.settings.kimiApiKey = value.trim();
             await this.plugin.saveSettings();
           });
         text.inputEl.setAttribute("type", "password");
