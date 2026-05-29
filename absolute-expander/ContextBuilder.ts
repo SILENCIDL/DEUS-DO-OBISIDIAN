@@ -17,7 +17,7 @@ function getSelection(editor: Editor): string | null {
   return sel;
 }
 
-// Itera resolvedLinks uma única vez para evitar O(n²) em vaults grandes.
+// Itera resolvedLinks uma única vez — O(n) no tamanho do vault.
 // resolvedLinks[source][target] = count — precisamos da direção inversa.
 function getBacklinks(app: App, file: TFile): string[] {
   const resolved = app.metadataCache.resolvedLinks;
@@ -38,6 +38,12 @@ function getOutlinks(app: App, file: TFile): string[] {
   return links ? Object.keys(links) : [];
 }
 
+// Normaliza tags removendo o prefixo "#" para evitar duplicatas semânticas
+// (ex: "#fotografia" e "fotografia" são a mesma tag no Obsidian).
+function normalizeTags(tags: string[]): string[] {
+  return tags.map((t) => (t.startsWith("#") ? t.slice(1) : t));
+}
+
 function getTags(app: App, file: TFile): string[] {
   const cache = app.metadataCache.getFileCache(file);
   if (!cache) return [];
@@ -51,7 +57,8 @@ function getTags(app: App, file: TFile): string[] {
     ? [raw]
     : [];
 
-  return [...new Set([...inlineTags, ...frontmatterTags])];
+  const merged = [...new Set([...inlineTags, ...frontmatterTags])];
+  return normalizeTags(merged);
 }
 
 export function buildContext(

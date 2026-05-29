@@ -15,6 +15,9 @@ export default class AbsoluteExpanderPlugin extends Plugin {
     await this.loadSettings();
     this.addSettingTab(new AbsoluteExpanderSettingTab(this.app, this));
 
+    // -----------------------------------------------------------------------
+    // Comando: inspecionar contexto da nota (debug / diagnóstico)
+    // -----------------------------------------------------------------------
     this.addCommand({
       id: "construir-contexto",
       name: "Construir Contexto da Nota Ativa",
@@ -34,6 +37,9 @@ export default class AbsoluteExpanderPlugin extends Plugin {
       },
     });
 
+    // -----------------------------------------------------------------------
+    // Comando principal: expandir texto selecionado via IA
+    // -----------------------------------------------------------------------
     this.addCommand({
       id: "expandir-texto",
       name: "Expandir Texto Selecionado",
@@ -46,12 +52,29 @@ export default class AbsoluteExpanderPlugin extends Plugin {
         const payload = buildContext(this.app, editor, view.file);
         if (!payload) return;
 
-        new Notice("Analisando contexto absoluto…", 3000);
+        // Notice persistente (timeout 0) — fechado manualmente após resposta.
+        const loadingNotice = new Notice("⏳ Analisando contexto absoluto…", 0);
 
-        const variations = await generateExpansions(payload, this.settings);
-        if (!variations.length) return; // AIBridge já exibiu o Notice de erro
+        try {
+          const variations = await generateExpansions(payload, this.settings);
 
-        new ExpansionModal(this.app, editor, variations).open();
+          loadingNotice.hide();
+
+          if (!variations.length) return; // AIBridge já exibiu o erro
+
+          const hasContent = variations.some((v) => v.trim().length > 0);
+          if (!hasContent) {
+            new Notice(
+              "Absolute Expander: a IA não retornou variações válidas. Tente novamente."
+            );
+            return;
+          }
+
+          new ExpansionModal(this.app, editor, variations).open();
+        } catch {
+          loadingNotice.hide();
+          // erros já tratados pelo AIBridge; nenhuma ação adicional necessária
+        }
       },
     });
   }

@@ -15,6 +15,12 @@ const CARD_META = [
   },
 ] as const;
 
+// Fallback seguro caso a IA retorne menos de 3 variações.
+const EMPTY_META = {
+  label: "VARIAÇÃO",
+  description: "Expansão gerada pela IA",
+} as const;
+
 export class ExpansionModal extends Modal {
   constructor(
     app: App,
@@ -27,7 +33,6 @@ export class ExpansionModal extends Modal {
   onOpen(): void {
     const { contentEl, modalEl } = this;
 
-    // Wide enough for 3 cards; collapses gracefully via auto-fit grid.
     modalEl.style.width = "min(92vw, 960px)";
     modalEl.style.maxWidth = "960px";
 
@@ -55,7 +60,6 @@ export class ExpansionModal extends Modal {
       },
     });
 
-    // auto-fit so cards stack on narrow windows (mobile / small panels).
     const grid = contentEl.createDiv({
       attr: {
         style: [
@@ -68,14 +72,16 @@ export class ExpansionModal extends Modal {
     });
 
     this.expansions.forEach((text, i) => {
-      this.buildCard(grid, text, CARD_META[i]);
+      // Bounds-check defensivo: usa EMPTY_META se o índice estiver fora.
+      const meta = i < CARD_META.length ? CARD_META[i] : EMPTY_META;
+      this.buildCard(grid, text, meta);
     });
   }
 
   private buildCard(
     parent: HTMLElement,
     text: string,
-    meta: (typeof CARD_META)[number]
+    meta: typeof CARD_META[number] | typeof EMPTY_META
   ): void {
     const isEmpty = !text.trim();
 
@@ -96,7 +102,6 @@ export class ExpansionModal extends Modal {
       },
     });
 
-    // Card header
     const header = card.createDiv({
       attr: { style: "display:flex;flex-direction:column;gap:4px" },
     });
@@ -124,7 +129,6 @@ export class ExpansionModal extends Modal {
       },
     });
 
-    // Card body — grows to fill available height
     card.createEl("p", {
       text: isEmpty ? "(sem resposta — tente novamente)" : text,
       attr: {
@@ -140,7 +144,6 @@ export class ExpansionModal extends Modal {
       },
     });
 
-    // Insert button
     const btn = card.createEl("button", {
       text: "Inserir esta Variação",
       attr: {
@@ -168,7 +171,6 @@ export class ExpansionModal extends Modal {
       this.close();
     });
 
-    // Hover feedback via JS since we can't use CSS classes with inline styles.
     btn.addEventListener("mouseenter", () => {
       btn.style.filter = "brightness(1.12)";
     });
