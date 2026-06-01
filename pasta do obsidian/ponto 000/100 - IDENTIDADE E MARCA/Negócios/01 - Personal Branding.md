@@ -185,3 +185,15 @@ _________________________________.
 - [[Ideas Extraordinárias - Monetização e Escala]]
 - [[Meu Perfil]]
 - [[📊 Relatório do Vault]]
+
+---
+
+## 🔗 Notas Atômicas Expandidas
+- [[Tom de Voz]]
+- [[Autoridade Digital]]
+- [[Funil de Conversão]]
+- [[Público-Alvo]]
+- [[Posicionamento de Marca]]
+- [[Presença Digital]]
+- [[Autenticidade]]
+- [[Consistência]]

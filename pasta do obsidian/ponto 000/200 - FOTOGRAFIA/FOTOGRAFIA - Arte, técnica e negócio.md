@@ -224,3 +224,18 @@ Impressão de fotografias em **papéis especiais** de alta qualidade.
 - [[INVESTIMENTOS - Estudos e Estratégias]]
 - [[VINICIUS RAFAEL - Meu universo]]
 - [[📊 Relatório do Vault]]
+
+---
+
+## 🔗 Notas Atômicas Expandidas
+- [[Composição Fotográfica]]
+- [[Iluminação]]
+- [[Edição e Pós-Produção]]
+- [[Estilo Fotográfico]]
+- [[Portfolio]]
+- [[Estúdio Fotográfico]]
+- [[Fotografia de Rua]]
+- [[Fine Art]]
+- [[Fotografia Freelancer]]
+- [[Precificação Fotográfica]]
+- [[Atendimento ao Cliente]]

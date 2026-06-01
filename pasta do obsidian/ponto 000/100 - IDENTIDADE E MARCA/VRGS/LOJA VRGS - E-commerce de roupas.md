@@ -141,3 +141,14 @@ Por que fazer contingencia?
 - [[VRGS-TOCAS BONES]]
 - [[VRGS-desing]]
 - [[📊 Relatório do Vault]]
+
+---
+
+## 🔗 Notas Atômicas Expandidas
+- [[VRGS - Significado da Marca]]
+- [[Identidade Visual VRGS]]
+- [[Crochê como Diferencial]]
+- [[Projeto VRGS 2026]]
+- [[Tráfego Pago]]
+- [[Público-Alvo]]
+- [[Múltiplas Fontes de Renda]]

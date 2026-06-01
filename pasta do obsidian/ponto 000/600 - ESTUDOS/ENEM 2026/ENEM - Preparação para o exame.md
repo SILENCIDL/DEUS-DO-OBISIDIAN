@@ -456,3 +456,12 @@ CONCLUSÃO
 - [[ENEM - Redação]]
 - [[ESTUDOS E CURSOS - Meu aprendizado]]
 - [[📊 Relatório do Vault]]
+
+---
+
+## 🔗 Notas Atômicas Expandidas
+- [[Rotina de Estudos ENEM]]
+- [[Redação ENEM]]
+- [[Aprendizado Autodidata]]
+- [[Disciplina]]
+- [[Blocos de Trabalho]]

@@ -154,3 +154,15 @@ Receita Total
 - [[YT - Monetização e Parcerias]]
 - [[gastos mensais fixos]]
 - [[📊 Relatório do Vault]]
+
+---
+
+## 🔗 Notas Atômicas Expandidas
+- [[Reserva de Emergência]]
+- [[MEI]]
+- [[Controle de Gastos]]
+- [[Investimentos para Iniciantes]]
+- [[Disciplina Financeira]]
+- [[Renda Passiva]]
+- [[Múltiplas Fontes de Renda]]
+- [[Liberdade Financeira]]

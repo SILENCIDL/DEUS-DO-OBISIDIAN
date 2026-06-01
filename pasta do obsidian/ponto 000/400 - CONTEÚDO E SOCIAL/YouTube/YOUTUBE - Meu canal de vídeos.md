@@ -709,3 +709,13 @@ Conexão em tempo real com a audiência.
 - [[YT - Séries e Formatos Recorrentes]]
 - [[YT - Thumbnails e Design]]
 - [[📊 Relatório do Vault]]
+
+---
+
+## 🔗 Notas Atômicas Expandidas
+- [[SEO para YouTube]]
+- [[Thumbnails]]
+- [[Storytelling Visual]]
+- [[Projeto YouTube Início]]
+- [[Autoridade Digital]]
+- [[Estratégia Multiplataforma]]

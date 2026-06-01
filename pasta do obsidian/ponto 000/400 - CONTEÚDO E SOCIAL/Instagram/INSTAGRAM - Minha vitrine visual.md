@@ -176,3 +176,16 @@ Conteúdo efêmero para conexão diária.
 - [[YOUTUBE - Meu canal de vídeos]]
 - [[YT - Crescimento e Comunidade]]
 - [[📊 Relatório do Vault]]
+
+---
+
+## 🔗 Notas Atômicas Expandidas
+- [[Algoritmo do Instagram]]
+- [[Reels]]
+- [[Carrosséis]]
+- [[Stories como Conexão]]
+- [[Presença Digital]]
+- [[Tráfego Orgânico]]
+- [[Projeto Instagram 10k]]
+- [[Criador de Conteúdo]]
+- [[Tom de Voz]]

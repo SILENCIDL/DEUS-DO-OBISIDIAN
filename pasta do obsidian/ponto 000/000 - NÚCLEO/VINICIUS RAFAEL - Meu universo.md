@@ -119,3 +119,16 @@ updated: 2026-02-27
 - [[_Index_of_ponto 000]]
 - [[senhas perfis]]
 - [[📊 Relatório do Vault]]
+
+---
+
+## 🔗 Notas Atômicas — Mapa Expandido
+- [[Valores e Princípios]]
+- [[Propósito]]
+- [[MICÉLIO - Sistema Central]]
+- [[ÁGORA - Hub de Decisões]]
+- [[Projeto Instagram 10k]]
+- [[Projeto YouTube Início]]
+- [[Projeto VRGS 2026]]
+- [[Liberdade Financeira]]
+- [[Identidade Artística]]

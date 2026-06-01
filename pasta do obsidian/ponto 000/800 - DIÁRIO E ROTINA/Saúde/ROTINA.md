@@ -102,3 +102,13 @@ updated: 2026-02-27
 - [[HABITOS]]
 - [[LISTA DE A FAZERES]]
 - [[SAUDE-HUB]]
+
+---
+
+## 🔗 Notas Atômicas Expandidas
+- [[Rotina Matinal]]
+- [[Blocos de Trabalho]]
+- [[Disciplina]]
+- [[Consistência]]
+- [[Saúde Mental]]
+- [[Hábitos Atômicos]]

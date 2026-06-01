@@ -100,3 +100,14 @@ GATILHO → ROTINA → RECOMPENSA
 - [[IDEIAS DE VIDEO]]
 - [[ROTINA]]
 - [[SAUDE-HUB]]
+
+---
+
+## 🔗 Notas Atômicas Expandidas
+- [[Hábitos Atômicos]]
+- [[Rotina Matinal]]
+- [[Disciplina]]
+- [[Consistência]]
+- [[Jiu-Jitsu]]
+- [[Saúde Mental]]
+- [[Evolução Pessoal]]
