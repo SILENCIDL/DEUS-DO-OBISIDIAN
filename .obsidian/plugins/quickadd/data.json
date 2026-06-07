@@ -1,0 +1,51 @@
+{
+  "choices": [
+    {
+      "id": "capture-inbox",
+      "name": "📥 Capture to Inbox",
+      "type": "Capture",
+      "command": true,
+      "captureToActiveFile": false,
+      "captureTo": "notes/inbox/Inbox.md",
+      "prepend": false,
+      "task": false,
+      "captureFormat": "- {{DATE:YYYY-MM-DD HH:mm}} — {{VALUE}}",
+      "insertAfter": ""
+    },
+    {
+      "id": "new-note-macro",
+      "name": "📝 New Note (Macro)",
+      "type": "Macro",
+      "command": true,
+      "macroId": "new-note-macro"
+    },
+    {
+      "id": "new-project",
+      "name": "🗂️ New Project",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/project-template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "projects/{{VALUE}}"
+      },
+      "folder": "notes/projects",
+      "openFile": true,
+      "openFileInNewTab": false
+    }
+  ],
+  "macros": [
+    {
+      "id": "new-note-macro",
+      "name": "New Note Macro",
+      "actions": [
+        {
+          "id": "run-capture-script",
+          "type": "script",
+          "scriptPath": "macros/capture-macro.js"
+        }
+      ]
+    }
+  ],
+  "version": "1.11.1"
+}

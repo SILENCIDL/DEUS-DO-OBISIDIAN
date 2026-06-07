@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-claude-code-mcp",
+  "name": "Claude Code MCP",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Model Context Protocol server for Claude AI integration.",
+  "author": "SILENCIDL",
+  "isDesktopOnly": true
+}
