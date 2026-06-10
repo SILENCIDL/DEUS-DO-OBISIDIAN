@@ -117,5 +117,4 @@ updated: 2026-02-27
 - [[TRABALHE, TREINE, FOQUE, PRODUZA, REPITA O PROCESSO]]
 - [[YOUTUBE - Meu canal de vídeos]]
 - [[_Index_of_ponto 000]]
-- [[senhas perfis]]
 - [[📊 Relatório do Vault]]

@@ -47,7 +47,7 @@ Permaneceram no `🗂️ Arquivo` apenas: imagens antigas (referenciadas por can
 3. **🌐 Idiomas/02_Russo** tem só o HUB, sem subpastas de vocabulário/gramática (o Espanhol já tem as 4).
 4. **📓 Diário** tem apenas 3 entradas e nenhum template.
 5. **📱 Conteúdo** não tem pasta TikTok, embora 💼 Negócios tenha `06 - Monetização TikTok`.
-6. **🔒 Seguro/senhas perfis.md** — senhas em texto puro num repositório Git. ⚠️ Recomendo migrar para um gerenciador de senhas e remover do vault.
+6. ✅ **Resolvido (10/06):** `senhas perfis.md` foi retirado do vault e movido para a pasta `_PARA-BAIXAR-E-APAGAR/` na raiz do repositório — baixar no computador, migrar para um gerenciador de senhas e apagar a pasta (instruções no LEIA-ME dentro dela).
 
 ---
 
@@ -96,7 +96,7 @@ Permaneceram no `🗂️ Arquivo` apenas: imagens antigas (referenciadas por can
 2. ✅ Criada → **cotar fornecedores** na [[VRGS - Fornecedores e Custos]] — pré-requisito para escalar a loja no Q3.
 3. ✅ Criada → **registrar trabalhos** na [[CLIENTES - Controle de Trabalhos]] — fotografia é a renda mais ativa hoje.
 4. ✅ Criada → **preencher no fim do mês** o [[MÉTRICAS MENSAIS - Dashboard]] — mede o objetivo Q1/Q2 de presença digital.
-5. ⚠️ Pendente: tirar `senhas perfis.md` do repositório.
+5. ✅ Feito (10/06): `senhas perfis.md` movido para `_PARA-BAIXAR-E-APAGAR/` (fora do vault) — **falta só**: baixar no PC, migrar para gerenciador de senhas, apagar a pasta e trocar as senhas expostas.
 
 ---
 

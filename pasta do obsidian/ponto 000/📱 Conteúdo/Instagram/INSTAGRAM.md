@@ -3,7 +3,7 @@ Categoria: [[INSTAGRAM - Minha vitrine visual]]
 [[PROGRAMAÇÃO DE PUBLICAÇÕES]]
 [[NIKON]]
 [[ANUNCIOS]]
-[[senhas perfis]]
+*(senhas dos perfis: agora no gerenciador de senhas — removidas do vault por segurança)*
 
 ---
 
@@ -11,5 +11,4 @@ Categoria: [[INSTAGRAM - Minha vitrine visual]]
 
 - [[PROJETOS CINEMATIC]]
 - [[VRGS-desing]]
-- [[senhas perfis]]
 - [[📊 Relatório do Vault]]
