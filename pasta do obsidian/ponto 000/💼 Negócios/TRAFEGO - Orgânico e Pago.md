@@ -131,3 +131,8 @@ CAMPANHA (Objetivo: vendas, leads, alcance)
 - [[COPY e Persuasão]]
 - [[📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual]]
 - [[LOJA VRGS - E-commerce de roupas]]
+
+### Notas de marketing (arquivo recuperado)
+- Tráfego: [[NEG-TRAFEGO PAGO]] · [[NEG-TRAFEGO ORGANICO]] · [[NEG-ANUNCIOS]] · [[NEG-PLANEJ ANUNCIOS]] · [[NEG-ROI]]
+- Conversão: [[NEG-COPY]] · [[NEG-CRIATIVOS]] · [[NEG-LEADS]] · [[NEG-REMARKETING]]
+- Mercado: [[NEG-LINGUAGEM DO MERCADO]] · [[NEG-ENTENDIMENTOS DO CONSUMO]]

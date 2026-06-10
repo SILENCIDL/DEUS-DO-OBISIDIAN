@@ -117,6 +117,10 @@ updated: 2026-02-27
 
 ## 🔗 Conexões
 - [[LOJA VRGS - E-commerce de roupas]]
+- [[VRGS - Fornecedores e Custos]] — preencher o custo real de cada produto
+- [[VRGS - Identidade Visual]]
+- [[VRGS - Canais de Venda e Logística]]
+- [[VRGS - Calendário de Coleções 2026]]
 - [[CROCHE - Arte e Produtos]]
 - [[💰 Finanças/FINANCEIRO - Dinheiro e metas]]
 - [[📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual]]

@@ -128,6 +128,11 @@ Receita Total
 
 ## 🔗 Conexões
 - [[INVESTIMENTOS - Estudos e Estratégias]]
+- [[INVESTIMENTOS - Mapa Geral]]
+- [[RESERVA DE EMERGÊNCIA - Meta e Progresso]]
+- [[MEI e IMPOSTOS DO CRIADOR]]
+- [[PRECIFICAÇÃO DE ENSAIOS]]
+- [[DINHEIRO (CONTROLE DE GASTOS)]] · [[gastos mensais fixos]]
 - [[VINICIUS RAFAEL - Meu universo]]
 - [[PLANEJAMENTO - Organização e direções]]
 - [[LOJA VRGS - E-commerce de roupas]]

@@ -53,48 +53,50 @@ Permaneceram no `🗂️ Arquivo` apenas: imagens antigas (referenciadas por can
 
 ## 💡 Pesquisa — Novas notas sugeridas
 
+> ✅ **Atualização 10/06/2026:** todas as notas abaixo foram **criadas e linkadas** nos HUBs de cada área. Os nomes abaixo são links clicáveis.
+
 ### 💰 Finanças
-- **`INVESTIMENTOS - Mapa Geral`** — ligar AÇÕES, CRYPTO, TRADE, RENDA FIXA e SPREAD num índice único sob [[INVESTIMENTOS - Estudos e Estratégias]].
-- **`RESERVA DE EMERGÊNCIA - Meta e Progresso`** — desdobrar [[RESERVAS]] em meta numérica e acompanhamento mensal.
-- **`MEI e IMPOSTOS DO CRIADOR`** — formalização como fotógrafo/criador: MEI, nota fiscal, DAS mensal.
-- **`PRECIFICAÇÃO DE ENSAIOS`** — tabela de preços por tipo de ensaio, conectando [[Precificação - Posicionamento de Imagem para Redes Sociais]] e [[10 - Precificação]].
+- ✅ [[INVESTIMENTOS - Mapa Geral]] — liga AÇÕES, CRYPTO, TRADE, RENDA FIXA e SPREAD num índice único sob [[INVESTIMENTOS - Estudos e Estratégias]].
+- ✅ [[RESERVA DE EMERGÊNCIA - Meta e Progresso]] — desdobra [[RESERVAS]] em meta numérica e acompanhamento mensal.
+- ✅ [[MEI e IMPOSTOS DO CRIADOR]] — formalização como fotógrafo/criador: MEI, nota fiscal, DAS mensal.
+- ✅ [[PRECIFICAÇÃO DE ENSAIOS]] — tabela de preços por tipo de ensaio, conectando [[Precificação - Posicionamento de Imagem para Redes Sociais]] e [[10 - Precificação]].
 
 ### 👕 VRGS
-- **`VRGS - Fornecedores e Custos`** — custo por peça, margem e fornecedores (base para precificar o catálogo já existente).
-- **`VRGS - Identidade Visual`** — logo, paleta, tipografia; conecta com [[VRGS-desing]] e [[VRGS-DESENHO]].
-- **`VRGS - Canais de Venda e Logística`** — Instagram, marketplace, envio e embalagem.
-- **`VRGS - Calendário de Coleções 2026`** — datas de lançamento alinhadas ao Q3 do [[PLANEJAMENTO - Organização e direções]] ("Escalar Loja VRGS").
+- ✅ [[VRGS - Fornecedores e Custos]] — custo por peça, margem e fornecedores (base para precificar o catálogo já existente).
+- ✅ [[VRGS - Identidade Visual]] — logo, paleta, tipografia; conecta com [[VRGS-desing]] e [[VRGS-DESENHO]].
+- ✅ [[VRGS - Canais de Venda e Logística]] — Instagram, marketplace, envio e embalagem.
+- ✅ [[VRGS - Calendário de Coleções 2026]] — datas de lançamento alinhadas ao Q3 do [[PLANEJAMENTO - Organização e direções]] ("Escalar Loja VRGS").
 
 ### 📸 Fotografia
-- **`CLIENTES - Controle de Trabalhos`** — CRM simples: contato, ensaio, valor, status de entrega (complementa [[TRABALHOS FOTOGRAFICOS]]).
-- **`CONTRATO MODELO - Ensaios`** — termos padrão, sinal, prazo de entrega e direitos de imagem.
-- **`BACKUP - Fluxo de Arquivos`** — rotina HD/nuvem (a ORGANIZAÇÃO DO HD já aparecia como pendência urgente).
-- **`PORTFÓLIO - Curadoria 2026`** — seleção das melhores fotos para o portfólio do Q1.
+- ✅ [[CLIENTES - Controle de Trabalhos]] — CRM simples: contato, ensaio, valor, status de entrega (complementa [[TRABALHOS FOTOGRAFICOS]]).
+- ✅ [[CONTRATO MODELO - Ensaios]] — termos padrão, sinal, prazo de entrega e direitos de imagem.
+- ✅ [[BACKUP - Fluxo de Arquivos]] — rotina HD/nuvem (a ORGANIZAÇÃO DO HD já aparecia como pendência urgente).
+- ✅ [[PORTFÓLIO - Curadoria 2026]] — seleção das melhores fotos para o portfólio do Q1.
 
 ### 📱 Conteúdo
-- **`TikTok/TIKTOK - Estratégia Inicial`** — nova subpasta espelhando Instagram/YouTube; conecta com [[06 - Monetização TikTok]].
-- **`MÉTRICAS MENSAIS - Dashboard`** — seguidores, alcance e engajamento por plataforma, revisado todo fim de mês.
-- **`BANCO DE ROTEIROS`** — centralizar [[IDEIAS DE VIDEO]] + [[CONT-Coloque suas ideias]] num funil: ideia → roteiro → gravado → publicado.
+- ✅ [[TIKTOK - Estratégia Inicial]] — nova subpasta TikTok espelhando Instagram/YouTube; conecta com [[06 - Monetização TikTok]].
+- ✅ [[MÉTRICAS MENSAIS - Dashboard]] — seguidores, alcance e engajamento por plataforma, revisado todo fim de mês.
+- ✅ [[BANCO DE ROTEIROS]] — centraliza [[IDEIAS DE VIDEO]] + [[CONT-Coloque suas ideias]] num funil: ideia → roteiro → gravado → publicado.
 
 ### 🎯 Pessoal
-- **`TAREFAS - Central Única`** — fundir as 4 notas de tarefas sobrepostas numa única central com seções Urgente / Semana / Algum dia.
-- **`HORTA - Projeto Completo`** — fundir [[HORTA]] + [[PLANEJAMENTO DA HORTA]]: o que plantar, custos e potencial de renda extra.
+- ✅ [[TAREFAS - Central Única]] — funde as 4 notas de tarefas sobrepostas numa única central com seções Urgente / Semana / Algum dia.
+- ✅ [[HORTA - Projeto Completo]] — funde [[HORTA]] + [[PLANEJAMENTO DA HORTA]]: o que plantar, custos e potencial de renda extra.
 
 ### 📓 Diário
-- **`TEMPLATE - Nota Diária`** — humor, 3 prioridades, treino, conteúdo produzido e aprendizado do dia (modelo já existe em 🌐 Idiomas/99_Templates para copiar o padrão).
-- **`REVISÃO SEMANAL - Template`** — operacionalizar a revisão de domingo já definida no [[PLANEJAMENTO - Organização e direções]].
+- ✅ [[TEMPLATE - Nota Diária]] — humor, 3 prioridades, treino, conteúdo produzido e aprendizado do dia.
+- ✅ [[REVISÃO SEMANAL - Template]] — operacionaliza a revisão de domingo já definida no [[PLANEJAMENTO - Organização e direções]].
 
 ### 🌐 Idiomas
-- **`02_Russo/Vocabulario/RUS-Vocabulario-Basico`** e **`02_Russo/RUS-Alfabeto-Cirilico`** — primeiras notas de conteúdo, espelhando a estrutura do Espanhol.
+- ✅ [[RUS-Vocabulario-Basico]] e [[RUS-Frases-Essenciais]] — primeiras notas de conteúdo do Russo, espelhando a estrutura do Espanhol (o alfabeto cirílico já vive dentro do [[RUS-HUB-Russo]]).
 
 ---
 
 ## 🎯 Prioridade sugerida (próximos 30 dias)
-1. `TAREFAS - Central Única` — elimina a dispersão imediata.
-2. `VRGS - Fornecedores e Custos` — pré-requisito para escalar a loja no Q3.
-3. `CLIENTES - Controle de Trabalhos` — fotografia é a renda mais ativa hoje.
-4. `MÉTRICAS MENSAIS - Dashboard` — mede o objetivo Q1/Q2 de presença digital.
-5. ⚠️ Tirar `senhas perfis.md` do repositório.
+1. ✅ Criada → **preencher** a [[TAREFAS - Central Única]] — elimina a dispersão imediata.
+2. ✅ Criada → **cotar fornecedores** na [[VRGS - Fornecedores e Custos]] — pré-requisito para escalar a loja no Q3.
+3. ✅ Criada → **registrar trabalhos** na [[CLIENTES - Controle de Trabalhos]] — fotografia é a renda mais ativa hoje.
+4. ✅ Criada → **preencher no fim do mês** o [[MÉTRICAS MENSAIS - Dashboard]] — mede o objetivo Q1/Q2 de presença digital.
+5. ⚠️ Pendente: tirar `senhas perfis.md` do repositório.
 
 ---
 

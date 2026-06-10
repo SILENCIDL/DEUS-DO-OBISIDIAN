@@ -112,5 +112,11 @@ updated: 2026-02-27
 ## 🔗 Conexões
 - [[📱 Conteúdo/YouTube/YOUTUBE - Meu canal de vídeos]]
 - [[📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual]]
+- [[TIKTOK - Estratégia Inicial]] — terceira plataforma
+- [[BANCO DE ROTEIROS]] — funil único: ideia → publicado
+- [[MÉTRICAS MENSAIS - Dashboard]] — medir todo fim de mês
 - [[📸 Fotografia/METAS DE EQUIPAMENTOS]]
 - [[💼 Negócios/Banco de Ideias]]
+
+### Notas de produção (arquivo recuperado)
+- [[CONT-AUDIO]] · [[CONT-VIDEO]] · [[CONT-CRIATIVIDADE]] · [[CONT-CORRIDA VLOG]] · [[CONT-Coloque suas ideias]]

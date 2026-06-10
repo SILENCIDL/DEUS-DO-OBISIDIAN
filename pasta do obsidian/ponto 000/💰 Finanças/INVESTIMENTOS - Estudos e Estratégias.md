@@ -122,6 +122,12 @@ Produtos ou serviços de baixo valor (geralmente até R$97). Volume alto, margem
 ---
 
 ## 🔗 Conexões
+- [[INVESTIMENTOS - Mapa Geral]] — índice de todas as notas de investimento
+- [[RESERVA DE EMERGÊNCIA - Meta e Progresso]]
 - [[FINANCEIRO - Dinheiro e metas]]
 - [[PLANEJAMENTO - Organização e direções]]
 - [[💼 Negócios/Banco de Ideias]]
+
+### Notas por modalidade
+- [[RENDA FIXA]] · [[AÇÕES]] · [[TRADE]] · [[CRYPTO]] · [[SPREAD]] · [[RESERVAS]]
+- [[ESTUDOS DE FINANÇAS]] · [[LOW TICKT]] · [[FORMAS DE AUMENTAR O DINHEIRO]]

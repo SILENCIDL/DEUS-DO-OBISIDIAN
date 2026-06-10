@@ -50,6 +50,8 @@ updated: 2026-01-25
 
 ## Fornecedores
 
+> 📋 Cotações, custos por peça e margens: [[VRGS - Fornecedores e Custos]]
+
 ### Roupas em branco
 - (adicionar)
 
@@ -100,6 +102,23 @@ Por que fazer contingencia?
 - [ ] Definir precos e margens
 - [ ] Escolher plataforma (Shopee, Mercado Livre, site proprio)
 - [ ] Configurar contingencia de anuncios
+
+---
+
+## 📂 Gestão da Loja
+
+- [[VRGS - Catálogo de Produtos]] — o que vendemos
+- [[VRGS - Fornecedores e Custos]] — quanto custa e quanto sobra
+- [[VRGS - Identidade Visual]] — logo, cores e embalagem
+- [[VRGS - Canais de Venda e Logística]] — onde vender e como entregar
+- [[VRGS - Calendário de Coleções 2026]] — quando lançar
+- [[CROCHE - Arte e Produtos]] — linha artesanal
+
+### Notas de produto
+[[VRGS-CAMISETAS]] · [[VRGS-CAMISAS]] · [[VRGS-BLUSAS]] · [[VRGS-REGATAS]] · [[VRGS-TOCAS BONES]] · [[VRGS-BAGS]] · [[VRGS-SAPATOS]] · [[VRGS-ACESSORIOS]] · [[VRGS-BRINDES]] · [[VRGS-TIPOS CROCHE]]
+
+### Historico e referencias
+[[VRGS-MINHA LOJA]] · [[VRGS-LOJA DE ROUPAS]] · [[VRGS-CROCHE COMO COMECEI]] · [[VRGS-CROCHE-antigo]] · [[VRGS-DESENHO]] · [[VRGS-desing]] · [[TESTES DE POSSIVEIS CAMISETAS]]
 
 ---
 

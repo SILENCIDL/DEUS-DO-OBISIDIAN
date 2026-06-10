@@ -209,7 +209,14 @@ Impressão de fotografias em **papéis especiais** de alta qualidade.
 - [[ESTUDOS E CURSOS - Meu aprendizado]]
 - [[HISTÓRIA DA FOTOGRAFIA - 200 anos]]
 - [[LOJA VRGS - E-commerce de roupas]]
-- [[INSTAGRAM - Minha vitrine digital]]
+- [[INSTAGRAM - Minha vitrine visual]]
+
+### 💼 Operação do negócio
+- [[CLIENTES - Controle de Trabalhos]] — CRM de trabalhos
+- [[PRECIFICAÇÃO DE ENSAIOS]] — tabela de preços
+- [[CONTRATO MODELO - Ensaios]] — termos padrão
+- [[BACKUP - Fluxo de Arquivos]] — organização do HD
+- [[PORTFÓLIO - Curadoria 2026]] — vitrine profissional
 
 ---
 

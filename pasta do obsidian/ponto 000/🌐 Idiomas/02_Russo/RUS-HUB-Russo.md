@@ -212,6 +212,13 @@ tipo: hub-idioma
 
 ---
 
+## 📂 Minhas Notas de Estudo
+
+- [[RUS-Vocabulario-Basico]] — primeiras 60 palavras (A1)
+- [[RUS-Frases-Essenciais]] — frases de sobrevivência (A1)
+
+---
+
 **← Voltar para [[IDIOMAS-HUB-Central|🌍 HUB Idiomas]]**
 
 #russo #russia #cirilico #intercambio

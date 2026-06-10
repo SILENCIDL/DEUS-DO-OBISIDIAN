@@ -29,8 +29,18 @@ Quem sou, de onde vim e para onde vou.
 ## Social
 - [[ANIVERSÁRIOS]]
 
+## Organização & Tarefas
+- [[TAREFAS - Central Única]] — **a lista oficial** (consolida as antigas)
+- [[LISTA DE A FAZERES]] · [[PENDÊNCIAS]] · [[ORGANIZAÇÕA URGÊNCIA]] · [[SEM-TITULO]] *(antigas — consultar e migrar)*
+- [[METAS.canvas]]
+
+## Projetos
+- [[HORTA - Projeto Completo]] — horta caseira + renda extra
+- [[HORTA]] · [[PLANEJAMENTO DA HORTA]] *(notas originais)*
+
 ---
 
 ## 🔗 Conexões
 - [[VINICIUS RAFAEL - Meu universo]]
 - [[📓 Diário/DIARIO-HUB]]
+- [[TAREFAS - Central Única]]
