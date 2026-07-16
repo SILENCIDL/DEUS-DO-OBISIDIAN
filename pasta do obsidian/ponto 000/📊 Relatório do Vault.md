@@ -82,19 +82,19 @@ date_created: 2026-03-16
 ## 🔗 Links Quebrados (1814)
 
 **[[01 - Personal Branding]]**:
-  - `[[PLANEJAMENTO - Organizau{00e7}u{00e3}o e direu{00e7}u{00f5}es]]` — não encontrado
+  - `[[PLANEJAMENTO - Organização e direções]]` — não encontrado
 **[[03 - Estrutura Empresarial]]**:
-  - `[[PLANEJAMENTO - Organizau{00e7}u{00e3}o e direu{00e7}u{00f5}es]]` — não encontrado
+  - `[[PLANEJAMENTO - Organização e direções]]` — não encontrado
 **[[07 - Outras Plataformas]]**:
-  - `[[PLANEJAMENTO - Organizau{00e7}u{00e3}o e direu{00e7}u{00f5}es]]` — não encontrado
+  - `[[PLANEJAMENTO - Organização e direções]]` — não encontrado
 **[[08 - Produtos Digitais]]**:
-  - `[[PLANEJAMENTO - Organizau{00e7}u{00e3}o e direu{00e7}u{00f5}es]]` — não encontrado
+  - `[[PLANEJAMENTO - Organização e direções]]` — não encontrado
 **[[09 - Funil de Vendas]]**:
-  - `[[PLANEJAMENTO - Organizau{00e7}u{00e3}o e direu{00e7}u{00f5}es]]` — não encontrado
+  - `[[PLANEJAMENTO - Organização e direções]]` — não encontrado
 **[[14 - Escala e Crescimento]]**:
-  - `[[PLANEJAMENTO - Organizau{00e7}u{00e3}o e direu{00e7}u{00f5}es]]` — não encontrado
+  - `[[PLANEJAMENTO - Organização e direções]]` — não encontrado
 **[[ACESSORIOS DE FOTOGRAFIA]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[ANHANGUERA]]**:
   - `[[ESTUDOS]]` — não encontrado
 **[[ANIVERSÁRIOS]]**:
@@ -104,31 +104,31 @@ date_created: 2026-03-16
 **[[AÇÕES]]**:
   - `[[ESTUDOS DE FINANÇAS.]]` — não encontrado
 **[[CENA 1]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[CENA 2]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[CENA 3]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[CENTRO]]**:
   - `[[QUEM SOU EU.]]` — não encontrado
   - `[[YOUTUBE (CRIAÇÃO DE CONTEÚDO)]]` — não encontrado
   - `[[ESTUDOS]]` — não encontrado
 **[[COMO ME ORGANIZO]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[COMO MELHORAR SUA FOTOGRAFIA EM 2025]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[CONT-AUDIO]]**:
-  - `[[YOUTUBE - Meu canal de vu{00ed}deos]]` — não encontrado
+  - `[[YOUTUBE - Meu canal de vídeos]]` — não encontrado
 **[[CONT-CORRIDA VLOG]]**:
-  - `[[YOUTUBE - Meu canal de vu{00ed}deos]]` — não encontrado
+  - `[[YOUTUBE - Meu canal de vídeos]]` — não encontrado
 **[[CONT-VIDEO]]**:
-  - `[[YOUTUBE - Meu canal de vu{00ed}deos]]` — não encontrado
+  - `[[YOUTUBE - Meu canal de vídeos]]` — não encontrado
 **[[COPY e Persuasão]]**:
   - `[[💼 Negócios/09 - Funil de Vendas]]` — não encontrado
   - `[[💼 Negócios/10 - Precificação]]` — não encontrado
   - `[[📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual]]` — não encontrado
 **[[CRIATIVO]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[CROCHE - Arte e Produtos]]**:
   - `[[📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual]]` — não encontrado
 **[[CRYPTO]]**:
@@ -139,7 +139,7 @@ date_created: 2026-03-16
   - `[[História da Óptica]]` — não encontrado
   - `[[Primeira Fotografia da História]]` — não encontrado
 **[[DESCANSANDO A MENTE, FOTOGRAFANDO NO ESTILO QUE MAIS GOSTO]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[DESCANSANDO A MENTE, FOTOGRAFANDO NO ESTILO QUE MAIS GOSTO.canvas]]` — não encontrado
   - `[[publicação-8.jpg]]` — não encontrado
   - `[[publicação-2.jpg]]` — não encontrado
@@ -163,7 +163,7 @@ date_created: 2026-03-16
 **[[DIARIO-HUB]]**:
   - `[[🎯 Pessoal/QUEM SOU EU]]` — não encontrado
 **[[DIAS FOTOGRAFIA DE NATUREZA CASA DA BARBARA]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[ENEM - Ciências Humanas]]**:
   - `[[ENEM - HUM - Perguntas.canvas]]` — não encontrado
   - `[[ENEM - Área de Ação.canvas]]` — não encontrado
@@ -249,7 +249,7 @@ date_created: 2026-03-16
 **[[ENEM - Redação]]**:
   - `[[ENEM - Área de Ação.canvas]]` — não encontrado
 **[[ENSAIO FOTOGRAFICO AO INVES DE FESTA]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[ANUNCIOS]]` — não encontrado
   - `[[CRIATIVOS (ANUNCIOS)]]` — não encontrado
   - `[[PLANEJAMENTO DE ANUNCIOS (CRIATIVOS)]]` — não encontrado
@@ -319,7 +319,7 @@ date_created: 2026-03-16
   - `[[ESP-Flashcards-Anki]]` — não encontrado
   - `[[ESP-Jogos-Vocabulario]]` — não encontrado
 **[[ESTOU MONTANDO UM ESTUDIO]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[ESTUDOS DE FINANÇAS]]**:
   - `[[ESTUDOS DE FINANÇAS.]]` — não encontrado
 **[[Era Pré-Fotográfica]]**:
@@ -435,7 +435,7 @@ date_created: 2026-03-16
   - `[[ELISIANE AULAS AO VIVO.]]` — não encontrado
   - `[[ANUNCIOS]]` — não encontrado
 **[[FIM DE TARDE, BRINCANDO COM UMA 18-105MM]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[FIM DE TARDE, BRINCANDO COM UMA 18-105MM.canvas]]` — não encontrado
 **[[FINANCEIRO - Dinheiro e metas]]**:
   - `[[📸 Fotografia/FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
@@ -443,24 +443,24 @@ date_created: 2026-03-16
   - `[[ANUNCIOS]]` — não encontrado
   - `[[YOUTUBE (CRIAÇÃO DE CONTEÚDO)]]` — não encontrado
 **[[FOTO - Arte]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[FOTO-O CENA 1]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[FOTO-O CENA 2]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[FOTO-O CENA 3]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[FOTOGRAFIA - Arte, técnica e negócio]]**:
   - `[[FOTOGRAFIA - Mapa dos 3 Módulos.canvas]]` — não encontrado
   - `[[INSTAGRAM - Minha vitrine digital]]` — não encontrado
 **[[FOTOGRAFIA DE RUA COM A 70-300MM.]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[FOTOGRAFIA OQUE EU ESPERO DE MIM MESMO]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[FUNIL]]**:
-  - `[[Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala]]` — não encontrado
+  - `[[Ideas Extraordinárias - Monetização e Escala]]` — não encontrado
 **[[Fotografia]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[HISTÓRIA DA FOTOGRAFIA - 200 anos]]**:
   - `[[Filme Flexível]]` — não encontrado
   - `[[Heliografia Niépce]]` — não encontrado
@@ -571,7 +571,7 @@ date_created: 2026-03-16
   - `[[Joseph Nicéphore Niépce]]` — não encontrado
   - `[[História da Fotografia Química]]` — não encontrado
 **[[IDEIAS DE VIDEO]]**:
-  - `[[YOUTUBE - Meu canal de vu{00ed}deos]]` — não encontrado
+  - `[[YOUTUBE - Meu canal de vídeos]]` — não encontrado
   - `[[MINHA LOJA DE ROUPAS]]` — não encontrado
   - `[[CROCHE, COMO COMECEI.]]` — não encontrado
   - `[[CORRIDA VLOG]]` — não encontrado
@@ -608,18 +608,18 @@ date_created: 2026-03-16
   - `[[VRGS - Estrategia Instagram 2026]]` — não encontrado
   - `[[Ideas Extraordinárias.canvas]]` — não encontrado
 **[[LENTE 105MM]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[LIDOS Q]]**:
   - `[[MAIS QUE ABENÇOADO]]` — não encontrado
   - `[[DISCIPLINA É LIBERDADE (JOCKO WILLINK)]]` — não encontrado
   - `[[NUNCA É HORA DE PARAR (DAVID GOGGINS)]]` — não encontrado
 **[[LIGHTRROM]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[DESING]]` — não encontrado
 **[[LISTA DE A FAZERES]]**:
   - `[[EVOLUÇÃO]]` — não encontrado
 **[[LISTA DE EQUIPAMENTOS]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[LOJA VRGS - E-commerce de roupas]]**:
   - `[[Mapa - Trafego pago e contingencia.canvas]]` — não encontrado
   - `[[VRGS - Estrategia Instagram 2026.canvas]]` — não encontrado
@@ -627,20 +627,20 @@ date_created: 2026-03-16
 **[[LOW TICKT]]**:
   - `[[ESTUDOS DE FINANÇAS.]]` — não encontrado
 **[[METAS DE EQUIPAMENTOS]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[YOUTUBE (CRIAÇÃO DE CONTEÚDO)]]` — não encontrado
 **[[NEG-ANUNCIOS]]**:
   - `[[LINGUAGEM DO MERCADO]]` — não encontrado
   - `[[CRIATIVOS (ANUNCIOS)]]` — não encontrado
   - `[[PLANEJAMENTO DE ANUNCIOS (CRIATIVOS)]]` — não encontrado
 **[[NEG-COPY]]**:
-  - `[[Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala]]` — não encontrado
+  - `[[Ideas Extraordinárias - Monetização e Escala]]` — não encontrado
 **[[NEG-ENTENDIMENTOS DO CONSUMO]]**:
   - `[[ESTUDOS DE FINANÇAS.]]` — não encontrado
 **[[NEG-LEADS]]**:
-  - `[[Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala]]` — não encontrado
+  - `[[Ideas Extraordinárias - Monetização e Escala]]` — não encontrado
 **[[NEG-LINGUAGEM DO MERCADO]]**:
-  - `[[Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala]]` — não encontrado
+  - `[[Ideas Extraordinárias - Monetização e Escala]]` — não encontrado
   - `[[LEADS]]` — não encontrado
   - `[[COPY]]` — não encontrado
   - `[[CONVERSÃO]]` — não encontrado
@@ -651,13 +651,13 @@ date_created: 2026-03-16
 **[[NEG-PLANEJ ANUNCIOS]]**:
   - `[[ANUNCIOS]]` — não encontrado
 **[[NEG-REMARKETING]]**:
-  - `[[Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala]]` — não encontrado
+  - `[[Ideas Extraordinárias - Monetização e Escala]]` — não encontrado
 **[[NEG-TRAFEGO ORGANICO]]**:
-  - `[[Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala]]` — não encontrado
+  - `[[Ideas Extraordinárias - Monetização e Escala]]` — não encontrado
 **[[NEG-TRAFEGO PAGO]]**:
-  - `[[Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala]]` — não encontrado
+  - `[[Ideas Extraordinárias - Monetização e Escala]]` — não encontrado
 **[[NIKON]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[NÃO LIDOS]]**:
   - `[[NÃO TEMOS DIREITO DE ESQUECER]]` — não encontrado
   - `[[GRÃOS NAEIRA]]` — não encontrado
@@ -668,11 +668,11 @@ date_created: 2026-03-16
 **[[O RICO TEM PENSAMENTO INDEPENDENTE.]]**:
   - `[[ESTUDOS DE FINANÇAS.]]` — não encontrado
 **[[PADDING PRETO e BRANCO]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[PESSOAL-HUB]]**:
   - `[[📓 Diário/DIARIO-HUB]]` — não encontrado
 **[[PHOTOSHOP]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[CANVA]]` — não encontrado
 **[[PRODUCAO - Ferramentas e Criatividade]]**:
   - `[[📸 Fotografia/METAS DE EQUIPAMENTOS]]` — não encontrado
@@ -686,9 +686,9 @@ date_created: 2026-03-16
 **[[PROGRAMAÇÃO DE PUBLICAÇÕES]]**:
   - `[[[PROGRAMADAS]]` — não encontrado
 **[[PROJETO OLHAR]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[PROJETOS CINEMATIC]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[PUBLICAÇÕES]]` — não encontrado
 **[[QUEM SOU EU]]**:
   - `[[🎯 Pessoal/PESSOAL-HUB]]` — não encontrado
@@ -707,13 +707,13 @@ date_created: 2026-03-16
 **[[SPREAD]]**:
   - `[[ELISIANE AULAS AO VIVO.]]` — não encontrado
 **[[TECNOLOGO FOTOGRAFIA]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[PROJETO INTEGRADO SÍNTESE - FOTOGRAFIA]]` — não encontrado
 **[[TESTES DE POSSIVEIS CAMISETAS]]**:
   - `[[TESTES DE POSSIVEIS CAMISETAS.canvas]]` — não encontrado
   - `[[LOJA DE ROUPAS]]` — não encontrado
 **[[TRABALHOS FOTOGRAFICOS]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[TRADE]]**:
   - `[[ESTUDOS DE FINANÇAS.]]` — não encontrado
 **[[TRAFEGO - Orgânico e Pago]]**:
@@ -790,7 +790,7 @@ date_created: 2026-03-16
   - `[[🎯 Pessoal/QUEM SOU EU]]` — não encontrado
   - `[[💼 Negócios/Meu Perfil]]` — não encontrado
 **[[VOU TROCAR DE EQUIPAMENTOS]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[VRGS - Catálogo de Produtos]]**:
   - `[[📱 Conteúdo/PHOTOSHOP]]` — não encontrado
   - `[[💰 Finanças/FINANCEIRO - Dinheiro e metas]]` — não encontrado
@@ -1149,41 +1149,41 @@ date_created: 2026-03-16
   - `[[🗂️ Arquivo/WhatsApp Image 2025-04-16 at 17.31.43 (1).jpeg]]` — não encontrado
   - `[[🗂️ Arquivo/WhatsApp Image 2025-04-16 at 17.31.43.jpeg]]` — não encontrado
 **[[coisa de fotografa]]**:
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 **[[📊 Relatório do Vault]]**:
-  - `[[PLANEJAMENTO - Organizau{00e7}u{00e3}o e direu{00e7}u{00f5}es]]` — não encontrado
-  - `[[PLANEJAMENTO - Organizau{00e7}u{00e3}o e direu{00e7}u{00f5}es]]` — não encontrado
-  - `[[PLANEJAMENTO - Organizau{00e7}u{00e3}o e direu{00e7}u{00f5}es]]` — não encontrado
-  - `[[PLANEJAMENTO - Organizau{00e7}u{00e3}o e direu{00e7}u{00f5}es]]` — não encontrado
-  - `[[PLANEJAMENTO - Organizau{00e7}u{00e3}o e direu{00e7}u{00f5}es]]` — não encontrado
-  - `[[PLANEJAMENTO - Organizau{00e7}u{00e3}o e direu{00e7}u{00f5}es]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[PLANEJAMENTO - Organização e direções]]` — não encontrado
+  - `[[PLANEJAMENTO - Organização e direções]]` — não encontrado
+  - `[[PLANEJAMENTO - Organização e direções]]` — não encontrado
+  - `[[PLANEJAMENTO - Organização e direções]]` — não encontrado
+  - `[[PLANEJAMENTO - Organização e direções]]` — não encontrado
+  - `[[PLANEJAMENTO - Organização e direções]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[ESTUDOS]]` — não encontrado
   - `[[CRIATIVO ANIVERSARIO.canvas]]` — não encontrado
   - `[[LINGUAGEM DO MERCADO]]` — não encontrado
   - `[[ESTUDOS DE FINANÇAS.]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[QUEM SOU EU.]]` — não encontrado
   - `[[YOUTUBE (CRIAÇÃO DE CONTEÚDO)]]` — não encontrado
   - `[[ESTUDOS]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
-  - `[[YOUTUBE - Meu canal de vu{00ed}deos]]` — não encontrado
-  - `[[YOUTUBE - Meu canal de vu{00ed}deos]]` — não encontrado
-  - `[[YOUTUBE - Meu canal de vu{00ed}deos]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
+  - `[[YOUTUBE - Meu canal de vídeos]]` — não encontrado
+  - `[[YOUTUBE - Meu canal de vídeos]]` — não encontrado
+  - `[[YOUTUBE - Meu canal de vídeos]]` — não encontrado
   - `[[💼 Negócios/09 - Funil de Vendas]]` — não encontrado
   - `[[💼 Negócios/10 - Precificação]]` — não encontrado
   - `[[📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual]]` — não encontrado
   - `[[ESTUDOS DE FINANÇAS.]]` — não encontrado
   - `[[Óptica na Antiguidade]]` — não encontrado
   - `[[Alhazen e a Óptica]]` — não encontrado
   - `[[História da Óptica]]` — não encontrado
   - `[[Primeira Fotografia da História]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[DESCANSANDO A MENTE, FOTOGRAFANDO NO ESTILO QUE MAIS GOSTO.canvas]]` — não encontrado
   - `[[publicação-8.jpg]]` — não encontrado
   - `[[publicação-2.jpg]]` — não encontrado
@@ -1205,7 +1205,7 @@ date_created: 2026-03-16
   - `[[publicação-11.jpg]]` — não encontrado
   - `[[publicação-10.jpg]]` — não encontrado
   - `[[🎯 Pessoal/QUEM SOU EU]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[ENEM - HUM - Perguntas.canvas]]` — não encontrado
   - `[[ENEM - Área de Ação.canvas]]` — não encontrado
   - `[[ENEM - NAT - Perguntas.canvas]]` — não encontrado
@@ -1264,7 +1264,7 @@ date_created: 2026-03-16
   - `[[ENEM - MAT - Perguntas.canvas]]` — não encontrado
   - `[[ENEM - Área de Ação.canvas]]` — não encontrado
   - `[[ENEM - Área de Ação.canvas]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[ANUNCIOS]]` — não encontrado
   - `[[CRIATIVOS (ANUNCIOS)]]` — não encontrado
   - `[[PLANEJAMENTO DE ANUNCIOS (CRIATIVOS)]]` — não encontrado
@@ -1328,7 +1328,7 @@ date_created: 2026-03-16
   - `[[ESP-Vocabulario-Tematico]]` — não encontrado
   - `[[ESP-Flashcards-Anki]]` — não encontrado
   - `[[ESP-Jogos-Vocabulario]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[ESTUDOS DE FINANÇAS.]]` — não encontrado
   - `[[Primeira Fotografia da História]]` — não encontrado
   - `[[Primeira Fotografia da História]]` — não encontrado
@@ -1436,21 +1436,21 @@ date_created: 2026-03-16
   - `[[ESTUDOS DE FINANÇAS.]]` — não encontrado
   - `[[ELISIANE AULAS AO VIVO.]]` — não encontrado
   - `[[ANUNCIOS]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[FIM DE TARDE, BRINCANDO COM UMA 18-105MM.canvas]]` — não encontrado
   - `[[📸 Fotografia/FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[ANUNCIOS]]` — não encontrado
   - `[[YOUTUBE (CRIAÇÃO DE CONTEÚDO)]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[FOTOGRAFIA - Mapa dos 3 Módulos.canvas]]` — não encontrado
   - `[[INSTAGRAM - Minha vitrine digital]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
-  - `[[Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
+  - `[[Ideas Extraordinárias - Monetização e Escala]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[Filme Flexível]]` — não encontrado
   - `[[Heliografia Niépce]]` — não encontrado
   - `[[Calótipo Fox Talbot]]` — não encontrado
@@ -1558,7 +1558,7 @@ date_created: 2026-03-16
   - `[[Primeira Fotografia da História]]` — não encontrado
   - `[[Joseph Nicéphore Niépce]]` — não encontrado
   - `[[História da Fotografia Química]]` — não encontrado
-  - `[[YOUTUBE - Meu canal de vu{00ed}deos]]` — não encontrado
+  - `[[YOUTUBE - Meu canal de vídeos]]` — não encontrado
   - `[[MINHA LOJA DE ROUPAS]]` — não encontrado
   - `[[CROCHE, COMO COMECEI.]]` — não encontrado
   - `[[CORRIDA VLOG]]` — não encontrado
@@ -1589,27 +1589,27 @@ date_created: 2026-03-16
   - `[[💼 Negócios/Banco de Ideias]]` — não encontrado
   - `[[VRGS - Estrategia Instagram 2026]]` — não encontrado
   - `[[Ideas Extraordinárias.canvas]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[MAIS QUE ABENÇOADO]]` — não encontrado
   - `[[DISCIPLINA É LIBERDADE (JOCKO WILLINK)]]` — não encontrado
   - `[[NUNCA É HORA DE PARAR (DAVID GOGGINS)]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[DESING]]` — não encontrado
   - `[[EVOLUÇÃO]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[Mapa - Trafego pago e contingencia.canvas]]` — não encontrado
   - `[[VRGS - Estrategia Instagram 2026.canvas]]` — não encontrado
   - `[[VRGS - Estrategia Instagram 2026]]` — não encontrado
   - `[[ESTUDOS DE FINANÇAS.]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[YOUTUBE (CRIAÇÃO DE CONTEÚDO)]]` — não encontrado
   - `[[LINGUAGEM DO MERCADO]]` — não encontrado
   - `[[CRIATIVOS (ANUNCIOS)]]` — não encontrado
   - `[[PLANEJAMENTO DE ANUNCIOS (CRIATIVOS)]]` — não encontrado
-  - `[[Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala]]` — não encontrado
+  - `[[Ideas Extraordinárias - Monetização e Escala]]` — não encontrado
   - `[[ESTUDOS DE FINANÇAS.]]` — não encontrado
-  - `[[Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala]]` — não encontrado
-  - `[[Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala]]` — não encontrado
+  - `[[Ideas Extraordinárias - Monetização e Escala]]` — não encontrado
+  - `[[Ideas Extraordinárias - Monetização e Escala]]` — não encontrado
   - `[[LEADS]]` — não encontrado
   - `[[COPY]]` — não encontrado
   - `[[CONVERSÃO]]` — não encontrado
@@ -1618,10 +1618,10 @@ date_created: 2026-03-16
   - `[[ROI]]` — não encontrado
   - `[[REMAKETING]]` — não encontrado
   - `[[ANUNCIOS]]` — não encontrado
-  - `[[Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala]]` — não encontrado
-  - `[[Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala]]` — não encontrado
-  - `[[Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[Ideas Extraordinárias - Monetização e Escala]]` — não encontrado
+  - `[[Ideas Extraordinárias - Monetização e Escala]]` — não encontrado
+  - `[[Ideas Extraordinárias - Monetização e Escala]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[NÃO TEMOS DIREITO DE ESQUECER]]` — não encontrado
   - `[[GRÃOS NAEIRA]]` — não encontrado
   - `[[CARTAS A UM JOVEM FOTÓGRAFO BOB WOLFENSON]]` — não encontrado
@@ -1629,9 +1629,9 @@ date_created: 2026-03-16
   - `[[PANAMÁ NÃO TEMOS DIREITO ESQUECER (LÁZARO T. MORA SECADE)]]` — não encontrado
   - `[[O GRANDE LIVRO DO BLEFADOR - DICAS PARA VOCÊ NÃO PASSAR VERGONHA EM UMA RODA DE BATE-PAPO]]` — não encontrado
   - `[[ESTUDOS DE FINANÇAS.]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[📓 Diário/DIARIO-HUB]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[CANVA]]` — não encontrado
   - `[[📸 Fotografia/METAS DE EQUIPAMENTOS]]` — não encontrado
   - `[[📸 Fotografia/PROJETOS CINEMATIC]]` — não encontrado
@@ -1642,8 +1642,8 @@ date_created: 2026-03-16
   - `[[📸 Fotografia/METAS DE EQUIPAMENTOS]]` — não encontrado
   - `[[💼 Negócios/Banco de Ideias]]` — não encontrado
   - `[[[PROGRAMADAS]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[PUBLICAÇÕES]]` — não encontrado
   - `[[🎯 Pessoal/PESSOAL-HUB]]` — não encontrado
   - `[[💼 Negócios/Meu Perfil]]` — não encontrado
@@ -1657,11 +1657,11 @@ date_created: 2026-03-16
   - `[[RUS-Nivel-Atual]]` — não encontrado
   - `[[RUS-Alfabeto-Completo]]` — não encontrado
   - `[[ELISIANE AULAS AO VIVO.]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[PROJETO INTEGRADO SÍNTESE - FOTOGRAFIA]]` — não encontrado
   - `[[TESTES DE POSSIVEIS CAMISETAS.canvas]]` — não encontrado
   - `[[LOJA DE ROUPAS]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[ESTUDOS DE FINANÇAS.]]` — não encontrado
   - `[[💼 Negócios/09 - Funil de Vendas]]` — não encontrado
   - `[[📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual]]` — não encontrado
@@ -1725,7 +1725,7 @@ date_created: 2026-03-16
   - `[[📓 Diário/DIARIO-HUB]]` — não encontrado
   - `[[🎯 Pessoal/QUEM SOU EU]]` — não encontrado
   - `[[💼 Negócios/Meu Perfil]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
   - `[[📱 Conteúdo/PHOTOSHOP]]` — não encontrado
   - `[[💰 Finanças/FINANCEIRO - Dinheiro e metas]]` — não encontrado
   - `[[📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual]]` — não encontrado
@@ -2057,7 +2057,7 @@ date_created: 2026-03-16
   - `[[🗂️ Arquivo/WhatsApp Image 2025-04-16 at 17.31.42.jpeg]]` — não encontrado
   - `[[🗂️ Arquivo/WhatsApp Image 2025-04-16 at 17.31.43 (1).jpeg]]` — não encontrado
   - `[[🗂️ Arquivo/WhatsApp Image 2025-04-16 at 17.31.43.jpeg]]` — não encontrado
-  - `[[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]` — não encontrado
+  - `[[FOTOGRAFIA - Arte, técnica e negócio]]` — não encontrado
 
 
 ### 💡 Sugestões de Correção de Links (658)
@@ -2084,22 +2084,22 @@ date_created: 2026-03-16
 | [[_Index_of_ponto 000]] | `📸 Fotografia/_Index_of_📸 Fotografia` | [[_Index_of_📸 Fotografia]] | 77% |
 | [[_Index_of_ponto 000]] | `🔒 Seguro/_Index_of_🔒 Seguro` | [[_Index_of_🔒 Seguro]] | 80% |
 | [[_Index_of_ponto 000]] | `🗂️ Arquivo/_Index_of_🗂️ Arquivo` | [[_Index_of_🗂️ Arquivo]] | 78% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[📊 Relatório do Vault]] | `YOUTUBE - Meu canal de vu{00ed}deos` | [[YOUTUBE - Meu canal de vídeos]] | 88% |
-| [[📊 Relatório do Vault]] | `YOUTUBE - Meu canal de vu{00ed}deos` | [[YOUTUBE - Meu canal de vídeos]] | 88% |
-| [[📊 Relatório do Vault]] | `YOUTUBE - Meu canal de vu{00ed}deos` | [[YOUTUBE - Meu canal de vídeos]] | 88% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `YOUTUBE - Meu canal de vídeos` | [[YOUTUBE - Meu canal de vídeos]] | 88% |
+| [[📊 Relatório do Vault]] | `YOUTUBE - Meu canal de vídeos` | [[YOUTUBE - Meu canal de vídeos]] | 88% |
+| [[📊 Relatório do Vault]] | `YOUTUBE - Meu canal de vídeos` | [[YOUTUBE - Meu canal de vídeos]] | 88% |
 | [[📊 Relatório do Vault]] | `💼 Negócios/09 - Funil de Vendas` | [[09 - Funil de Vendas]] | 78% |
 | [[📊 Relatório do Vault]] | `💼 Negócios/10 - Precificação` | [[10 - Precificação]] | 76% |
 | [[📊 Relatório do Vault]] | `📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual` | [[INSTAGRAM - Minha vitrine visual]] | 75% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[📊 Relatório do Vault]] | `📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual` | [[INSTAGRAM - Minha vitrine visual]] | 75% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[📊 Relatório do Vault]] | `ENEM - Área de Ação.canvas` | [[ENEM - Redação]] | 70% |
 | [[📊 Relatório do Vault]] | `ENEM - Área de Ação.canvas` | [[ENEM - Redação]] | 70% |
 | [[📊 Relatório do Vault]] | `ENEM - Área de Ação.canvas` | [[ENEM - Redação]] | 70% |
@@ -2126,7 +2126,7 @@ date_created: 2026-03-16
 | [[📊 Relatório do Vault]] | `ENEM - Área de Ação.canvas` | [[ENEM - Redação]] | 70% |
 | [[📊 Relatório do Vault]] | `ENEM - Área de Ação.canvas` | [[ENEM - Redação]] | 70% |
 | [[📊 Relatório do Vault]] | `ENEM - Área de Ação.canvas` | [[ENEM - Redação]] | 70% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[📊 Relatório do Vault]] | `ANUNCIOS` | [[NEG-ANUNCIOS]] | 80% |
 | [[📊 Relatório do Vault]] | `ESP-Frases-Viagem` | [[ESP-Frases-Uteis]] | 73% |
 | [[📊 Relatório do Vault]] | `ESP-Vocabulario-Tematico` | [[ESP-Vocabulario-Diario]] | 83% |
@@ -2141,21 +2141,21 @@ date_created: 2026-03-16
 | [[📊 Relatório do Vault]] | `ESP-Canal-Espanhol-2` | [[ESP-HUB-Espanhol]] | 72% |
 | [[📊 Relatório do Vault]] | `ESP-Canal-Espanhol-3` | [[ESP-HUB-Espanhol]] | 72% |
 | [[📊 Relatório do Vault]] | `ESP-Vocabulario-Tematico` | [[ESP-Vocabulario-Diario]] | 83% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[📊 Relatório do Vault]] | `Fotografia Pós-Moderna` | [[Era da Fotografia Moderna]] | 77% |
 | [[📊 Relatório do Vault]] | `ANUNCIOS` | [[NEG-ANUNCIOS]] | 80% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[📊 Relatório do Vault]] | `📸 Fotografia/FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 85% |
 | [[📊 Relatório do Vault]] | `ANUNCIOS` | [[NEG-ANUNCIOS]] | 80% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[📊 Relatório do Vault]] | `INSTAGRAM - Minha vitrine digital` | [[INSTAGRAM - Minha vitrine visual]] | 89% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[📊 Relatório do Vault]] | `Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `Ideas Extraordinárias - Monetização e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[📊 Relatório do Vault]] | `Daguerreótipo/Colódio` | [[Daguerreótipo]] | 76% |
 | [[📊 Relatório do Vault]] | `Sobre Fotografia` | [[Fotografia]] | 77% |
 | [[📊 Relatório do Vault]] | `A História da Fotografia` | [[HISTÓRIA DA FOTOGRAFIA - 200 anos]] | 77% |
@@ -2163,7 +2163,7 @@ date_created: 2026-03-16
 | [[📊 Relatório do Vault]] | `Era Contemporânea` | [[Era da Fotografia Contemporânea]] | 71% |
 | [[📊 Relatório do Vault]] | `Daguerre` | [[Daguerreótipo]] | 76% |
 | [[📊 Relatório do Vault]] | `História da Fotografia Química` | [[Era da Fotografia Química]] | 87% |
-| [[📊 Relatório do Vault]] | `YOUTUBE - Meu canal de vu{00ed}deos` | [[YOUTUBE - Meu canal de vídeos]] | 88% |
+| [[📊 Relatório do Vault]] | `YOUTUBE - Meu canal de vídeos` | [[YOUTUBE - Meu canal de vídeos]] | 88% |
 | [[📊 Relatório do Vault]] | `MINHA LOJA DE ROUPAS` | [[VRGS-LOJA DE ROUPAS]] | 72% |
 | [[📊 Relatório do Vault]] | `CROCHE, COMO COMECEI.` | [[VRGS-CROCHE COMO COMECEI]] | 84% |
 | [[📊 Relatório do Vault]] | `CORRIDA VLOG` | [[CONT-CORRIDA VLOG]] | 83% |
@@ -2175,25 +2175,25 @@ date_created: 2026-03-16
 | [[📊 Relatório do Vault]] | `💼 Negócios/04 - Monetização Instagram` | [[04 - Monetização Instagram]] | 83% |
 | [[📊 Relatório do Vault]] | `💼 Negócios/TRAFEGO - Orgânico e Pago` | [[TRAFEGO - Orgânico e Pago]] | 82% |
 | [[📊 Relatório do Vault]] | `💼 Negócios/Banco de Ideias` | [[Banco de Ideias]] | 73% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[📊 Relatório do Vault]] | `DESING` | [[VRGS-desing]] | 71% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[📊 Relatório do Vault]] | `Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
-| [[📊 Relatório do Vault]] | `Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
-| [[📊 Relatório do Vault]] | `Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `Ideas Extraordinárias - Monetização e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
+| [[📊 Relatório do Vault]] | `Ideas Extraordinárias - Monetização e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
+| [[📊 Relatório do Vault]] | `Ideas Extraordinárias - Monetização e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
 | [[📊 Relatório do Vault]] | `LEADS` | [[NEG-LEADS]] | 71% |
 | [[📊 Relatório do Vault]] | `TRAFEGO PAGO` | [[NEG-TRAFEGO PAGO]] | 86% |
 | [[📊 Relatório do Vault]] | `TRAFEGO ORGANICO` | [[NEG-TRAFEGO ORGANICO]] | 89% |
 | [[📊 Relatório do Vault]] | `REMAKETING` | [[NEG-REMARKETING]] | 80% |
 | [[📊 Relatório do Vault]] | `ANUNCIOS` | [[NEG-ANUNCIOS]] | 80% |
-| [[📊 Relatório do Vault]] | `Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
-| [[📊 Relatório do Vault]] | `Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
-| [[📊 Relatório do Vault]] | `Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `Ideas Extraordinárias - Monetização e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
+| [[📊 Relatório do Vault]] | `Ideas Extraordinárias - Monetização e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
+| [[📊 Relatório do Vault]] | `Ideas Extraordinárias - Monetização e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[📊 Relatório do Vault]] | `📸 Fotografia/METAS DE EQUIPAMENTOS` | [[METAS DE EQUIPAMENTOS]] | 76% |
 | [[📊 Relatório do Vault]] | `📸 Fotografia/PROJETOS CINEMATIC` | [[PROJETOS CINEMATIC]] | 73% |
 | [[📊 Relatório do Vault]] | `💼 Negócios/Banco de Ideias` | [[Banco de Ideias]] | 73% |
@@ -2201,12 +2201,12 @@ date_created: 2026-03-16
 | [[📊 Relatório do Vault]] | `📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual` | [[INSTAGRAM - Minha vitrine visual]] | 75% |
 | [[📊 Relatório do Vault]] | `📸 Fotografia/METAS DE EQUIPAMENTOS` | [[METAS DE EQUIPAMENTOS]] | 76% |
 | [[📊 Relatório do Vault]] | `💼 Negócios/Banco de Ideias` | [[Banco de Ideias]] | 73% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[📊 Relatório do Vault]] | `TESTES DE POSSIVEIS CAMISETAS.canvas` | [[TESTES DE POSSIVEIS CAMISETAS]] | 89% |
 | [[📊 Relatório do Vault]] | `LOJA DE ROUPAS` | [[VRGS-LOJA DE ROUPAS]] | 85% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[📊 Relatório do Vault]] | `💼 Negócios/09 - Funil de Vendas` | [[09 - Funil de Vendas]] | 78% |
 | [[📊 Relatório do Vault]] | `📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual` | [[INSTAGRAM - Minha vitrine visual]] | 75% |
 | [[📊 Relatório do Vault]] | `AULA 5 - ENCERRAMENTO DA UNIDADE - IDADE MEDIA E IDADE MODERNA` | [[UNIDADE 2 - IDADE MEDIA E IDADE MODERNA]] | 73% |
@@ -2228,7 +2228,7 @@ date_created: 2026-03-16
 | [[📊 Relatório do Vault]] | `💰 Finanças/INVESTIMENTOS - Estudos e Estratégias` | [[INVESTIMENTOS - Estudos e Estratégias]] | 87% |
 | [[📊 Relatório do Vault]] | `📚 Estudos/ESTUDOS E CURSOS - Meu aprendizado` | [[ESTUDOS E CURSOS - Meu aprendizado]] | 87% |
 | [[📊 Relatório do Vault]] | `📚 Estudos/LEITURA - Livros e conhecimento` | [[LEITURA - Livros e conhecimento]] | 86% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[📊 Relatório do Vault]] | `💰 Finanças/FINANCEIRO - Dinheiro e metas` | [[FINANCEIRO - Dinheiro e metas]] | 84% |
 | [[📊 Relatório do Vault]] | `📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual` | [[INSTAGRAM - Minha vitrine visual]] | 75% |
 | [[📊 Relatório do Vault]] | `LOJA DE ROUPAS` | [[VRGS-LOJA DE ROUPAS]] | 85% |
@@ -2412,35 +2412,35 @@ date_created: 2026-03-16
 | [[📊 Relatório do Vault]] | `🗂️ Arquivo/SUMI POR ALGUNS MESES, OQUE MUDOU...` | [[SUMI POR ALGUNS MESES, OQUE MUDOU]] | 82% |
 | [[📊 Relatório do Vault]] | `🗂️ Arquivo/TESTES DE POSSIVEIS CAMISETAS` | [[TESTES DE POSSIVEIS CAMISETAS]] | 84% |
 | [[📊 Relatório do Vault]] | `🗂️ Arquivo/TRABALHE, TREINE, FOQUE, PRODUZA, REPITA O PROCESSO.` | [[TRABALHE, TREINE, FOQUE, PRODUZA, REPITA O PROCESSO]] | 89% |
-| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[📊 Relatório do Vault]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[_Index_of_🔒 Seguro]] | `🔒 Seguro/senhas perfis` | [[senhas perfis]] | 74% |
-| [[NEG-REMARKETING]] | `Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
+| [[NEG-REMARKETING]] | `Ideas Extraordinárias - Monetização e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
 | [[FORMAS DE AUMENTAR O DINHEIRO]] | `ANUNCIOS` | [[NEG-ANUNCIOS]] | 80% |
 | [[VRGS-SAPATOS]] | `LOJA DE ROUPAS` | [[VRGS-LOJA DE ROUPAS]] | 85% |
 | [[VRGS-BAGS]] | `LOJA DE ROUPAS` | [[VRGS-LOJA DE ROUPAS]] | 85% |
-| [[FOTO-O CENA 1]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[FOTO-O CENA 1]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[VRGS-ACESSORIOS]] | `LOJA DE ROUPAS` | [[VRGS-LOJA DE ROUPAS]] | 85% |
 | [[VRGS-REGATAS]] | `LOJA DE ROUPAS` | [[VRGS-LOJA DE ROUPAS]] | 85% |
 | [[VRGS-DESENHO]] | `DESING` | [[VRGS-desing]] | 71% |
-| [[NEG-LINGUAGEM DO MERCADO]] | `Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
+| [[NEG-LINGUAGEM DO MERCADO]] | `Ideas Extraordinárias - Monetização e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
 | [[NEG-LINGUAGEM DO MERCADO]] | `LEADS` | [[NEG-LEADS]] | 71% |
 | [[NEG-LINGUAGEM DO MERCADO]] | `TRAFEGO PAGO` | [[NEG-TRAFEGO PAGO]] | 86% |
 | [[NEG-LINGUAGEM DO MERCADO]] | `TRAFEGO ORGANICO` | [[NEG-TRAFEGO ORGANICO]] | 89% |
 | [[NEG-LINGUAGEM DO MERCADO]] | `REMAKETING` | [[NEG-REMARKETING]] | 80% |
-| [[CONT-AUDIO]] | `YOUTUBE - Meu canal de vu{00ed}deos` | [[YOUTUBE - Meu canal de vídeos]] | 88% |
+| [[CONT-AUDIO]] | `YOUTUBE - Meu canal de vídeos` | [[YOUTUBE - Meu canal de vídeos]] | 88% |
 | [[VRGS-BLUSAS]] | `LOJA DE ROUPAS` | [[VRGS-LOJA DE ROUPAS]] | 85% |
 | [[VRGS-TOCAS BONES]] | `LOJA DE ROUPAS` | [[VRGS-LOJA DE ROUPAS]] | 85% |
-| [[CONT-CORRIDA VLOG]] | `YOUTUBE - Meu canal de vu{00ed}deos` | [[YOUTUBE - Meu canal de vídeos]] | 88% |
+| [[CONT-CORRIDA VLOG]] | `YOUTUBE - Meu canal de vídeos` | [[YOUTUBE - Meu canal de vídeos]] | 88% |
 | [[VRGS-CROCHE-antigo]] | `LOJA DE ROUPAS` | [[VRGS-LOJA DE ROUPAS]] | 85% |
-| [[NEG-TRAFEGO PAGO]] | `Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
-| [[NEG-LEADS]] | `Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
-| [[NEG-COPY]] | `Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
+| [[NEG-TRAFEGO PAGO]] | `Ideas Extraordinárias - Monetização e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
+| [[NEG-LEADS]] | `Ideas Extraordinárias - Monetização e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
+| [[NEG-COPY]] | `Ideas Extraordinárias - Monetização e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
 | [[VRGS-CAMISETAS]] | `LOJA DE ROUPAS` | [[VRGS-LOJA DE ROUPAS]] | 85% |
 | [[VRGS-BRINDES]] | `LOJA DE ROUPAS` | [[VRGS-LOJA DE ROUPAS]] | 85% |
-| [[NEG-TRAFEGO ORGANICO]] | `Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
+| [[NEG-TRAFEGO ORGANICO]] | `Ideas Extraordinárias - Monetização e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
 | [[NEG-PLANEJ ANUNCIOS]] | `ANUNCIOS` | [[NEG-ANUNCIOS]] | 80% |
-| [[FOTO-O CENA 2]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[FOTO-O CENA 3]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[FOTO-O CENA 2]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[FOTO-O CENA 3]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[VRGS-CAMISAS]] | `LOJA DE ROUPAS` | [[VRGS-LOJA DE ROUPAS]] | 85% |
 | [[_Index_of_🗂️ Arquivo]] | `🗂️ Arquivo/_Index_of_ponto 000` | [[_Index_of_ponto 000]] | 78% |
 | [[_Index_of_🗂️ Arquivo]] | `🗂️ Arquivo/000 - Um novo Eu, um novo começo definitivo.` | [[000 - Um novo Eu, um novo começo definitivo]] | 88% |
@@ -2460,9 +2460,9 @@ date_created: 2026-03-16
 | [[_Index_of_🗂️ Arquivo]] | `🗂️ Arquivo/SUMI POR ALGUNS MESES, OQUE MUDOU...` | [[SUMI POR ALGUNS MESES, OQUE MUDOU]] | 82% |
 | [[_Index_of_🗂️ Arquivo]] | `🗂️ Arquivo/TESTES DE POSSIVEIS CAMISETAS` | [[TESTES DE POSSIVEIS CAMISETAS]] | 84% |
 | [[_Index_of_🗂️ Arquivo]] | `🗂️ Arquivo/TRABALHE, TREINE, FOQUE, PRODUZA, REPITA O PROCESSO.` | [[TRABALHE, TREINE, FOQUE, PRODUZA, REPITA O PROCESSO]] | 89% |
-| [[CONT-VIDEO]] | `YOUTUBE - Meu canal de vu{00ed}deos` | [[YOUTUBE - Meu canal de vídeos]] | 88% |
-| [[FIM DE TARDE, BRINCANDO COM UMA 18-105MM]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[CENA 2]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[CONT-VIDEO]] | `YOUTUBE - Meu canal de vídeos` | [[YOUTUBE - Meu canal de vídeos]] | 88% |
+| [[FIM DE TARDE, BRINCANDO COM UMA 18-105MM]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[CENA 2]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[_Index_of_📸 Fotografia]] | `📸 Fotografia/ACESSORIOS DE FOTOGRAFIA` | [[ACESSORIOS DE FOTOGRAFIA]] | 79% |
 | [[_Index_of_📸 Fotografia]] | `📸 Fotografia/AUDIOVISUAL - Minha área completa` | [[AUDIOVISUAL - Minha área completa]] | 84% |
 | [[_Index_of_📸 Fotografia]] | `📸 Fotografia/coisa de fotografa` | [[coisa de fotografa]] | 73% |
@@ -2502,43 +2502,43 @@ date_created: 2026-03-16
 | [[_Index_of_📸 Fotografia]] | `📸 Fotografia/VÓ, MINHA VEINHA SIMPATICA` | [[VÓ, MINHA VEINHA SIMPATICA]] | 80% |
 | [[_Index_of_📸 Fotografia]] | `📸 Fotografia/VOU TROCAR DE EQUIPAMENTOS` | [[VOU TROCAR DE EQUIPAMENTOS]] | 80% |
 | [[Heliografia de Niépce]] | `História da Fotografia Química` | [[Era da Fotografia Química]] | 87% |
-| [[COMO MELHORAR SUA FOTOGRAFIA EM 2025]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[PADDING PRETO e BRANCO]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[DESCANSANDO A MENTE, FOTOGRAFANDO NO ESTILO QUE MAIS GOSTO]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[COMO ME ORGANIZO]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[PROJETOS CINEMATIC]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[LISTA DE EQUIPAMENTOS]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[VOU TROCAR DE EQUIPAMENTOS]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[COMO MELHORAR SUA FOTOGRAFIA EM 2025]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[PADDING PRETO e BRANCO]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[DESCANSANDO A MENTE, FOTOGRAFANDO NO ESTILO QUE MAIS GOSTO]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[COMO ME ORGANIZO]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[PROJETOS CINEMATIC]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[LISTA DE EQUIPAMENTOS]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[VOU TROCAR DE EQUIPAMENTOS]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[VÓ, MINHA VEINHA SIMPATICA]] | `VÓ, MINHA VEINHA SIMPATICA.canvas` | [[VÓ, MINHA VEINHA SIMPATICA]] | 88% |
-| [[FOTOGRAFIA OQUE EU ESPERO DE MIM MESMO]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[FOTOGRAFIA OQUE EU ESPERO DE MIM MESMO]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[HISTÓRIA DA FOTOGRAFIA - 200 anos]] | `Daguerreótipo/Colódio` | [[Daguerreótipo]] | 76% |
 | [[HISTÓRIA DA FOTOGRAFIA - 200 anos]] | `Sobre Fotografia` | [[Fotografia]] | 77% |
 | [[HISTÓRIA DA FOTOGRAFIA - 200 anos]] | `A História da Fotografia` | [[HISTÓRIA DA FOTOGRAFIA - 200 anos]] | 77% |
 | [[HISTÓRIA DA FOTOGRAFIA - 200 anos]] | `Evolução da Fotografia de Moda` | [[Era da Fotografia Moderna]] | 73% |
 | [[HISTÓRIA DA FOTOGRAFIA - 200 anos]] | `Era Contemporânea` | [[Era da Fotografia Contemporânea]] | 71% |
 | [[HISTÓRIA DA FOTOGRAFIA - 200 anos]] | `Daguerre` | [[Daguerreótipo]] | 76% |
-| [[TECNOLOGO FOTOGRAFIA]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[CRIATIVO]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[LIGHTRROM]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[TECNOLOGO FOTOGRAFIA]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[CRIATIVO]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[LIGHTRROM]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[LIGHTRROM]] | `DESING` | [[VRGS-desing]] | 71% |
 | [[Era da Fotografia Contemporânea]] | `Fotografia Pós-Moderna` | [[Era da Fotografia Moderna]] | 77% |
-| [[TRABALHOS FOTOGRAFICOS]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[ACESSORIOS DE FOTOGRAFIA]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[DIAS FOTOGRAFIA DE NATUREZA CASA DA BARBARA]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[FOTOGRAFIA DE RUA COM A 70-300MM.]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[coisa de fotografa]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[ESTOU MONTANDO UM ESTUDIO]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[TRABALHOS FOTOGRAFICOS]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[ACESSORIOS DE FOTOGRAFIA]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[DIAS FOTOGRAFIA DE NATUREZA CASA DA BARBARA]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[FOTOGRAFIA DE RUA COM A 70-300MM.]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[coisa de fotografa]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[ESTOU MONTANDO UM ESTUDIO]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[FOTOGRAFIA - Arte, técnica e negócio]] | `INSTAGRAM - Minha vitrine digital` | [[INSTAGRAM - Minha vitrine visual]] | 89% |
-| [[CENA 3]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[PROJETO OLHAR]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[CENA 1]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[ENSAIO FOTOGRAFICO AO INVES DE FESTA]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[CENA 3]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[PROJETO OLHAR]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[CENA 1]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[ENSAIO FOTOGRAFICO AO INVES DE FESTA]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[ENSAIO FOTOGRAFICO AO INVES DE FESTA]] | `ANUNCIOS` | [[NEG-ANUNCIOS]] | 80% |
-| [[METAS DE EQUIPAMENTOS]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[FOTO - Arte]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[LENTE 105MM]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[NIKON]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
-| [[Fotografia]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[METAS DE EQUIPAMENTOS]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[FOTO - Arte]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[LENTE 105MM]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[NIKON]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[Fotografia]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[ESP-HUB-Espanhol]] | `ESP-Vocabulario-Tematico` | [[ESP-Vocabulario-Diario]] | 83% |
 | [[ESP-HUB-Espanhol]] | `ESP-Vocabulario-Cuba` | [[ESP-Vocabulario-Diario]] | 81% |
 | [[ESP-HUB-Espanhol]] | `ESP-Vocabulario-Madrid` | [[ESP-Vocabulario-Diario]] | 86% |
@@ -2661,10 +2661,10 @@ date_created: 2026-03-16
 | [[PRODUCAO - Ferramentas e Criatividade]] | `📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual` | [[INSTAGRAM - Minha vitrine visual]] | 75% |
 | [[PRODUCAO - Ferramentas e Criatividade]] | `📸 Fotografia/METAS DE EQUIPAMENTOS` | [[METAS DE EQUIPAMENTOS]] | 76% |
 | [[PRODUCAO - Ferramentas e Criatividade]] | `💼 Negócios/Banco de Ideias` | [[Banco de Ideias]] | 73% |
-| [[PHOTOSHOP]] | `FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
+| [[PHOTOSHOP]] | `FOTOGRAFIA - Arte, técnica e negócio` | [[FOTOGRAFIA - Arte, técnica e negócio]] | 81% |
 | [[_Index_of_📱 Conteúdo]] | `📱 Conteúdo/CORRIDA VLOG` | [[CONT-CORRIDA VLOG]] | 80% |
 | [[_Index_of_📱 Conteúdo]] | `📱 Conteúdo/CRIATIVIDADE` | [[CONT-CRIATIVIDADE]] | 80% |
-| [[IDEIAS DE VIDEO]] | `YOUTUBE - Meu canal de vu{00ed}deos` | [[YOUTUBE - Meu canal de vídeos]] | 88% |
+| [[IDEIAS DE VIDEO]] | `YOUTUBE - Meu canal de vídeos` | [[YOUTUBE - Meu canal de vídeos]] | 88% |
 | [[IDEIAS DE VIDEO]] | `MINHA LOJA DE ROUPAS` | [[VRGS-LOJA DE ROUPAS]] | 72% |
 | [[IDEIAS DE VIDEO]] | `CROCHE, COMO COMECEI.` | [[VRGS-CROCHE COMO COMECEI]] | 84% |
 | [[IDEIAS DE VIDEO]] | `CORRIDA VLOG` | [[CONT-CORRIDA VLOG]] | 83% |
@@ -2709,7 +2709,7 @@ date_created: 2026-03-16
 | [[_Index_of_💼 Negócios]] | `💼 Negócios/TRAFEGO PAGO` | [[NEG-TRAFEGO PAGO]] | 77% |
 | [[TRAFEGO - Orgânico e Pago]] | `💼 Negócios/09 - Funil de Vendas` | [[09 - Funil de Vendas]] | 78% |
 | [[TRAFEGO - Orgânico e Pago]] | `📱 Conteúdo/Instagram/INSTAGRAM - Minha vitrine visual` | [[INSTAGRAM - Minha vitrine visual]] | 75% |
-| [[FUNIL]] | `Ideas Extraordinu{00e1}rias - Monetizau{00e7}u{00e3}o e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
+| [[FUNIL]] | `Ideas Extraordinárias - Monetização e Escala` | [[Ideas Extraordinárias - Monetização e Escala]] | 77% |
 | [[_Index_of_💰 Finanças]] | `💰 Finanças/DINHEIRO (CONTROLE DE GASTOS)` | [[DINHEIRO (CONTROLE DE GASTOS)]] | 84% |
 | [[_Index_of_💰 Finanças]] | `💰 Finanças/ESTUDOS DE FINANÇAS.` | [[ESTUDOS DE FINANÇAS]] | 76% |
 | [[_Index_of_💰 Finanças]] | `💰 Finanças/FINANCEIRO - Dinheiro e metas` | [[FINANCEIRO - Dinheiro e metas]] | 84% |

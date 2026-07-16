@@ -1,4 +1,4 @@
-Categoria: [[YOUTUBE - Meu canal de vu{00ed}deos]]
+Categoria: [[YOUTUBE - Meu canal de vídeos]]
 
 [[FIM DA ESCOLA INICIO DOS MEUS PLANOS]] 
 [[FOTOGRAFIA OQUE EU ESPERO DE MIM MESMO]]

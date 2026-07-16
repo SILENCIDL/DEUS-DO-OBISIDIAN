@@ -1,4 +1,4 @@
-Categoria: [[PLANEJAMENTO - Organizau{00e7}u{00e3}o e direu{00e7}u{00f5}es]]
+Categoria: [[PLANEJAMENTO - Organização e direções]]
 
 # 🌐 OUTRAS PLATAFORMAS DE MONETIZAÇÃO
 

@@ -1,4 +1,4 @@
-Categoria: [[FOTOGRAFIA - Arte, tu{00e9}cnica e negu{00f3}cio]]
+Categoria: [[FOTOGRAFIA - Arte, técnica e negócio]]
 
 [[ESTÉTICA E HISTÓRIA DA ARTE]]
 [[PROJETO INTEGRADO SÍNTESE - FOTOGRAFIA]]
