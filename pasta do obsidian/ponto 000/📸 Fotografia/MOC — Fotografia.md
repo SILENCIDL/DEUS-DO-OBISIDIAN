@@ -96,26 +96,32 @@ Já existem exercícios dentro dos módulos e em [[Exercícios Práticos]]. Cada
 ## 11. Estudos de caso
 *(A criar)* — análise de fotos suas e de mestres. Ver referências em [[FOTO - Arte]] e [[FOTOGRAFIA - Arte, técnica e negócio]].
 
-## 12. Lacunas atuais (o que falta ensinar)
-> Estas são notas que **precisam existir** porque estão nos seus interesses mas não têm conteúdo próprio:
+## 12. Lacunas — agora preenchidas ✅
+> Estas notas foram criadas para cobrir interesses que não tinham conteúdo próprio:
 
+| Tema | Nota | Status |
+|------|------|--------|
+| **Óptica (como a lente funciona)** | [[Óptica — Como a Lente Forma a Imagem]] | ✅ criada |
+| **Direção de pessoas** | [[Direção de Pessoas — Conduzir o Retrato]] | ✅ criada |
+| **Iluminação artificial (flash/estúdio)** | [[Iluminação Artificial — Flash e Estúdio]] | ✅ criada |
+| **Gestão de cor** | [[Gestão de Cor — Do Sensor à Impressão]] | ✅ criada |
+| **Manutenção de câmeras e lentes** | [[Manutenção de Câmeras e Lentes]] | ✅ criada |
+
+### Lacunas ainda abertas
 | Lacuna | Por que importa |
 |--------|-----------------|
-| **Direção de pessoas** | Você fotografa retrato/eventos; dirigir modelo define a foto |
-| **Iluminação artificial (flash/estúdio)** | Só luz natural está coberta a fundo |
-| **Gestão de cor** | Espaço de cor, calibração e perfis afetam edição e impressão |
-| **Manutenção de câmeras e lentes** | Interesse seu; protege o patrimônio (equipamento) |
-| **Óptica (como a lente funciona)** | Fundamenta distância focal, nitidez e manutenção |
+| **Vídeo / Audiovisual** | Estende a fotografia; ver [[AUDIOVISUAL - Minha área completa]] |
+| **Estudos de caso** | Analisar fotos suas e de mestres (Nível 5) |
+| **Ensinar / mentoria** | Fechar o ciclo (Nível 7) |
 
 ## 13. Notas futuras propostas
 | Ordem | Nota futura | Tipo | Nível | Pré-requisito |
 |---:|---|---|---|---|
-| 1 | [[Currículo — Fotografia]] | trilha | 0 | este MOC |
-| 2 | [[Observação e Intenção — Aprender a Ver]] | aula | 1 | Currículo |
-| 3 | [[Direção de Pessoas — Conduzir o Retrato]] | aula | 3 | Composição, Luz |
-| 4 | [[Iluminação Artificial — Flash e Estúdio]] | aula | 3 | Exposição, Luz natural |
-| 5 | [[Gestão de Cor — Do Sensor à Impressão]] | aula | 3 | Edição |
-| 6 | [[Manutenção de Câmeras e Lentes]] | procedimento | 3 | Óptica |
+| 1 | [[Currículo — Fotografia]] ✅ | trilha | 0 | este MOC |
+| 2 | [[Observação e Intenção — Aprender a Ver]] ✅ | aula | 1 | Currículo |
+| 3 | [[Referências e Repertório Visual]] | técnica | 2 | Observação |
+| 4 | [[O Momento Decisivo]] | conceito | 2 | Composição |
+| 5 | [[Estudo de Caso — Analisando uma Foto]] | estudo-de-caso | 5 | Composição, Cor |
 
 ## 14. Relações com outras áreas
 | Área | Conexão | Motivo |
